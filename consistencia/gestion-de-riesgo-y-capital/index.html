@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.723781541958">
+
+    <!-- See retype.com -->
+    <meta name="generator" content="Retype 2.4.0">
+
+    <!-- Primary Meta Tags -->
+    <title>Gesti&#243;n de riesgo y capital</title>
+    <meta name="title" content="Gestión de riesgo y capital">
+    <meta name="description" content="Pensaba que aquello que baje, tarde o temprano iba a subir, y por alguna extraña razón, que las subidas" />
+
+    <!-- Canonical -->
+    <link rel="canonical" href="/consistencia/gestion-de-riesgo-y-capital/" />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="/consistencia/gestion-de-riesgo-y-capital/">
+    <meta property="og:title" content="Gestión de riesgo y capital">
+    <meta property="og:description" content="Pensaba que aquello que baje, tarde o temprano iba a subir, y por alguna extraña razón, que las subidas">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="/consistencia/gestion-de-riesgo-y-capital/">
+    <meta property="twitter:title" content="Gestión de riesgo y capital">
+    <meta property="twitter:description" content="Pensaba que aquello que baje, tarde o temprano iba a subir, y por alguna extraña razón, que las subidas">
+
+    <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
+
+    <link href="../../resources/css/retype.css?v=2.4.0.723781541958" rel="stylesheet" />
+
+    <script type="text/javascript" src="../../resources/js/config.js?v=2.4.0.723781541958" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="../../resources/js/retype.js?v=2.4.0" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=2.4.0.723781541958" data-turbo-eval="false" defer></script>
+</head>
+<body>
+    <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
+        <div class="absolute bottom-0 left-0 bg-gray-100 dark:bg-dark-800" style="top: 5rem; right: 50%"></div>
+    
+        <header id="docs-site-header" class="sticky top-0 z-30 flex w-full h-16 bg-white border-b border-gray-200 md:h-20 dark:bg-dark-850 dark:border-dark-650">
+            <div class="container relative flex items-center justify-between grow pr-6 md:justify-start">
+                <!-- Mobile menu button skeleton -->
+                <button v-cloak class="skeleton docs-mobile-menu-button flex items-center justify-center shrink-0 overflow-hidden dark:text-white focus:outline-none rounded-full w-10 h-10 ml-3.5 md:hidden"><svg xmlns="http://www.w3.org/2000/svg" class="mb-px shrink-0" width="24" height="24" viewBox="0 0 24 24" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor"><path d="M2 4h20v2H2zM2 11h20v2H2zM2 18h20v2H2z"></path></g></svg></button>
+                <div v-cloak id="docs-sidebar-toggle"></div>
+        
+                <!-- Logo -->
+                <div class="flex items-center justify-between h-full py-2 md:w-75">
+                    <div class="flex items-center px-2 md:px-6">
+                        <a id="docs-site-logo" href="../../" class="flex items-center leading-snug text-2xl">
+                            <span class="dark:text-white font-semibold line-clamp-1 md:line-clamp-2">Project Name</span>
+                        </a><span class="hidden px-2 py-1 ml-4 text-sm font-semibold leading-none text-root-logo-label-text bg-root-logo-label-bg rounded-sm md:inline-block">Docs</span>
+                    </div>
+        
+                    <span class="hidden h-8 border-r md:inline-block dark:border-dark-650"></span>
+                </div>
+        
+                <div class="flex justify-between md:grow">
+                    <!-- Top Nav -->
+                    <nav class="hidden md:flex">
+                        <ul class="flex flex-col mb-4 md:pl-16 md:mb-0 md:flex-row md:items-center">
+                            <li class="mr-6">
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="https://retype.com/guides/getting-started/">Getting Started</a>
+                            </li>
+        
+                        </ul>
+                    </nav>
+        
+                    <!-- Header Right Skeleton -->
+                    <div v-cloak class="flex justify-end grow skeleton">
+        
+                        <!-- Search input mock -->
+                        <div class="relative hidden w-40 lg:block lg:max-w-sm lg:ml-auto">
+                            <div class="absolute flex items-center justify-center h-full pl-3 dark:text-dark-300">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="icon-base" width="16" height="16" viewBox="0 0 24 24" aria-labelledby="icon" role="presentation"  style="margin-bottom: 1px;"><g fill="currentColor" ><path d="M21.71 20.29l-3.68-3.68A8.963 8.963 0 0020 11c0-4.96-4.04-9-9-9s-9 4.04-9 9 4.04 9 9 9c2.12 0 4.07-.74 5.61-1.97l3.68 3.68c.2.19.45.29.71.29s.51-.1.71-.29c.39-.39.39-1.03 0-1.42zM4 11c0-3.86 3.14-7 7-7s7 3.14 7 7c0 1.92-.78 3.66-2.04 4.93-.01.01-.02.01-.02.01-.01.01-.01.01-.01.02A6.98 6.98 0 0111 18c-3.86 0-7-3.14-7-7z" ></path></g></svg>
+                            </div>
+        
+                            <input class="w-full h-10 transition-colors duration-200 ease-in bg-gray-200 border border-transparent rounded md:text-sm hover:bg-white hover:border-gray-300 focus:outline-none focus:bg-white focus:border-gray-500 dark:bg-dark-600 dark:border-dark-600 placeholder-gray-400 dark:placeholder-dark-400"
+                            style="padding: 0.625rem 0.75rem 0.625rem 2rem" type="text" placeholder="Search" />
+                        </div>
+        
+                        <!-- Mobile search button mock -->
+                        <div class="flex items-center justify-center w-10 h-10 lg:hidden">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="shrink-0 icon-base" width="20" height="20" viewBox="0 0 24 24" aria-labelledby="icon" role="presentation"  style="margin-bottom: 0px;"><g fill="currentColor" ><path d="M21.71 20.29l-3.68-3.68A8.963 8.963 0 0020 11c0-4.96-4.04-9-9-9s-9 4.04-9 9 4.04 9 9 9c2.12 0 4.07-.74 5.61-1.97l3.68 3.68c.2.19.45.29.71.29s.51-.1.71-.29c.39-.39.39-1.03 0-1.42zM4 11c0-3.86 3.14-7 7-7s7 3.14 7 7c0 1.92-.78 3.66-2.04 4.93-.01.01-.02.01-.02.01-.01.01-.01.01-.01.02A6.98 6.98 0 0111 18c-3.86 0-7-3.14-7-7z" ></path></g></svg>
+                        </div>
+        
+                        <!-- Dark mode switch placehokder -->
+                        <div class="w-10 h-10 lg:ml-2"></div>
+        
+                        <!-- History button mock -->
+                        <div class="flex items-center justify-center w-10 h-10" style="margin-right: -0.625rem;">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="shrink-0 icon-base" width="22" height="22" viewBox="0 0 24 24" aria-labelledby="icon" role="presentation"  style="margin-bottom: 0px;"><g fill="currentColor" ><g ><path d="M12.01 6.01c-.55 0-1 .45-1 1V12a1 1 0 00.4.8l3 2.22a.985.985 0 001.39-.2.996.996 0 00-.21-1.4l-2.6-1.92V7.01c.02-.55-.43-1-.98-1z"></path><path d="M12.01 1.91c-5.33 0-9.69 4.16-10.05 9.4l-.29-.26a.997.997 0 10-1.34 1.48l1.97 1.79c.19.17.43.26.67.26s.48-.09.67-.26l1.97-1.79a.997.997 0 10-1.34-1.48l-.31.28c.34-4.14 3.82-7.41 8.05-7.41 4.46 0 8.08 3.63 8.08 8.09s-3.63 8.08-8.08 8.08c-2.18 0-4.22-.85-5.75-2.4a.996.996 0 10-1.42 1.4 10.02 10.02 0 007.17 2.99c5.56 0 10.08-4.52 10.08-10.08.01-5.56-4.52-10.09-10.08-10.09z"></path></g></g></svg>
+                        </div>
+                    </div>
+        
+                    <div v-cloak class="flex justify-end grow">
+                        <div id="docs-mobile-search-button"></div>
+                        <doc-search-desktop></doc-search-desktop>
+        
+                        <doc-theme-switch class="lg:ml-2"></doc-theme-switch>
+                        <doc-history></doc-history>
+                    </div>
+                </div>
+            </div>
+        </header>
+    
+        <div class="container relative flex bg-white">
+            <!-- Sidebar Skeleton -->
+            <div v-cloak class="fixed flex flex-col shrink-0 duration-300 ease-in-out bg-gray-100 border-gray-200 sidebar top-20 w-75 border-r h-screen md:sticky transition-transform skeleton dark:bg-dark-800 dark:border-dark-650">
+            
+                <!-- Render this div, if config.showSidebarFilter is `true` -->
+                <div class="flex items-center h-16 px-6">
+                    <input class="w-full h-8 px-3 py-2 transition-colors duration-200 ease-linear bg-white border border-gray-200 rounded shadow-none text-sm focus:outline-none focus:border-gray-600 dark:bg-dark-600 dark:border-dark-600" type="text" placeholder="Filter" />
+                </div>
+            
+                <div class="pl-6 mb-4 mt-1">
+                    <div class="w-32 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                    <div class="w-48 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                    <div class="w-40 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                    <div class="w-32 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                    <div class="w-48 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                    <div class="w-40 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                </div>
+            
+                <div class="shrink-0 mt-auto bg-transparent dark:border-dark-650">
+                    <a class="flex items-center justify-center flex-nowrap h-16 text-gray-400 dark:text-dark-400 hover:text-gray-700 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                        <span class="text-xs whitespace-nowrap">Powered by</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
+                    </a>
+                </div>
+            </div>
+            
+            <!-- Sidebar component -->
+            <doc-sidebar v-cloak>
+                <template #sidebar-footer>
+                    <div class="shrink-0 mt-auto border-t md:bg-transparent md:border-none dark:border-dark-650">
+            
+                        <div class="py-3 px-6 md:hidden border-b dark:border-dark-650">
+                            <nav>
+                                <ul class="flex flex-wrap justify-center items-center">
+                                    <li class="mr-6">
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="https://retype.com/guides/getting-started/">Getting Started</a>
+                                    </li>
+            
+                                </ul>
+                            </nav>
+                        </div>
+            
+                        <a class="flex items-center justify-center flex-nowrap h-16 text-gray-400 dark:text-dark-400 hover:text-gray-700 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                            <span class="text-xs whitespace-nowrap">Powered by</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
+                        </a>
+                    </div>
+                </template>
+            </doc-sidebar>
+    
+            <div class="grow min-w-0 dark:bg-dark-850">
+                <!-- Render "toolbar" template here on api pages --><!-- Render page content -->
+                <div class="flex">
+                    <div class="grow min-w-0 px-6 md:px-16">
+                        <main class="relative pt-6 pb-16">
+                            <div class="docs-markdown" id="docs-content">
+                                <!-- Rendered if sidebar right is enabled -->
+                                <div id="docs-sidebar-right-toggle"></div>
+                
+                                <!-- Page content  -->
+<doc-anchor-target id="gestión-de-riesgo-y-capital" class="break-words">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#gestión-de-riesgo-y-capital">#</doc-anchor-trigger>
+        <span>Gestión de riesgo y capital</span>
+    </h1>
+</doc-anchor-target>
+<doc-anchor-target id="gestión-de-riesgo-y-capitalmi-desarrollo-como-trader-fue-gradual-y-muy-progresivo-empecé-como-la-mayoría-invertí-todo-mi-dinero-diversificando-leí-que-era-muy-bueno-mi-cartera-en-distintas-criptos">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#gestión-de-riesgo-y-capitalmi-desarrollo-como-trader-fue-gradual-y-muy-progresivo-empecé-como-la-mayoría-invertí-todo-mi-dinero-diversificando-leí-que-era-muy-bueno-mi-cartera-en-distintas-criptos">#</doc-anchor-trigger>
+        <span>GESTIÓN DE RIESGO Y CAPITALMi desarrollo como <em>trader</em> fue gradual y muy progresivo. Empecé como la mayoría, invertí todo mi dinero, <em>diversificando</em> (leí que era muy bueno) mi cartera en distintas criptos.</span>
+    </h2>
+</doc-anchor-target>
+<p>Pensaba que aquello que <em>baje</em>, tarde o temprano iba a <em>subir</em>, y por alguna extraña razón, que las <em>subidas</em> tenían más fuerza que las <em>bajadas</em> -cuando en realidad sucede más bien a la inversa-.</p>
+<p>Las primeras semanas estuvo repleta de números verdes. Estaba muy pendiente de los movimientos (como todo novato), pero con cierta tranquilidad, convencido de haber invertido en el futuro. Pensaba dónde vacacionar con el dinero que iba a llegar a partir de la jugada maestra. Le contaba prácticamente a todo el mundo que había descubierto una <em>mina de oro digital</em>.</p>
+<p>A la cuarta o quinta semana, comenzaron a aparecer números rojos. Domingo, lunes, martes, miércoles… Lo que parecía ser algo momentáneo, de repente se transformó en una seguidilla constante de bajones diarios del 10% o incluso el 15%. Leí rápidamente en Google qué podía hacer, entré a Binance y pasé mi capital a una <em>stable cloin</em>, lo hice prácticamente sin pensarlo.</p>
+<p>En ese momento había perdido cerca de un 25% del capital inicial, luego de haber estado algo así como un 35% arriba. Vendí a pérdida, pero siendo consciente de que podría haber salido en beneficios y aprovechar la diferencia a favor.</p>
+<p>Unos días antes de “congelar” mis criptomonedas, me acerqué a algunos grupos de Whatsapp/Telegram/Discord donde charlaba con <em>traders</em> o inversores con más tiempo en el mercado. Así fue que noté mi deseo de aprender, y cierta intuición que encontraba algunas respuestas y generaba constantemente más dudas.</p>
+<doc-anchor-target id="breve-experiencia-personal-2">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#breve-experiencia-personal-2">#</doc-anchor-trigger>
+        <span>BREVE EXPERIENCIA PERSONAL (2)</span>
+    </h2>
+</doc-anchor-target>
+<p>Con el tiempo entendí que el mercado se comporta de cierta manera y tenía cierta lógica que tal vez podía estudiar. Así fue que di mis primeros pasos en el <em>trading</em> mirando videos en YouTube y suponiendo que el mismo se basaba en buscar un cruce de medias móviles o la combinación de un par de indicadores.</p>
+<p>Suponía, desde mi total ignorancia, que esa información no era conocida por la mayoría porque somos pocos los que decidimos acercarnos a la misma, y que con un par de videos iba a ser millonario en unos meses.</p>
+<p> </p>
+<p>Comencé a <em>tradear</em> en Binance. Algunos días salía con un 2% arriba, otros con un 4%, perdía la misma cantidad. La cuenta no repuntaba y necesitaba hacer algo para recuperar lo que había perdido. Mientras más dinero perdía o más tiempo pasaba, mayor era la necesidad de recuperarlo lo antes posible.</p>
+<p>Así fue que vi que un <em>exchange</em> ofrecía el pago del 10% diario por <em>holdear</em> una criptomoneda propia. De más está decir que ni siquiera era posible analizar la información del volumen que manejaban. Sí, fui cuasi estafado.</p>
+<p>Algún que otro <em>profit</em> extraordinario me mantuvo bastante tiempo en ese limbo, pero estuve afuera del mercado algo así como dos semanas por motivos personales y ahí fue donde recibí el primer baldazo de agua fría en mi desarrollo como <em>trader</em>.</p>
+<p>El <em>exchange scam</em> me dejó prácticamente en la ruina, había literalmente devaluado mi capital. Si tenía depositado en el mismo 1 BTC, pasé a tener 0.1 BTC.</p>
+<p> </p>
+<p>En ese instante fue donde entendí -en <em>shock</em>- que comenzar a operar antes de instruirme, fue algo necesario pero que se podía volver cíclico. El <em>trading</em>, como comenté antes, parece engañosamente mucho más sencillo de lo que es, implica que conozcas cada uno de los miedos y debilidades personales en su máximo esplendor.</p>
+<p> </p>
+<p>Me encerré a estudiar todo lo que estuvo a mi alcance, día y noche. Cambié radicalmente mis horarios y hábitos alimenticios, en algunos meses me vi pelado, con barba y algo de tinta en mi cuerpo. Necesitaba realmente entender qué había pasado y encontrar la manera de corregirlo. Estaba enfurecido y a la vez muy ansioso. Creo que nunca sentí tantas emociones y tantos pensamientos juntos al mismo tiempo.</p>
+<p>Velas japonesas, Wyckoff, Dow, _price actio_n, soportes, resistencias, tendencias, patrones armónicos, figuras chartistas, divergencias, <em>footsprints</em>, <em>deltas</em>, psicología, bots, scripts, <em>day trading</em>, _swing tradin_g, <em>scalping,</em> indicadores (MA, EMA, SMA, MACD, RSI, CCI, ATR, MOM, BB, Ichimoku, SAR, Fibonacci, etc), lectura de <em>orderbook</em>, sistemas de trading, arbitraje, <em>margin trading</em>, <em>order flow</em>, <em>tensor charts</em>, etc.</p>
+<p>Leí a Elliot sin haberme identificado en su teoría. Leí, sin parar; cuando pensaba que entendía, aparecía algo que me demostraba que no entendía nada.</p>
+<p> </p>
+<p>Experimenté esa situación en varias oportunidades, durante mucho tiempo, hasta que llegó un punto donde empecé a notar que los libros que compraba eran muy similares a otros que ya había leído. La literatura en relación al <em>trading</em> es extensa pero la mayoría de las obras del mercado, ofrecen la misma información, o al menos los mismos enfoques.</p>
+<p>Si bien soy consciente de que siempre se puede continuar aprendiendo, en ese momento acepté haber agotado las grandes escuelas y los distintos enfoques que se le pueden dar a la profesión. Fui consciente de que tarde o temprano tenía que poner en práctica la teoría; tal vez una de las decisiones más importantes en esta profesión, sea saber hasta dónde leer y cuándo comenzar a practicar.</p>
+<p> </p>
+<p>Comencé entonces a hacer <em>paper trading</em> y a definir una estrategia personal. Ya había <em>jugado a ser trader</em> y no podía darme dos veces el mismo lujo. Con el tiempo y nuevos conceptos asimilados, fui encontrando lentamente mi estilo. De a poco fui ideando una manera personal de operar.</p>
+<p>Rescaté realmente muy poco de lo que había realizado antes, aunque aproveché la experiencia que me dieron los errores pasados. De más está decir que además aprendí muchísimo desde grandes maestros, y es en gran parte por ellos que continuo en esto. Los nombro de manera constante porque sigo varios de sus pasos.</p>
+<p>Luego de algunos meses y ya completando un año intensivo de aprendizaje y práctica, mis operaciones comenzaron a tener sentido. Del <em>paper trading</em> pasé a operar en una cuenta demo. Al cabo de un tiempo, invertí U$S 100 en una cuenta real y así fue que volví a operar, comenzando de cero, con muchísimas más herramientas que antes.</p>
+<p>Fui generando <em>profits</em>, las operaciones exitosas superaron a las perdedoras. Entendí que lo que realmente otorga beneficios bajo un riesgo controlable son los <em>exchanges</em> con volumen y desde criptomonedas con capitalización, aprendí a trabajar con <em>stop-loss</em> (una vez más pensé que era la solución mágica a todos mis problemas), me mantenía afuera del mercado cuando notaba niveles muy altos de volatilidad.</p>
+<p>Ya no apostaba al desarrollo de las criptomonedas a largo plazo, sino que compraba y vendía en cuestión de días para conservar beneficios.</p>
+<p>Comencé a trabajar a 2X, invertí un porcentaje de lo que había perdido antes (tuve que fondear nuevamente la cuenta) y de a poco recuperé el capital que había perdido.</p>
+<doc-anchor-target id="breve-experiencia-personal-3">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#breve-experiencia-personal-3">#</doc-anchor-trigger>
+        <span>BREVE EXPERIENCIA PERSONAL (3)</span>
+    </h2>
+</doc-anchor-target>
+<p>Luego de una buena racha y comentando todo lo que había aprendido a conocidos, con el ego nuevamente por las nubes (la vida es tan sabia que nos repite situaciones hasta que entendemos el mensaje), se me ocurrió operar con más capital del que solía utilizar por <em>trade</em>, e incluso aplicando interés compuesto invirtiendo ganancias en nuevas posiciones.</p>
+<p>Pensé que “habiendo aprendido tanto” podía aprovechar el <em>leverage</em> para finalmente dar el gran salto. A pesar de haber estudiado que trabajar con posiciones muy grandes, no debía estar en los planes, me dejé llevar por el exceso de confianza porque “solo lo iba a hacer por esa única vez”.</p>
+<p> </p>
+<p>Cuando empezás a sumar <em>profits</em> en minutos, lo querés continuar haciendo sin límites. Así justamente perdés.</p>
+<p> </p>
+<p>Un <em>stop-loss</em> mal fijado por error de tipeo (<em>limit price</em> y <em>stop price</em> invertidos) en una operación a 20X, frente a una variación muy pronunciada en el precio del Bitcoin, liquidó mi posición de un plumazo.</p>
+<p>Luego de una racha ganadora, para mí era inadmisible perder justamente <strong>esa posición</strong> en particular (una vez más, víctima del ego) porque era 1/3 de mi capital.</p>
+<p>Pulso acelerado, adrenalina, cortisol; la vista fija en el velón rojo y el libro de órdenes. Se comienza a formar una mecha, el puntero del pad de mi Notebook saca chispas y fija una entrada a 20X, de tipo <em>market</em> para no perder la oportunidad. La vela marca un 5% de profit y el libro de órdenes se da vuelta de nuevo <em>como una media</em>.</p>
+<p> </p>
+<p>Otra vez afuera, esta vez a un 10% de pérdida porque el <em>stop-loss</em> se ejecutó OK. Abro Telegram y leo a unos cuantos comentando estar en <em>profit</em> por haber ido a <em>short</em>. De manera automática me puse en corto con toda la cuenta en 50X.</p>
+<p>Se cierra la vela a 15M, el libro de órdenes se frena. Pasan 2 minutos y el ROI comienza a sumar progresivamente: 5%, 7%, 13%, 23%, 35%... “¿Para qué salir si puedo recuperar todo en un trade porque esto es lo que tendría que haber hecho de entrada?”, “dejo el stop en 10% de profit y listo”.</p>
+<p>La posición ni siquiera llegó al 40% y se devolvió con tanta fuerza que hizo saltar en menos de un minuto el <em>stop-market</em> que estaba fijado con una diferencia mínima del precio de liquidación.</p>
+<p> </p>
+<p>Sinceramente ni siquiera sé por qué lo fijé porque me quedaron <em>chirolas</em>.</p>
+<p> </p>
+<p>Así fue que me tocó aprender de la manera más dura desde mis errores, en apenas unas horas perdí prácticamente todo, no solo el capital inicial sino lo que me había llevado cerca de un año recuperar. Las personas cercanas saben que esto sucedió, algunos incluso el porqué.</p>
+<p> </p>
+<p>Sé que es más común de lo que se imagina.</p>
+<p> </p>
+<p>Estuve varios días sin comer, estallé alguna que otra vez en llanto y pasé algunas semanas sin hablar con prácticamente nadie. A partir de ese momento fue donde comencé a tomar realmente consciencia del <em>trading</em> y, sobre todo, de mi gestión mental y emocional.</p>
+<p>Subestimar al mercado me dejó una de las lecciones más importantes de mi vida; tal vez fue la etapa más dura que me tocó transitar. Sentí miedo, vergüenza, culpa, odio, ansiedad y estrés, todo junto y de manera constante, siendo plenamente consciente de ser el único responsable de ello.</p>
+<doc-anchor-target id="reflexión">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#reflexión">#</doc-anchor-trigger>
+        <span>REFLEXIÓN</span>
+    </h2>
+</doc-anchor-target>
+<p>Esto que comento es real. Si alguna vez charlaste conmigo, es muy probable que conozcas algo de la historia porque no tengo vergüenza, en absoluto, de contar que precisamente esas situaciones fueron las que me impulsaron a estudiar y dedicarme de lleno al <em>trading</em>.</p>
+<p>El mercado se alimenta constantemente de ese tipo de conductas. Si en ese momento hubiera invertido solo una parte de mi capital, el error no hubiera representado una cifra de tantos ceros, y hubiera sido mucho más sencillo que recupere un mal <em>trade</em> o una mala racha.</p>
+<p> </p>
+<p><strong>¿Por qué me pasó algo así?</strong> Pienso que los <em>traders</em> comenzamos nuestra carrera buscando un método para hacer dinero. Es mucho más amigable leer estrategias, que reglas relacionadas a estadística y probabilidades; tal vez hasta la psicología sea <em>más</em> <em>llevadera</em> que la gestión de riesgo y capital.</p>
+<p>La realidad es que todos los métodos de <em>trading</em>, por más buenos que sean, tienen su porcentaje de pérdidas porque es una cuestión de la que no pueden escapar. Mantener controladas esas pérdidas es otro de los pilares en los que deberías apoyarte, y no se trata de solo de cuántas pérdidas estés dispuesto/a a tener, sino de cuánto estás dispuesto/a a perder en cada una de ellas.</p>
+<p> </p>
+<p><strong>Mi experiencia se puede resumir en etapas</strong>: en principio pensé que no hacía falta hacer <em>trading</em> -solo tenía que elegir un par de monedas <em>ganadoras</em> y listo-, luego que el AT no era necesario, luego que había maneras de generar <em>profits</em> excepcionales en mercados alternativos. En una racha ganadora, pensé que no iba a perder dinero, y solamente perdiéndolo todo por segunda vez, entendí que, sin gestión de riesgo y capital, ningún sistema de <em>trading</em> puede ser rentable.</p>
+<p> </p>
+<p>Mantener pérdidas controladas fijando <em>stop loss</em>, y que tengas límites al momento de definir tus posiciones, utilizando solo un porcentaje del capital disponible para operar, es lo que te permite justamente hacerlo cuando se dan entradas con altas probabilidades de éxito.</p>
+<p>No prestar atención a esas reglas, implica: cuenta vacía, depósitos extra y un patrón de conducta cíclico que incluso puede hasta dañar tu salud.</p>
+<blockquote>
+<p>“A menudo se dice que la única forma de evitar la ruina en los mercados es mediante la cruda experiencia. Habiendo sufrido alguna vez, el trader sabe de primera mano lo que causó el desastre y la forma de evitarlo.</p>
+<p>En ausencia de esta experiencia directa, la mejor forma de evitar la ruina es elaborar un plan de actuación que contemple, en todos sus puntos, los riesgos y probabilidades de ruina”.</p>
+<p>Nauzer J. Balsara.</p>
+</blockquote>
+<doc-anchor-target id="riesgo">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#riesgo">#</doc-anchor-trigger>
+        <span>RIESGO</span>
+    </h2>
+</doc-anchor-target>
+<p>La gestión de riesgo (<em>risk management</em>, en inglés) mide la probabilidad de que una inversión no otorgue la rentabilidad esperada, la cual puede generar una menor, pero además representar una pérdida.</p>
+<p>El riesgo, como prácticamente todo en nuestra vida, se puede calcular. Al momento de hacer <em>trading</em> existe una manera muy sencilla de hacerlo y es la conocida ratio riesgo/beneficio (RRR = <em>risk/reward ratio</em>, en inglés) que mide potenciales beneficios por cada unidad (dólar, satoshi, contrato futuro) que inviertas.</p>
+<p>De esa manera, una ratio de 1:1 significa que si arriesgás U$S 1 para obtener U$S 1, mientras que una ratio 1:5, U$S 1 para eventualmente obtener U$S 5. El cálculo se obtiene dividiendo la distancia desde la entrada a la toma de ganancias, frente a la distancia de la entrada respecto del <em>stop-loss</em>.</p>
+<p> </p>
+<p>TradingView incorpora una herramienta para medir el RRR a <em>long</em> o <em>short</em>. Acá podés apreciar dos ejemplos de la fórmula en el gráfico:</p>
+<p><figure class="content-center">
+    <img src="broken-reference" alt="RRR en posición a long (XBTUSD a 4H en Bitmex)" />
+    <figcaption class="caption">RRR en posición a long (XBTUSD a 4H en Bitmex)</figcaption>
+</figure>
+</p>
+<p><figure class="content-center">
+    <img src="broken-reference" alt="RRR en posición a short (XBTUSD a 4H en Bitmex)" />
+    <figcaption class="caption">RRR en posición a short (XBTUSD a 4H en Bitmex)</figcaption>
+</figure>
+</p>
+<p>NOTA: el número que ofrece Trading View podría interpretarse agregando un 1: delante. De esa manera, una relación riesgo/beneficio de 2.15 indicaría 1:2.15 (se arriesga 1 esperando ganar 2.15).</p>
+<p> </p>
+<p>Así mismo, en la planilla que envié a tu <em>e-mail</em> para que registres tus operaciones, podés visualizar el RRR en tiempo real fijando entradas, <em>stop-loss</em> y salidas del mercado. Si la utilizás periódicamente vas a maximizar la eficacia en tus operaciones porque vas a obtener este cálculo de manera automática en apenas unos segundos.</p>
+<p> </p>
+<p><strong>¿Seguís sin entender de qué va todo esto?</strong> Prestá atención a la siguiente tabla:</p>
+<p><figure class="content-center">
+    <img src="broken-reference" alt="" />
+    <figcaption class="caption"></figcaption>
+</figure>
+</p>
+<ol type="A">
+<li>En el primer ejemplo se ve un escenario donde las pérdidas equivalen a las ganancias, y las operaciones exitosas/perdedoras se igualan en cantidad. Lógicamente esto mantiene un balance neutro:</li>
+</ol>
+<p> </p>
+<p>(5x$100)-(5x$100)= $0</p>
+<p><br />
+Aunque parezca un escenario sin atractivo, sería lo ideal mientras aprendés del mercado. La mayoría pretende(mos) ganancias de entrada y precisamente así quedamos en cero (sin capital). Mantener tu cuenta es la situación más razonable que deberías lograr mientras das tus primeros pasos.</p>
+<p> </p>
+<ol type="A" start="2">
+<li>En esta situación se generan más <em>trades</em> perdedores que exitosos pero el monto que se obtiene en ganancias supera a las pérdidas. El resultado es positivo, justamente por mantener una ratio favorable (la ganancia esperada duplica al riesgo asumido):</li>
+</ol>
+<p> </p>
+<p>(35x$200)-(65x$100)= $1500</p>
+<p> </p>
+<p>Generalmente esta situación no se da muy seguido. La mayoría de los <em>traders</em> confía en su registro mental de las operaciones, sin tener en cuenta que la mente no funciona como un disco rígido, y puede fallar, tal como comenté en los capítulos anteriores. Para alcanzar esa ratio es muy probable que necesites trabajar con las planillas que te envié, o que diseñes las propias.</p>
+<p> </p>
+<p>La única manera sincera de conocer el porcentaje de aciertos o pérdidas de una estrategia, es analizando un registro total de operaciones a lo largo del tiempo.</p>
+<p>Operar contando con esa información a favor es lo que hacemos quienes nos dedicamos a esto y por ese motivo te recomiendo constantemente que uses la planilla que menciono.</p>
+<p> </p>
+<ol type="A" start="3">
+<li>Acá se plantea la misma cantidad de operaciones exitosas y perdedoras que en el ejemplo anterior, pero con una ratio invertida (el riesgo asumido duplica a la ganancia esperada).</li>
+</ol>
+<p> </p>
+<p>(35x$100)-(65x$200)= -$9500</p>
+<p> </p>
+<p>Es la peor combinación posible al momento de evaluar el riesgo. Paradójicamente es lo que realizamos en principio la mayoría: mantenemos operaciones a pérdida y recortamos rápido las ganancias.</p>
+<p> </p>
+<ol type="A" start="4">
+<li>Se presentan 30 operaciones, de las cuales 15 obtienen ganancias y 15 pérdidas, pero la ratio riesgo/beneficio es 1:2 (se esperan ganar $2 por $1 arriesgado).</li>
+</ol>
+<p> </p>
+<p>(15x$200)-(15x$100) = $1500</p>
+<p> </p>
+<ol type="A" start="5">
+<li>Ratio 1:2. En promedio ganás el doble de lo que perdés por <em>trade</em>, pero tenés muy pocos <em>trades</em> ganadores. La ecuación no es positiva porque necesitás ganar algunos más para que la estrategia sea redituable y sostenible.</li>
+</ol>
+<p> </p>
+<p>(10x$200)-(40x$100) = $ -$2000</p>
+<p> </p>
+<p>Como podés observar en los ejemplos, mantener una ratio riesgo/beneficio de 1:2 en adelante, puede incluso generar balances positivos con más <em>trades</em> perdedores que exitosos (situación B) pero no necesariamente implica que vas a lograr una estrategia redituable (caso E).</p>
+<p>Leí y escuché varias veces que hay que operar respetando un mínimo RRR de 1:2, y si bien eso es recomendable, merece un análisis mayor. Si pretendés analizar una estrategia de <em>trading</em>, para comprobar si la misma es o no redituable, tenés que además saber cuánto ganás o perdés, no importa solo la cantidad de <em>trades</em> que aciertes.</p>
+<p> </p>
+<p><strong>TL;DR</strong> (sí, luego de la explicación): deberías mantener un mayor ratio riesgo/beneficio (el segundo número debe superar al primero: 1:2, 3:5, 5:6) y un porcentaje de aciertos, de al menos el 50%.</p>
+<p> </p>
+<p>La distancia hacia los <em>stop-loss</em> en la estrategia de trading que desarrollé en los capítulos anteriores, mantiene una relación de 1:2, 1:3 o incluso 1:4 respecto de los <em>take-profits</em>, si se genera un <em>swing</em> en el canal lateral o tendencial donde se ejecuten las órdenes.</p>
+<p>Es fundamental que lleves un registro completo de tus operaciones. Solo así podés analizar si asumís el riesgo correcto o tal vez tengas que ajustarlo para evitar ejecuciones constantes de <em>stop-loss</em> frente a operaciones que podrían concretarse como exitosas. Para afinar estos detalles, es fundamental que hagas <em>backtesting</em> y pruebes las estrategias con montos simbólicos.</p>
+<p> </p>
+<p><strong>¿Cómo aplicar la matemática detrás del riesgo al</strong> trading**?**</p>
+<p> </p>
+<p>Muy simple: <em>stop-loss</em>. Podés partir de una regla básica de no fijarlos por encima del 10%. A mayor pérdida, matemáticamente se requieren porcentajes de ganancias progresivamente mayores para recuperar el capital.</p>
+<p>Psicológicamente esa situación es muy desgastante y concluye tarde o temprano vaciando cuentas. Dependiendo del tamaño de las posiciones, esto puede llevar más o menos tiempo, pero el resultado final es el mismo.</p>
+<p> </p>
+<p>Porcentaje necesario para recuperar una pérdida:</p>
+<p><figure class="content-center">
+    <img src="broken-reference" alt="Fuente: Trading con gestión de capital – Oscar Cagigas." />
+    <figcaption class="caption">Fuente: Trading con gestión de capital – Oscar Cagigas.</figcaption>
+</figure>
+</p>
+<p>Esta tabla grafica lo que acabo de comentar. <em>Traders</em> experimentados podrán -de manera excepcional- tolerar pérdidas mayores al 10% mencionado, pero entiendo que nunca superando el 20% porque eso representaría una exposición absurda e innecesaria.</p>
+<p> </p>
+<p>La gestión de riesgo te fuerza a monitorear tus posiciones y a mantener las pérdidas -necesarias para obtener beneficios- controladas. Aunque sea lo correcto, no es algo que hagas de manera instintiva, sino más bien lo contrario.</p>
+<p>Operar con todo el capital disponible puede ser más excitante, el <em>shock</em> de adrenalina y dopamina que se libera frente a los aciertos, posiblemente se asimile a la sensación que experimenta un ludópata cuando el azar está a su favor.</p>
+<p>La codicia y la falta de gestión mental/emocional te motivan a asumir riesgos que no deberías asumir. Necesitarías una ganancia del 100% para recuperarte de una pérdida de un 50%. Si te movés en esa dirección, es muy probable que termines quemando tu cuenta e incluso enfermando.</p>
+<p>Ese tipo de situaciones son muy estresantes y las podés evitar con una correcta gestión de riesgo. La disciplina juega un factor clave en este sentido; como comenté al inicio de este libro, es una de las condiciones necesarias para que tu <em>trading</em> sea exitoso.</p>
+<p> </p>
+<p>Es probable que intentes doblar tu posición cuando pierdas, cuando deberías solo pisar el acelerador en beneficios. Internalizar esa manera de accionar lleva su tiempo, y solo lo podés lograr cubriendo tu capital y sobreviviendo al mercado.</p>
+<doc-anchor-target id="capital">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#capital">#</doc-anchor-trigger>
+        <span>CAPITAL</span>
+    </h2>
+</doc-anchor-target>
+<p>La gestión del capital es un servicio que muchos <em>traders</em> realizan para terceros, pero muy pocos incorporan en su <em>trading</em>. Al igual que una dieta equilibrada o practicar <em>mindfulness</em>, puede suponer una actividad displacentera al momento de internalizar un cambio de conducta, aun teniendo presente que su resultado es beneficioso.</p>
+<p>Leo muy seguido que la gestión de capital (<em>money management</em>, en inglés) se relaciona con fijar correctamente el <em>stop-loss</em>, lo cual es erróneo. Si bien la gestión de riesgo (fijar <em>stop-loss</em>) es clave a la hora del buen <em>trading</em>, la gestión de capital indica en realidad cuánto deberías utilizar <em>por</em> <em>trade</em>.</p>
+<p> </p>
+<p>La historia está llena de operadores profesionales que perdieron ganancias persistentes durante años, en una única transacción motivada desde una irresponsable gestión de capital. La teoría aporta mucho, pero así como un niño necesita quemarse para entender los riesgos que representa jugar con fuego, un <em>trader</em> tal vez necesite aprender lecciones a partir de sus propios comportamientos.</p>
+<p> </p>
+<p>Comenté mi experiencia al respecto algunas páginas atrás.</p>
+<p> </p>
+<p>A esta altura del libro creo que está de más que comente que no hay un único estilo válido de gestión de capital. Encontrarás tu manera frente a tu propia estrategia de <em>trading</em> y personalidad. Lo único absoluto y universal es que, sin gestión de capital, tarde o temprano <em>terminás pelado/a</em>.</p>
+<p> </p>
+<p>MÉTODO DEL 2%</p>
+<p> </p>
+<p>Tal vez sea la manera más sencilla de gestionar el capital. Implica que todos tus <em>trades</em> utilicen el 2% de tu cuenta.</p>
+<p> </p>
+<p>¿Por qué utilizar 2% por trade? Voy a ser siempre pobre.</p>
+<p> </p>
+<p>La siguiente tabla muestra cuánto disminuye el capital inicial, luego de 20 pérdidas consecutivas:</p>
+<p><figure class="content-center">
+    <img src="broken-reference" alt="Trades perdedores consecutivos y su impacto." />
+    <figcaption class="caption">Trades perdedores consecutivos y su impacto.</figcaption>
+</figure>
+</p>
+<p>¿Qué pensás que es más probable, recuperarse de un 33% de pérdida luego de 20 <em>trades</em> perdedores, un 88% o el quiebre total de la cuenta?</p>
+<p> </p>
+<p>A modo de ejemplo, utilizando un monto fijo del <strong>2%</strong>, una cuenta con U$S 1000 solo debería operar U$S 20 por <em>trade</em>, mientras que una con U$S 10.000, U$S 200.</p>
+<p>Lo que se busca a partir de este sistema es no perjudicar la perspectiva a largo plazo, y que se logren tolerar rachas perdedoras sin que eso implique una expulsión del mercado por falta de fondos.</p>
+<p> </p>
+<p>Tené en cuenta que con el tiempo vas a poder operar con un porcentaje más elevado, pero primero tenés que sobrevivir al mercado. Los bancos quieren que tengas plazos fijos, saben cómo operás bitcoins porque precisamente <em>te tiran el precio en contra</em>, se encargan de que actúes desde emociones y pierdas.</p>
+<p> </p>
+<p>La contra que tiene este método frente a otros es que, al mantener un monto porcentual fijo por operación, se reducen eventuales ganancias cuando el sistema encuentra su mejor momento en determinadas condiciones del mercado.</p>
+<p>Si bien es un método excelente para novatos, lo ideal sería arriesgar algo más de capital cuando las probabilidades de éxito son mayores.</p>
+<p> </p>
+<p>F DE KELLY</p>
+<p> </p>
+<p>La F de Kelly es una fórmula que busca aumentar o disminuir el capital invertido por posición, en función de la cantidad de operaciones exitosas que se desarrollaron. Tu porcentaje a operar por <em>trade</em>, aumentaría frente a más operaciones exitosas, y disminuiría frente a más perdedores.</p>
+<p>Para llegar a este valor se necesita disponer del porcentaje de éxito de la estrategia y la media de aciertos/media de pérdidas (“esperanza matemática”).</p>
+<p> </p>
+<p><strong>FÓRMULA</strong> = % de acierto – (1- % de acierto) / (ratio A/P)</p>
+<p> </p>
+<p>Tal vez te resulte complicado desglosar la fórmula, no te hagas problema. Si bien valoro y respeto muchísimo la matemática, no soy matemático. En la siguiente tabla te dejo un par de ejemplos:</p>
+<p><figure class="content-center">
+    <img src="broken-reference" alt="f de Kelly en acción." />
+    <figcaption class="caption">f de Kelly en acción.</figcaption>
+</figure>
+</p>
+<p>En la última columna ves a la fórmula en acción. Como podés ver, aumenta el tamaño de la posición mientras aumente el porcentaje de éxito de la estrategia y/o la media de ganancias supere la de pérdidas.</p>
+<p> </p>
+<p>El problema que manifiesta la f de Kelly es que tiene en cuenta el promedio de ganancias y pérdidas e infiere que las mismas son constantes, cuando los resultados en el <em>trading</em> no son lineales. Si tenés en cuenta esta fórmula sin adaptarla al <em>trading</em>, podrías sobre exponer el capital.</p>
+<p> </p>
+<p>Para evitar ese problema podés dividir el resultado que otorgue por 10 y filtrar los resultados de la fórmula a partir de nuevas variables. Es lo que hice para administrar el capital por mi cuenta, pero sentite cómodo de elegir la opción que más te represente.</p>
+<p> </p>
+<p>F ÓPTIMA</p>
+<p> </p>
+<p>Otra manera de administrar el capital al momento de hacer <em>trading</em>, es haciendo uso de una función denominada función óptima.</p>
+<p>Ralph Vince, en “Portfolio Management Formulas” (1990), propuso una nueva fórmula que tiene como objetivo maximizar la media geométrica, teniendo en cuenta que beneficios y pérdidas no son constantes.</p>
+<p>Su implementación es realmente compleja, y considero innecesario ahondar sobre la misma en este libro. Si tenés interés en conocer a fondo su desarrollo, te recomiendo leer el material que cité.</p>
+<p> </p>
+<p>¿F de Kelly o F Óptima?</p>
+<p>En <a href="https://ieeexplore.ieee.org/document/7463821">este paper</a> se evalúan de manera empírica las fórmulas Kelly y Óptima y se concluye en que la diferencia de ambas en relación a sus resultados no supera el 2%.</p>
+<p>Teniendo en cuenta este análisis, y luego de probar ambas funciones durante más de 100 <em>trades</em>, por mi parte decidí simplificar mi operatoria y utilizar los valores que ofrece la función de Kelly adaptados al <em>trading</em>.</p>
+<p>                                                                       ✽✽✽</p>
+<p>Cualquiera de los métodos mencionados puede ser útil y mantener tu capital a salvo mientras intentás beneficios de manera consistente. Recordá que, durante tu primer año en el mercado, tu principal objetivo debería ser sobrevivir al mismo. Las ganancias llegan a su tiempo, y exponerse sin tener la experiencia y el conocimiento necesario para hacerlo, solo genera pérdidas.</p>
+<p> </p>
+<p>Por más que creas que podés saltearte estas reglas (todos pasamos por esa situación), la realidad es que en ese sentido no sos distinto/a al resto. Somos seres humanos y la estadística es muy elocuente: quienes creen ser más que el promedio, terminan perdiendo su dinero.</p>
+<p> </p>
+<p>De acuerdo a tu personalidad, podrías elegir el sistema que creas más conveniente:</p>
+<p>- El porcentaje fijo por operación es el más conservador.</p>
+<p>- La fórmula de Kelly (adaptada al <em>trading</em>) te permitiría arriesgar un poco más <em>cuando la racha es ganadora</em>.</p>
+<p>-La f óptima requiere un análisis más profundo para su utilización. Deberías elegirla si disfrutás el análisis matemático exhaustivo.</p>
+<p> </p>
+<p>En una de las planillas que adquiriste junto a esta obra vas a encontrar un cálculo automático de la fórmula de Kelly que tendría en cuenta tus operaciones anteriores y calcularía el tamaño de tu próxima posición en base a tus resultados.</p>
+<p>Tiene algunos ajustes personales: no devuelve valores negativos sino uno muy conservador y tiene en cuenta algunas variables extra al momento de aumentar el tamaño recomendado de posiciones. Es una fórmula conservadora que a la vez busca maximizar beneficios.</p>
+<p> </p>
+<p><strong>ES NECESARIO</strong> que al menos pruebes estrategias un mes haciendo <em>paper trading</em> y practiques lo suficiente en cuenta demo. Al comenzar a operar en el mercado real, sería prudente que no superes el 2% por trade, hasta que alcances un 60% de operaciones exitosas en una muestra de al menos 50 <em>trades</em>.</p>
+<p>Puede sonar demasiado conservador, pero creeme, no lo es. El exceso de confianza y la falta de gestión monetaria es uno de los motivos principales por los que <em>traders</em> con mucho potencial son expulsados del mercado. La consistencia se logra precisamente manteniendo pequeños beneficios de manera constante.</p>
+<p> </p>
+<p>Es importante destacar que ninguno de estos cálculos puede prevenir la pérdida total de la inversión y las fórmulas mencionadas se basan en la distribución Bernoulli (<a href="https://es.wikipedia.org/wiki/Distribuci%C3%B3n_Bernoulli">19</a>). Los mismos se realizan teniendo en cuenta operaciones pasadas, no aseguran que a futuro los resultados continúen en igual dirección.</p>
+<p>El <em>trading</em> es una profesión que se basa en probabilidades, y lo que se busca, es mantenerse siempre con las mismas a favor. Certeza a futuro nunca vas a tener porque es un concepto que escapa a nuestra consciencia.</p>
+
+                                
+                                <!-- Required only on API pages -->
+                                <doc-toolbar-member-filter-no-results />
+                            </div>
+                            <footer class="clear-both">
+                            
+                                <nav class="flex mt-14">
+                                    <div class="w-1/2">
+                                        <a class="px-5 py-4 h-full flex items-center break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-l-lg transition-colors duration-150 relative hover:z-5" href="../../menos-importante/operatoria-de-trading/">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="mr-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19 11H7.41l5.29-5.29a.996.996 0 10-1.41-1.41l-7 7a1 1 0 000 1.42l7 7a1.024 1.024 0 001.42-.01.996.996 0 000-1.41L7.41 13H19c.55 0 1-.45 1-1s-.45-1-1-1z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
+                                            <span>
+                                                <span class="block text-xs font-normal text-gray-400 dark:text-dark-400">Previous</span>
+                                                <span class="block mt-1">Operatoria de trading</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                            
+                                    <div class="w-1/2">
+                                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../../unmes/deberas-leerme-seguido/">
+                                            <span>
+                                                <span class="block text-xs font-normal text-right text-gray-400 dark:text-dark-400">Next</span>
+                                                <span class="block mt-1">Deberás leerme seguido</span>
+                                            </span>
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="ml-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
+                                        </a>
+                                    </div>
+                                </nav>
+                            </footer>
+                        </main>
+                
+                        <div class="border-t dark:border-dark-650 pt-6 mb-8">
+                            <footer class="flex flex-wrap items-center justify-between">
+                                <div>
+                                    <ul class="flex flex-wrap items-center text-sm">
+                                    </ul>
+                                </div>
+                                <div class="docs-copyright py-2 text-gray-500 dark:text-dark-350 text-sm leading-relaxed"><p>© Copyright 2022. All rights reserved.</p></div>
+                            </footer>
+                        </div>
+                    </div>
+                
+                    <!-- Rendered if sidebar right is enabled -->
+                    <!-- Sidebar right skeleton-->
+                    <div v-cloak class="fixed top-0 bottom-0 right-0 translate-x-full bg-white border-gray-200 lg:sticky lg:border-l lg:shrink-0 lg:pt-6 lg:transform-none sm:w-1/2 lg:w-64 lg:z-0 md:w-104 sidebar-right skeleton dark:bg-dark-850 dark:border-dark-650">
+                        <div class="pl-5">
+                            <div class="w-32 h-3 mb-4 bg-gray-200 dark:bg-dark-600 rounded-full loading"></div>
+                            <div class="w-48 h-3 mb-4 bg-gray-200 dark:bg-dark-600 rounded-full loading"></div>
+                            <div class="w-40 h-3 mb-4 bg-gray-200 dark:bg-dark-600 rounded-full loading"></div>
+                        </div>
+                    </div>
+                
+                    <!-- User should be able to hide sidebar right -->
+                    <doc-sidebar-right v-cloak></doc-sidebar-right>
+                </div>
+
+            </div>
+        </div>
+    
+        <doc-search-mobile></doc-search-mobile>
+        <doc-back-to-top></doc-back-to-top>
+    </div>
+
+
+    <div id="docs-overlay-target"></div>
+
+    <script>window.__DOCS__ = { "title": "Gestión de riesgo y capital", level: 2, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false }</script>
+</body>
+</html>
