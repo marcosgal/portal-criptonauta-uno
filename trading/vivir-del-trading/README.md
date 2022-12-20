@@ -8,72 +8,80 @@ description: >-
 
 > _¿Cómo te fue con el ejercicio anterior?_\
 > __\
-> _¿Crees que puedes aprender trading si no eres capaz de respetar una regla tan simple como esperar tres días para continuar leyendo?_\
+> _¿Crees que alguien podria aprender trading si no puede respetar una regla tan simple como esperar tres días para continuar leyendo?_\
 > __\
-> __**Si avanzaste haciendo caso omiso a mi sugerencia ¿Por qué continúas en el curso?**
+> __**Si avanzas sin valorar la sugerencia ¿Por qué continúas en el curso?**
 
-El trading no es un pasatiempo como andar en bicicleta o coleccionar cosas. Debe ser entendido como una profesión, porque sino se transforma en ludopatía.
+Tal vez pienses que _soy muy pesado_ pero el trading no es un pasatiempo como andar en bicicleta o coleccionar cosas.&#x20;
 
-Para vivir del trading es fundamental contar con un método y estrategia, pero antes que nada, definir qué acumular.
+Debe ser entendido como una profesión, porque sino se transforma en ludopatía.
+
+Y para vivir del trading debemos desarrollar un método y estrategia, pero también definir qué acumular, y es algo que hacemos muy pocos.
 
 ### Adapta todo lo que aquí aprendas
 
-Porque mi situación puede o no ser similar a la tuya!
+Porque si bien es muy probable que coincidamos en muchas cosas, mi situación puede o no ser similar a la tuya.
+
+Vivo soltero, no tengo familia y nadie más que yo gestiona mis finanzas. Si no cuentas con eso, tal vez debas evaluar muy de cerca cuánto y cómo gestionar ¿tu? capital.
+
+Y en mi caso asumí muchos riesgos porque fue la única manera en la que me salió liberarme.
+
+_"Si nadie más cercano se libera, me libero como sea"._
 
 Luego de perder todo el dinero que había acumulado en mi vida, respeté mi decisión de no retomar trabajos asalariados y sobrevivir como pudiera...
 
-Entonces me recuperé haciendo trading en períodos muy reducidos de tiempo, haciendo _scalping_ con margen con tope en 20X y acumulando BTC.
+Entonces pedí dinero prestado y me recuperé haciendo trading en períodos muy reducidos de tiempo, acumulando BTC a través del _scalping_ con margen con tope en 20X.
 
-Profundizaremos sobre eso más adelante, pero esa no es la única manera de aplicar lo que aprendí.
+Y esa no es la única manera de aplicar lo que aprendí porque dejé de hacer _scalping_ al fundar btcarg, hoy **Criptonautas**, y publicar este curso.
 
-De hecho, dejé de hacer _scalping_ al fundar btcarg, hoy **Criptonautas**, y al publicar este curso. Porque el tiempo no se puede aumentar, es lo más limitado que tenemos...
+El tiempo no se puede aumentar, es lo más limitado que tenemos. Y el _scalping_ require más atención operativa que el _swing trading_ donde las operaciones se toman más tiempo en desarrollarse...
 
-Y el _scalping_ require muchísima más atención operativa que el _swing trading_ donde las operaciones se toman mucho más tiempo en desarrollarse.
+Entonces, para seguir de cerca a la primer tanda de alumnos, fusioné mi estrategia inicial con fundamentos a mediano y largo plazo.
 
-Para poder brindar seguimiento cercano a la primer tanda de alumnos, fusioné mi estrategia inicial con fundamentos a mediano y largo plazo...
+Y así **operé los movimientos semanales y mensuales más relevantes en niveles de precios que validaron mis trades**.
 
-Y así operé los movimientos más relevantes en niveles de precios que validaron mis trades, manteniéndolos durante semanas y meses.
-
-Incorporé el concepto de _retesteo_ a los que utilizamos en nuestro día a día y así probamos que **la estrategia funciona para todos** _(siempre y cuando la ajustemos a nuestra personalidad y realidad en presente)_.
+Incorporé el concepto de _retesteo_ a los que utilizamos en nuestro día a día y así probamos que **la estrategia funciona para todos,** siempre que la ajustemos a nuestra personalidad y realidad en presente.
 
 FOTOXMR-PAXG-MEDIOTRADE
 
+!!!\
 El resultado de esa adaptación fue muy positivo, todas mis entradas están visibles en nuestro foro y servidor en Discord.
 
 Sumé capital (en BTC) incluso en bear market, sosteniendo la comunidad y viajando por el mundo. Y sin restringirme ni una vez en mi día a día, siendo que me gusta vivir cómodo.\
-\
-_Incluso compré dispositivos costosos como una mesa de mezcla profesional, laptop, tablet, cámara, etc (invierto en todos mis hobbies y pasiones)._
+!!!
 
-Al destinar menos tiempo a mi trading, moví 10 veces más capital que al hacer scalping, pero de manera descentralizada en Bitcoin, Monero y Pax Gold.
+Al destinar menos tiempo a mi trading, moví 10 veces más capital que al hacer scalping, pero de manera (relativa en el caso de PAXG) descentralizada en Bitcoin, Monero y Pax Gold.
 
-Y de esa manera pude sumar satoshis sin tener mi dinero en exchanges, porque no confío en empresas en _bear markets_ (son más propensas a desaparecer por hackeos, quiebras o _muertes_ de CEOs).
+_De esa manera pude sumar satoshis sin tener mi dinero en exchanges, porque no confío en empresas en bear markets que son más propensas a desaparecer por hackeos, quiebras o muertes de CEOs._
 
-Como verás, hay muchísimas opciones para hacer trading de manera rentable y sostenible, pero aprendiendo y practicando lo suficiente.
+Hay muchísimas opciones para hacer trading de manera rentable y sostenible, pero eso solo aprendiendo y practicando lo suficiente.
 
-Es delicado hablar de resultados porque dependen exclusivamente de la ejecución de entradas y salidas.&#x20;
+Y es delicado hablar de resultados porque dependen exclusivamente de la ejecución de entradas y salidas...
 
-Y conozco personas que viven con 200 dólares pero otras que están ajustadas con 5000.
+Ademá s de que no es lo mismo vivir solo con 200 dólares en Argentina que en familia con 5000 en Europa.
 
 **¿Crees que Lionel Messi empezó a jugar al fútbol pensando en cuánto iba a ganar?**
 
-Más allá de eso, te puedo acercar un poco a tierra.
+Pero más allá de eso, te puedo acercar un poco a tierra 🙂
 
-Necesitas 5/10k USD para vivir relativamente cómodo de esto, operando de manera activa y usando margen.
+Si vives soltero o con una familia sin demasiados gastos fijos, necesitas 5/10k USD para vivir relativamente cómodo del trading, operando de manera activa y usando margen.
 
-Si tienes el doble o el triple, podrás operar de manera más distendida...
+Siendo lo más razonable que te fondees el doble o el triple, para poder operar de manera más distendida.
 
-Pero para eso deberás practicar al menos uno o dos años. Y puede que más.
+Si tienes diez veces ese monto, algo asi como 100 mil dólares, podrías vivir de tus inversiones sin demasiadas preocupaciones _(esos 100 mil pueden cotizar menos durante algunos momentos)_.
 
-> Piensa en artes marciales, yoga, música o cualquier área de conocimiento.
+Pero para eso deberás practicar al menos uno o dos años, y eso es muchísimo más importante que conseguir esos 100 mil dólares.
 
-**El trading es una profesión, solo debería ser tu hobby si lo haces en cuentas demo.**
+Porque si solo los consigues, luego los pierdes. Y puede que incluso pierdas otros 100 mil más.
 
-En situación de mercado lateral y suponiendo que las operaciones de la estrategia que comparto son precisas, el porcentaje de ganancias por operación puede ir del 2% al 20%.
+Entonces en una situación de mercado lateral y suponiendo que las operaciones que generas son precisas, el porcentaje de ganancias por operación puede ir del 2% al 20%.
 
-Y eso se da en unos minutos o apenas unas horas.
+Y eso se da en unos minutos o apenas unas horas. Se confirman dos o tres entradas diarias de este tipo, pero con un porcentaje de éxito muy favorable (es lo que debe perseguir cualquier estrategia de _trading_).
 
-A partir de este método no suelen darse más de dos o tres entradas diarias.
+Entonces con 30 entradas mensuales estarías haciendo un 20% aproximado sobre tu capital inicial, tradeando y diversificando muchísimo tu riesgo en varias operaciones.
 
-Solo se opera en mercados laterales o canales de tendencia definidos, donde la volatilidad de los pares es menor, y las variaciones de precio encuentran un soporte y resistencia aceptados por el mercado.
+Porque nunca tradeamos todo lo que tenemos, cuidamos lo que tenemos. Y no apostamos, trabajamos sobre nuestro capital.
 
-Se confirman pocas entradas, pero con un porcentaje de éxito muy favorable (es lo que debe perseguir cualquier estrategia de _trading_).
+Pero si no tienes tanto tiempo para dedicarle a tus finanzas, puedes hacer algunos movimientos mensuales y lograr que tu dinero no se devalúe por su naturaleza sino que se aprecie.
+
+Y cuando pasen los años, podrás comprarte algo que te interese, hacer algún viaje o regalarle algo a personas que valores.
