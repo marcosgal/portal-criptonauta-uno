@@ -31,4 +31,4 @@ Si continúas leyendo, y no logras respetar tu propio límite, luego el mercado 
 > _También puedes anotar lo que quieras para compartir con la comunidad desde_ [_nuestro Discord_](https://discord.criptonautas.co)_._
 >
 > __\
-> _También tenemos muchísima info en nuestra comunidad!_
+> _También_ [_tenemos muchísima info en nuestra comunidad_](https://comunidad.criptonautas.co)_!_
