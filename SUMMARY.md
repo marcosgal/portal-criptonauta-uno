@@ -1,38 +1,30 @@
 # Table of contents
 
-## 👋 Aprende trading en equipo <a href="#trading" id="trading"></a>
+## 📊 Estrategia de trading <a href="#estrategia" id="estrategia"></a>
 
-* [Nuestra experiencia colectiva](README.md)
-  * [El trading como estilo de vida](trading/nuestra-experiencia-colectiva/el-trading-como-estilo-de-vida.md)
-  * [Métodos no convencionales](trading/nuestra-experiencia-colectiva/metodos-no-convencionales.md)
-  * [De qué se trata este curso](trading/nuestra-experiencia-colectiva/de-que-se-trata-este-curso.md)
-  * [Por qué tradear criptos](trading/nuestra-experiencia-colectiva/por-que-tradear-criptos.md)
-  * [Aprenderás todo esto](trading/nuestra-experiencia-colectiva/aprenderas-todo-esto.md)
-* [Trading por matenauta](trading/trading-por-matenauta/README.md)
-  * [Mojarras vs ballenas](trading/trading-por-matenauta/mojarras-vs-ballenas.md)
-  * [Instinto, razón y emociones](trading/trading-por-matenauta/instinto-razon-y-emociones.md)
-  * [Evita loops practicando](trading/trading-por-matenauta/evita-loops-practicando.md)
-  * [El arte de no-hacer](trading/trading-por-matenauta/el-arte-de-no-hacer.md)
-* [Vivir del trading](trading/vivir-del-trading/README.md)
-  * [Decide qué acumular](trading/vivir-del-trading/decide-que-acumular.md)
-  * [Por qué acumulo BTC y XMR](trading/vivir-del-trading/por-que-acumulo-btc-y-xmr.md)
-
-## 👨🎓 Lo más importante <a href="#emociones" id="emociones"></a>
-
-* [El arte de estar presente](emociones/el-arte-de-estar-presente/README.md)
-  * [Meditar es hacer trading](emociones/el-arte-de-estar-presente/meditar-es-hacer-trading.md)
-  * [Comienza hoy mismo](emociones/el-arte-de-estar-presente/comienza-hoy-mismo.md)
-  * [La técnica de respiración](emociones/el-arte-de-estar-presente/la-tecnica-de-respiracion.md)
-  * [Por qué cuesta meditar](emociones/el-arte-de-estar-presente/por-que-cuesta-meditar.md)
-  * [Cuándo verás resultados](emociones/el-arte-de-estar-presente/cuando-veras-resultados.md)
-* [Tu mente no es fiable](emociones/tu-mente-no-es-fiable/README.md)
-  * [Por qué te pierdes](emociones/tu-mente-no-es-fiable/por-que-te-pierdes.md)
-  * [Las trampas de tu mente](emociones/tu-mente-no-es-fiable/las-trampas-de-tu-mente.md)
-  * [Recuerda que es un camino](emociones/tu-mente-no-es-fiable/recuerda-que-es-un-camino.md)
-* [Mejor hacer esto](emociones/mejor-hacer-esto.md)
-* [Mejor evitar esto](emociones/mejor-evitar-esto.md)
+* [Primero lo primero](README.md)
+  * [Dónde analizar gráficos](estrategia/primero-lo-primero/donde-analizar-graficos.md)
+* [El precio dice casi todo](estrategia/el-precio-dice-casi-todo/README.md)
+  * [Aprenderás a elegir](estrategia/el-precio-dice-casi-todo/aprenderas-a-elegir.md)
+  * [Patrones criptonautas](estrategia/el-precio-dice-casi-todo/patrones-criptonautas.md)
+* [La base de tu estrategia](estrategia/la-base-de-tu-estrategia/README.md)
+  * [No hay trading sin stop-loss](estrategia/la-base-de-tu-estrategia/no-hay-trading-sin-stop-loss.md)
+  * [Mejor acumular ganancias pequeñas](estrategia/la-base-de-tu-estrategia/mejor-acumular-ganancias-pequenas.md)
+  * [Tus objetivos serán variables](estrategia/la-base-de-tu-estrategia/tus-objetivos-seran-variables.md)
+  * [Deberás registrar todas tus operaciones](estrategia/la-base-de-tu-estrategia/deberas-registrar-todas-tus-operaciones.md)
+  * [Mantenemos las chances a favor](estrategia/la-base-de-tu-estrategia/mantenemos-las-chances-a-favor.md)
+* [Las mayores probabilidades](estrategia/las-mayores-probabilidades/README.md)
+  * [Por qué evitar breakouts](estrategia/las-mayores-probabilidades/por-que-evitar-breakouts.md)
+  * [Operar en laterales](estrategia/las-mayores-probabilidades/operar-en-laterales.md)
+  * [Operando tendencias](estrategia/las-mayores-probabilidades/operando-tendencias.md)
+  * [Scalping, lo más riesgoso](estrategia/las-mayores-probabilidades/scalping-lo-mas-riesgoso.md)
+  * [Swing trading, lo más sostenible](estrategia/las-mayores-probabilidades/swing-trading-lo-mas-sostenible.md)
+* [Las operaciones](estrategia/las-operaciones/README.md)
+  * [Cuatro indicadores](estrategia/las-operaciones/cuatro-indicadores.md)
+  * [Siempre con stop-loss](estrategia/las-operaciones/siempre-con-stop-loss.md)
+  * [Order book y order flow](estrategia/las-operaciones/order-book-y-order-flow.md)
 
 ## 😎 Nos vemos en 3 meses! <a href="#practica" id="practica"></a>
 
-* [Mejor con calma](practica/mejor-con-calma.md)
-* [Punto y coma](practica/punto-y-coma.md)
+* [Practicar > estudiar](practica/practicar-greater-than-estudiar.md)
+* [Links para tu día a día](practica/links-para-tu-dia-a-dia.md)
