@@ -1,0 +1,11 @@
+input: .
+output: .retype
+url: https://trading.criptonautas.co
+branding:
+  title: Trading y criptomonedas en tu idioma
+  label: Book
+links:
+  - text: blog
+    link: https://criptonautas.co
+footer:
+  copyright: "Criptonautas tiene licencia Creative Commons"
