@@ -1,7 +1,3 @@
----
-description: El trading es la profesión que mayor desarrollo personal requiere en el mundo.
----
-
 # Instinto, razón y emociones
 
 Paul MacLean -neurocientífico estadounidense- propuso en la década de los 70’s que nuestro cerebro posee tres áreas: reptiliana (instintos, supervivencia), límbica (emociones) y neocórtex (razón, lenguaje). [3](https://trove.nla.gov.au/work/21996323?selectedversion=NBD593731)
@@ -12,13 +8,15 @@ Intentemos ubicar al trading en alguna de esas áreas.
 
 Si operar fuera instintivo, como alimentarse, dormir o respirar, casi todos los que operamos seríamos millonarios.
 
-Y supongo que pasaría lo mismo si fuera algo que dependiera de emociones, pero conozco muchos maestros zen que aún no hacen trading.
+Y pasaría lo mismo si fuera algo puramente emocional con las personas sensibles.
 
-De lo que estoy seguro es de que ser _full analítico_ genera corto-circuito en la mayoría de las personas, empezando por Isaac Newton hace \~300 años:
+Ser _full analítico_ genera corto-circuito en la mayoría de las personas, empezando por Isaac Newton hace \~300 años:
 
 FOTONEWTONPERDIDA
 
-### **El trading te premiará si evitas encerrarte**
+Parece que el equilibrio es más importante de lo que pensamos.
+
+### **El trading premia que seas libre**
 
 Y eso va contra todo lo que aprendiste desde el jardín de infantes, porque siempre intentaron reducir todo a un método y que aprendamos por repetición.
 
