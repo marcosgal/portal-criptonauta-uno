@@ -11,9 +11,13 @@ branding:
       background: "#111"
       text: #111
 edit:
-  repo: https://github.com/somos-criptonautas/aprendetrading
+  repo: https://github.com/somos-criptonautas/trading
 links:
   - text: blog
     link: https://criptonautas.co
+  - text: comunidad
+    link: https://comunidad.criptonautas.co
+  - text: discord
+    link: https://discord.criptonautas.co
 footer:
   copyright: "Criptonautas tiene licencia Creative Commons"
