@@ -12,19 +12,21 @@ Lo que leerás a continuación es el resultado de prácticamente toda mi vida, p
 
 Y es la actividad que más libertad me ofrece, que es la base de cada una de mis creaciones :)
 
-A lo largo de este libro verás varios emojis, te cruzarás con palabras _argentas_, _paisas_ y _mexas_, y aprenderqs ue todas las cosas pueden ser más simples.
+A lo largo de este libro verás varios emojis, te cruzarás con palabras _argentas_, _paisas_ y _mexas_, y aprenderás que todo puede ser más simple.
 
 Si piensas en escribir un libro, tal vez imagines que es algo que se escribe de principio a final...
 
 Pero si escribes un libro, notarás que tiene varios principios y finales.
 
-La idea de lo incierto cotidianamente nos asusta, porque esperamos controlar todas las cosas y no podemos controlar ni siquiera nuestras pasiones.
+La idea de lo incierto cotidianamente nos asusta porque esperamos controlar todas las cosas, cuando no podemos controlar ni siquiera nuestras pasiones.
 
 Por eso te sentirás incómod@ a lo largo de esta experiencia, sobre todo si esperas algo que resuelva tus problemas financieros de una vez.
 
 Aquí aprenderás estudiando, compartiendo o repitiendo patrones cíclicos si no prestas atención ni respetas nuestro método.
 
-A medida que avances, entenderás por qué  no se trata de un libro ni tampoco de un curso. Y cómo es que lo que hacemos se transformó en nuestro estilo de vida.
+Aprenderás de manera amigable o muy dura. Porque es nuestro único y principal objetivo, que aprendas lo que aprendimos y te liberes.
+
+A medida que avances, entenderás por qué no se trata de un libro ni tampoco de un curso. Y cómo es que lo que hacemos se transformó en nuestro estilo de vida.
 
 !!!info Atenti!
 
@@ -32,65 +34,67 @@ A medida que avances, entenderás por qué  no se trata de un libro ni tampoco d
 
 **!!!**
 
-### Validamos el curso entre todos
+### Validamos el trading entre todos
 
 Porque a pesar de esta foto:
 
-
+FOTOKIYO
 
 No soy ni seré un gurú, porque no me interesó, interesa ni interesará serlo.
 
 Claro, todos los gurúes "comparten" (leen guiones ajenos) cierta información útil, pero su razón de ser no es compartir sino que las personas compren servicios inútiles, a partir del marketing de peor calidad que existe.
 
-!!!danger
+Tuve que anunciar mi despedida de un servicio online que llegó a millones de personas, luego de mencionarles que iban a perderlo todo si no cerraban sus posiciones.
 
-Es lo que mejor funciona con el 97% que se mueve por emociones que no aprendió a gestionar.
+VIDEOFOTOFINALABRIL
 
-!!!
+En 6 meses de trading logramos un 574%. El trading rompe muchísimos esquemas, sobre todo en víctimas de la "economía clásica" que nos programa para ahorrar algo que se devalúa a ritmo exponencial.
 
-Muchas empresas invierten má s del 20% de su ganania total en estudios acerca de los hábitos de sus consumidores. Porque son eso, consumidores.
+FOTODOLARPOWERBUYING
 
-Desde los gurúes se valida una figura conocida desde que existe nuestro lenguaje como "falacia de autoridad". En pocas palabras, eso logra récords en speechs de ventas mezclados con algunos datos económicos, generalmente reciclados o muy trillados.
+El marketing de gurúes es lo que mejor funciona con el 97% que se mueve por emociones que no aprendió a gestionar.
+
+Desde ellos se valida una figura conocida como "falacia de autoridad" que logra récords en speechs de ventas mezclados con datos económicos reciclados o muy trillados.
 
 El trading tampoco es certero pero sabemos eso desde el vamos y por eso entendemos que da igual quiénes seamos las personas, cuando lo que importa es lo que transmitimos o compartimos con el resto.
 
-El trading no se trata de mí, de Steve Nison ni mucho menos de Robert Kiyos\*\*\*.
+El trading no se trata de mí, de Steve Nison ni mucho menos de Robert Kiyos\*\*\*. Se trata de conocer cada una de nuestras limitaciones y aprender a convivir con todos nuestros miedos y deseos más profundos.
 
-El trading se trata de conocer cada una de nuestras limitaciones y aprender a convivir con todos nuestros miedos y deseos más profundos.
+Es lo más real que experimentamos y vivimos quienes lo estudiamos, practicamos y aplicamos a nuestra vida.
 
-El trading es algo real que experimentamos y vivimos quienes estudiamos, practicamos y lo aplicamos a nuestra vida. En Criptonautas lo entendemos como algo colectivo, no individual, y por eso desarrollamos la primera etapa del curso junto a \~300 personas hispano-hablantes (durante dos años).
+En Criptonautas lo entendemos como algo colectivo, no individual, y por eso desarrollamos la primera etapa del curso junto a \~300 personas hispano-hablantes (durante dos años).
 
 > No debemos ser _expertos_ para decidir sobre nuestro dinero, porque en realidad no existen tales _expertos_.\
 > \
 > El futuro es incierto y todos hablamos desde nuestra opinión, que puede o no cumplirse. Ningún master en economía o finanzas logrará cambiar eso.
 
-Pasé la mayor parte de mi vida en tus zapatos. Y si bien vivo tranquilo, no soy millonario ni quiero serlo.
+Pasé la mayor parte de mi vida en tus zapatos. Y si bien vivo tranquilo, no soy millonario ni tampoco quiero serlo.
 
 Genero lo que cuesta el estilo de vida que disfruto tener, sin lujos pero sin necesidades. Comparto y disfruto sin privarme en mi día a día porque pienso que es lo que todos deberíamos recibir por nuestro tiempo.
 
-Aprendí mucho estudiando, pero más practicando y acompañando a otros en su aprendizaje. Es importante que si valoras lo que hago intentes imitarlo, las frases bonitas no generan traders sino su práctica constante en comunidad.
+Aprendí mucho estudiando, pero más practicando y acompañando a otros en su aprendizaje. Las frases bonitas no generan traders sino nuestra práctica constante en comunidad.
 
-Acá sinteticé lo necesario para que mi trading funcione, pero lo mantenemos actualizado desde los resultados de cada trader que se suma al proyecto.
+Sinteticé lo necesario para que mi trading funcione, pero lo mantenemos actualizado desde los resultados de cada trader que se suma al proyecto.
 
-### Sobre la educación
+### Sobre la educación tradicional
 
-Es absurdo que un profesor puntúe a sus alumnos en base a lo que repitan (o no) y según su criterio.
+Lo siento pero es absurdo que un profesor puntúe a sus alumnos en base a lo que repitan (o no) y según su criterio.
 
-No reconozco autoridades sino argumentos, y por eso intenté desarrollar este curso "de una vez". Con toda la información y los medios de contactos disponible.
+Por eso nunca reconocí autoridades sino argumentos, e intenté desarrollar este curso "de una vez" con toda la información y los medios de contactos disponibles.
 
 El resultado fue el esperado, la mayoría "se perdió" porque "nadie le decía qué hacer" 😬
 
 !!!contrast
 
-Es curioso que algunos esperen que otros les digamos qué hacer, cuando deberán justamente aprender a decidir por su cuenta sobre su dinero.
+Es curioso que esperemos nos digan qué hacer, incluso al aprender a decidir por nuestra cuenta.
 
 !!!
 
-Como Criptonautas tampoco juzgamos, pero reconocemos niveles de compromiso que mantienen la información en tres etapas.
+Como Criptonautas tampoco juzgamos, pero reconocemos niveles de compromiso que mantienen la información en tres etapas. Porque **el objetivo de la comunidad en este curso es que la mayoría aprenda trading**.
 
-Siendo turista estás leyendo la primera, que constituye mi regalo hacia la comunidad de traders que respetan y valoran el open-source, la libertad sobre todas las cosas y se animan a hacer lo que quieren con su vida.
+Esto constituye la **primera etapa del curs**o y mi regalo hacia la comunidad de traders que respetan y valoran el open-source, la libertad sobre todas las cosas y se animan a hacer lo que quieren con su vida.
 
-No hablo de bitcoiners porque se convirtieron en una secta y prefiero ideas libres de dogmas y censura, pero extiendo el regalo a cada [Cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk) del mundo 👊
+> _No hablo de bitcoiners porque se convirtieron en una secta y prefiero ideas libres de dogmas y censura, pero extiendo el regalo a cada_ [_Cypherpunk_](https://en.wikipedia.org/wiki/Cypherpunk) _del mundo_ 👊
 
 ### Tres etapas de aprendizaje
 
