@@ -4,11 +4,9 @@ description: '"It does not matter how slowly you go as long as you do not stop.'
 
 # El arte de no-hacer
 
-Este curso está pensado para que aprendas. Y para eso deberás practicar mucho!
+Este curso está pensado para que aprendas y para eso deberás practicar mucho. Pero también evitar conductas automáticas que harán que pierdas dinero, como invertir sin aprender cómo hacerlo.
 
-Pero también evitar conductas automáticas que harán que pierdas dinero, como invertir sin aprender cómo hacerlo.
-
-Puede que tu experiencia no sea siempre agradable, pero será mejor si mantienes dramas afuera y abrazas todos los cambios que se generan 🙂
+Puede que tu experiencia no sea siempre agradable, pero será mejor si mantienes dramas afuera y abrazas toda la experiencia 🙂
 
 Si prestas atención y pones en práctica lo que menciono en el capítulo siguiente, no tendrás que hacer más nada!\
 \
