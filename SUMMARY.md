@@ -33,7 +33,7 @@
 * [Mejor hacer esto](emociones/mejor-hacer-esto.md)
 * [Mejor evitar esto](emociones/mejor-evitar-esto.md)
 
-## 😎 Nos vemos en 3 meses! <a href="#practica" id="practica"></a>
+## 🧡 Te toca aportar <a href="#aportar" id="aportar"></a>
 
-* [Mejor con calma](practica/mejor-con-calma.md)
-* [Punto y coma](practica/punto-y-coma.md)
+* [Dos maneras de avanzar](aportar/dos-maneras-de-avanzar.md)
+* [Punto y coma](aportar/punto-y-coma.md)
