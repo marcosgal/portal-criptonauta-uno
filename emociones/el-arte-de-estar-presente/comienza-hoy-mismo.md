@@ -24,30 +24,28 @@ Y meditar es la única actividad intencional que hará sin intentar llegar a sal
 
 &#x20;FOTOSMEDITACIONCRIPTONAUTAS
 
-### Solo deberás disfrutar o atender momentos
+### Medita en tu día a día
 
-Puedes meditar de pie, en una silla, caminando, en una cama o incluso en actividades cotidianas (limpiando, mientras te duchas, comiendo, manejando, etc).
+Aunque puedes meditar de manera _formal_, también lo puedes hacer de pie, en una silla, caminando, en una cama o incluso en actividades cotidianas: limpiando, mientras te duchas, comiendo, manejando, etc.
 
 Me gusta concentrarme en mi respiración porque es la conexión más directa que existe entre cuerpo y mente.
 
-> Aprendí esto desde Jon Kabat-Zinn, que a su vez aprendió desde otros maestros.
+> _Aprendí esto desde Jon Kabat-Zinn, que a su vez aprendió desde otros maestros._\
+> __\
+> _Momentos estresantes implican respiración corta y rápida, mientras que momentos de relajación, respiración lenta y profunda._
 
-Momentos estresantes implican respiración corta y rápida, mientras que momentos de relajación, respiración lenta y profunda.
+Pero también medito en mi día a día, todo el tiempo.
 
-Medito sentado, pero dependiendo de la situación, acostado o incluso caminando. Evito métodos muy rígidos porque entiendo a la meditación como algo dinámico.
+Medito sentado, pero dependiendo de la situación, acostado o incluso caminando. Evito métodos muy rígidos porque entiendo la vida como algo dinámico y repleto de alternativas posibles.
 
-### Conocerás tu técnica meditando
+### Conocerás tu técnica ideal meditando
 
-Puedes seguir la técnica de otra persona o grupo de meditación, si encuentras que funciona para ti...
-
-Pero también puedes meditar brindando tu entera atención a sabores, aromas, sonidos y los cuatro elementos: fuego, tierra, agua, aire.
-
-_¿Cuánto tiempo dedicas a sentir la brisa o el calor en tu piel? ¿Notaste que los gatos mientras están relajados, disfrutan cada instante como si fuera único?_
+_¿Cuánto tiempo dedicas a sentir la brisa o el calor en tu piel? ¿Notaste que los gatos disfrutan cada instante como si fuera único? ¿Acaso notaste que cada instante que vives es algo único?_
 
 Siempre puedes sumar pequeños rituales a lo que hagas.
 
-Ambientar con luz tenue, música y algún tipo de fragancia relajante pueden sumar a la experiencia, pero el contexto ideal para meditar es el que tenemos alrededor cuando destinamos tiempo al presente.
+Ambientar con luz tenue, música y algún tipo de fragancia relajante pueden sumar a la experiencia, pero el contexto ideal para meditar es el que destines para hacerlo.
 
-Podemos naturalmente meditar en cualquier lugar y en cualquier circunstancia, pero recuperar esa cualidad (que experimentan sin esfuerzo los niños) lleva su tiempo de re-aprendizaje.
+Podemos meditar en cualquier lugar y circunstancia, pero recuperar esa cualidad (que disfrutan sin esfuerzo los niños) implica cierto re-aprendizaje.
 
-Disfruta el camino!
+Disfruta el camino 🙏
