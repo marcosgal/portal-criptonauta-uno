@@ -35,5 +35,5 @@
 
 ## 🧡 Te toca aportar <a href="#aportar" id="aportar"></a>
 
-* [Dos maneras de avanzar](aportar/dos-maneras-de-avanzar.md)
-* [Punto y coma](aportar/punto-y-coma.md)
+* [Dos maneras de avanzar](practica/mejor-con-calma.md)
+* [Por qué aportar para continuar](aportar/por-que-aportar-para-continuar.md)
