@@ -4,94 +4,71 @@ description: “No puedes parar las olas pero puedes surfear en ellas”.   Jon 
 
 # El arte de estar presente
 
-La primera edición de este libro lleva más de dos años online y contó con mi seguimiento cercano y constante durante todo ese tiempo.
+La primera edición de este libro, y su seguimiento de por vida, lleva más de dos años online.
 
-En esa asesoría que brindé, descubrí que no todos harán trading (aunque puedan hacerlo) ya que muchos darían lo que sea por volver el tiempo atrás para repetir los mismos errores, una y otra vez.
+Me propuse enseñar trading sabiendo que es imposible explicar todo de una vez... Y que el porcentaje de éxito depende en gran parte de quien lo realice.
 
-En el trading y en nuestra vida en general, se produce algo muy claro y  simple. Si nos encerramos en nosotros mismos, nos desconectamos totalmente de la realidad y nos ahogamos en nuestras propias miserias.
+En su momento intenté acercarle esta info a mis amigos o familiares pero nadie _se enganchó_.&#x20;
 
-> _Le cuentas a las personas que cambiar gaseosas por agua es hiper saludable y siguen tomando veneno todos los días._\
+Algunos no creían que fuera posible vivir del mercado, otros me dijeron que _era demasiado para ellos_, y unos cuantos, que algún día lo iban a leer.
+
+Siempre supe que es algo que deberán aprender todas las personas que quieran relativa libertad en este mundo. Y solo es cuestión de tiempo para que lo entiendan.
+
+> _¿Eliges dónde trabajar? ¿Estás conforme con tu departamento o casa actual? ¿Elegiste tu educación desde el primer momento, o en alguna de sus etapas?_\
 > __\
-> _Parece broma pero es muy serio, el 97% depende de grasas, azúcares, drogas duras, relaciones humanas disfuncionales, empresas y bancos._
+> _¿Realmente crees que eliges la comida que compras en el supermercado?_
 
-En su momento intenté acercarle lo que aprendí en relación al trading a mis amigos o familiares pero nadie _se enganchó_.
+Esto es para toda la vida. Y nos ofrece la posibilidad de conocer el mundo, al evitar anclarnos a un espacio físico donde realizamos nuestras tareas laborales.
 
-Algunos no creían que fuera posible vivir del mercado, otros me dijeron que _era demasiado para ellos_, y unos cuantos, que algún día lo iban a intentar.
+Pero no todos aprendieron ni aprenderán.
 
-Pocos tienen tiempo para estas cosas, porque la mayoría ocupa en trabajar y dormir 16 horas de su vida, mientras llena las 8 restantes con redes sociales, pornografía, videojuegos, telenovelas y shoppings.
+Porque este curso requiere iniciativa personal, no subestimará tu inteligencia como hacen los cursos que te muestran 60 videos de 2 minutos, desparramados en 18 clases durante 4 meses.
 
-Imagino que varios me valoran, de algún modo, pero es natural que mis amigos sigan aún pensando "no creo que Isea haya descubierto algo extraordinario que no descubrió un best-seller".
+**Aquí no hay diploma porque serás trader por tu cuenta, que es la profesión más osada del mundo.**
 
-Y están en lo cierto, porque no descubrí nada (mucho menos los best-sellers). Pero hice aquello que hacen muy pocos y monté una comunidad alrededor para que podamos hacerlo entre todos.
+### Es imposible programar el trading
 
-No hay manera de ser libre sino haciendo. Pero en el camino descubrí que no todas las personas valoramos nuestra libertad.
+El mercado depende de las decisiones de muchos actores, y es imposible anticipar la conducta humana de manera certera.
 
-> _¿Eliges dónde trabajar? ¿Estás conforme con tu departamento o casa actual? ¿Elegiste tu educación desde el primer momento, o en alguna de sus etapas? ¿Por qué estás en pareja? ¿Por qué tuviste X hij@s?_\
-> __\
-> _¿Realmente crees que eliges la comida que compras en el supermercado? ¿Te gusta la música que suena en la radio o la enciendes "para que haga ruido"?_\
-> __\
-> _¿Qué me dices del noticiero? ¿Pensaste cuántas notas están actuadas y cuántas son reales? ¿Sigues revisando el pronóstico del clima antes de salir de tu casa?_\
-> __\
-> _¿Sabes andar sin GPS o colapsas sin ver el mapa y que la aplicación registre tus movimientos a cada instante? ¿Por qué te cuesta tanto dejar de comprar cosas dulces?_
+Eso nos hace humanos.
 
-El trading es para toda la vida y nos ofrece la posibilidad de conocer el mundo, porque evita que nos anclemos a un espacio físico donde pasaremos la mitad de nuestra vida despiertos (pasamos 1/3 durmiendo).
+Y el trading nos enseña a valorar las cosas, de alguna u otra manera. Pero sobre todo, nuestras decisiones.
 
-Pero no todos aprendieron ni aprenderán trading, ni siquiera abonando el servicio que acerqué hace dos años o esta nueva edición colectiva.
+La inteligencia artificial no puede elegir desde la intuición, porque no podemos programar algo que ni siquiera logramos comprender en profundidad.
 
-Porque requiere iniciativa personal expresada en hechos, no en palabras, pensamientos ni ideas, y eso es lo unico que hace la mayoría, que vive repitiendo órdenes ajenas.
+Las agendas educativas no desarrollaron la intuición. Generaron personas productivas; muchos ingenieros, abogados, contadores, empresarios y empleados administrativos de muchas áreas.
 
-**Casi todos hablan o piensan muchísimo, pero prácticamente nadie hace.**
+Toda la estructura bajo el mismo lema: generar la mayor cantidad de dinero que se pueda, gastando lo menos posible.
 
-Y no subestimaré tu inteligencia como los _cursos_ que te muestran decenas de videos de 2 minutos, distribuidos en 20 clases durante 4 meses, para que sientas que haces algo interesante o productivo.
+Luego le agregaron marketing y _Cambalache_ se volvió más vigente que nunca antes en la historia.
 
-!!!
-
-El trading es la profesión más rentable, libre e independiente que existe, no se aprende por repetición ni tampoco funciona con diplomas.\
-!!!
-
-### Es imposible programarlo
-
-Y lo intentarás, de manera personal o delegando tu gestión en terceros. Te irá bien mientras el mercado acompañe, pero el primer _reversal_ o _cambio de tendencia_ te dejará en Game Over.
-
-Los precios se definen a partir de las decisiones de muchos actores, y es imposible anticipar la conducta humana o de todas las instituciones de manera certera y sostenible.
-
-Y por más que lo intentemos, no podemos programar cómo actuar entre las deciciones de tantos actores que ni siquiera entendemos en profundidad.
-
-### **Somos humanamente impredecibles**
-
-Las agendas educativas no desarrollan la intuición, lo sé. Porque socialmente generan personas productivas que sostengan el sistema hiper consumista que nos está destruyendo.
-
-Pero nuestra intuición sabe que ciertas condiciones climáticas generan muchas probabilidades de situaciones puntuales (humedad +nubes + viento -> lluvia), quiénes son nuestros amigos incondicionales o incluso quién nos robó algo de manera disimulada.
-
-Nos permite retirar nuestros fondos de un exchange si alguna inconsistencia nos alerta de un posible mal mayor, pero también detectar un movimiento institucional mientras observamos un gráfico de velas.
-
-Hasta nos permite saber qué notas musicales son matemáticamente armoniosas entre sí!
-
-Y por eso, al tomar deciciones financieras rentables usamos nuestra inteligencia analítica pero también nuestra intuición.
-
-!!!alert\
-El mercado no es preciso ni certero sino volátil y muy cambiante.\
-!!!
+{% embed url="https://open.spotify.com/track/3PI0FE7JUmEmEyN5YgKPZA" %}
+Cambalache (Spotify)
+{% endembed %}
 
 ### Meditar para salir de la Matrix
 
-Meditar es el arte de estar presente y por eso funciona para absolutamente todo lo que te propongas hacer.
+Tal vez hayas escuchado la palabra “mindfulness” más de una vez, tanto en ámbitos académicos o laborales como también en charlas de barese o redes sociales.
 
-Comencé a meditar de manera formal (dedicando tiempo exclusivamente a meditar) haciendo trading, porque no encontré otro modo de avanzar.
+Mucho se habla, pero poco realmente se conoce acerca de una de las prácticas más importante que puedes sumar a tu vida.
 
-Solo allí encontré respuestas frente a muchas situaciones en las cuales mis pensamientos y mis reacciones solo destruían mis resultados.
+Me llevó tiempo descubrir su valor de en relación al trading. Y fue lo único que me dio respuestas frente a las situaciones que mencioné en el capítulo anterior.
 
-Las viví a todas. Y observamos lo mismo en muchos traders que se sumaron al curso, hasta que comenzaron a meditar.
+Las viví a todas. Y luego vi que muchos las vivieron, hasta que comenzaron a meditar.
 
-El mindfulness “es una forma de meditación que consiste en prestar atención al momento presente, de forma deliberada y sin juzgar” ([8](https://www.amazon.com/dp/B0037B6QSY/)).
+El mindfulness “es una forma de meditación que consiste en prestar atención al momento presente, de forma deliberada y sin juzgar.” ([8](https://www.amazon.com/dp/B0037B6QSY/))&#x20;
 
-Es un estado de conciencia plena que nos permite enfocar la atención en presente, sin que pasado o futuro tengan influencia en nuestras acciones.
+Se lo conoce como un estado de conciencia plena que ayuda a focalizar la atención en el presente, sin que el pasado o el futuro tengan influencia en nuestras acciones.
 
-¿Suena esotérico? Todo lo que vale la pena lo es, de algún modo.
+En pocas palabras, permite que puedas separarte a vos mismo/a de pensamientos y emociones.
 
-Pero el mindfulness existe para estudiar la meditación de manera científica, que es una disciplina que existe para el budismo y el yoga hace algo así como 2.500 años.
+¿Suena esotérico?
 
-### **Los beneficios de meditar según la ciencia**
+Nació en tradiciones orientales como el budismo o el yoga hace algo así como 2.500 años, pero en las últimas décadas tomó impulso en occidente...
+
+Y desde ese momento **se estudia a la meditación de manera independiente, lejos de cualquier religión o filosofía.**
+
+### **Sus beneficios según la ciencia**
 
 \- Reduce el estrés. ([9](https://www.liebertpub.com/doi/abs/10.1089/acm.2007.0641))
 
@@ -107,138 +84,90 @@ Pero el mindfulness existe para estudiar la meditación de manera científica, q
 
 \- Favorece la creatividad y mejora las relaciones interpersonales. ([15](https://pubmed.ncbi.nlm.nih.gov/17935530/))
 
-### Los beneficios de meditar "según yo"
+### Qué significa meditar para dummies
 
-&#x20;\- Segundo extra para la toma de decisiones.
+Las personas permanecemos _dormidas_ (desde el budismo se diría “siendo _ignorantes_”).
 
-&#x20;\- Mantiene mi ritmo cardíaco estable.
+Vemos pasar minutos, horas, días y años, sin tener idea de lo que estamos viviendo y sin darnos cuenta que no estamos disfrutando la vida...
 
-&#x20;\- Regula de manera natural mi enojo o ira.
+Haciendo lo que podemos a partir de medias verdades basadas en miedos, sentimientos o pensamientos que nacen a raíz de experiencias vividas en pasado o proyectadas hacia el futuro.
 
-Como verás, la ciencia puede (o no) comprobar lo que luego descubrimos a través de nuestros sentidos y experiencia. Es muy bueno estudiar pero mejor practicar, siempre y en todas las cosas.
+**Ansiedad, estrés, culpas y miedos, son solo algunas de las sensaciones que vivimos de manera constante al estar dormidos.**
 
-Es técnicamente imposible que delegues tu propia experiencia (porque dejaria de ser propia) pero vives cargad@ de juicios de valor sobre aquello que desconoces.
-
-_Piensa en drogas, sabores, estilos de vida o religiones que te resulten ajenas, y evalúa si las clasificas como buenas o malas, de acuerdo a speechs o vagas ideas preconcebidas._
-
-### La sociedad nos adormece
-
-Sin notarlo, vemos pasar minutos, horas, días y años en nuestra vida, sin tener idea de lo que está pasando. Como si viéramos una película de la cual apenas somos espectadores.
-
-El sistema de adoctrinamiento institucional nos mantiene haciendo lo que podemos a partir de medias verdades basadas en miedos, sentimientos o pensamientos, que nacen desde lo que vivimos en pasado o proyectamos a futuro.
-
-> _Hablar de "sistema de adoctrinamiento institucional" suena super comunista y por eso prefiero no ponerle nombres a las cosas._\
-> __\
-> _El comunismo existe desde los 80 solo a nivel conceptual, para mantener lejos cualquier idea alternativa al _~~_nuevo comunismo_~~_  _~~_capitalismo_~~_ sistema social imperante en nuestros días._
-
-Al estar dormidos vivimos a partir de una corriente imparable de ansiedad, estrés, culpas, miedos y decisiones que apenas se pueden sostener con muchísimo _sacrificio_ y constancia.
-
-**Nos "pre-ocupamos" demasiado por el futuro que es y seguirá siendo completamente incierto. Y destinamos casi todo nuestro tiempo a eso.**
-
-> _“Si queremos captar la realidad de nuestra vida mientras la vivimos, deberemos despertar a nuestros momentos._\
-> __\
-> _De lo contrario, días enteros, incluso una vida entera, podrían transcurrir sin que nos demos cuenta”._
+> “Si queremos captar la realidad de nuestra vida mientras la vivimos, deberemos despertar a nuestros momentos.\
+> \
+> De lo contrario, días enteros, incluso una vida entera, podrían transcurrir sin que nos demos cuenta”.
 >
 > Walden, Henry David Thoreau.
 
 Pensamos todo el tiempo -incluso mientras dormimos- y esa corriente de pensamientos deja muy poco espacio para experimentar dónde estamos.
 
-Nos cuesta disfrutar y vivir en presente, nos cuesta sentir.
+**Nos cuesta disfrutar y vivir en presente.**
 
-Y luego fracasamos al elegir qué hacer con nuestro dinero porque no sabemos más que pagar cuentas (del pasado) y comprar cosas que no necesitamos (a futuro).
+Centramos nuestra atención en situaciones y sentimientos pasados o futuros porque es nuestra manera de pensar por defecto.
 
-Centramos nuestra atención en situaciones y sentimientos pasados o futuros porque es lo que nos obligan hacer al resolver problemas en la escuela o colegio, incluso universidad.
+Norman Farb -psicólogo graduado en la universidad de Toronto- explica que sin meditar, reaccionamos frente a nuevos estímulos de manera automática, basándonos en cómo pensamos que nos afectan.
 
-Evitan contarnos que el mundo está repleto de incertidumbre y nadie sabe cuánto podrías ganar o no en tu trabajo.
+Eso significa que no estás triste por lo que pasó, sino porque piensas que debes estar triste por lo que pasó. Y de la misma manera sientes culpa, por pensar que debes sentirla.
 
-Nos dicen que debemos cobrar por hora, pero luego descubrimos el valor de nuestras ideas.
+Lo bueno es que _estar dormidos_ y _despertar_ son cualidades universales. **Y podemos elegir de qué lado estar.**
 
-Nos dicen que lo mejor es trabajar para empresas, y luego ganamos 10 veces más trabajando 10 veces menos en nuestros proyectos (con un extra de mérito y paz mental impagables).
-
-### Todo pasa para algo
-
-Norman Farb -psicólogo graduado en Toronto- explica que sin meditar, reaccionamos frente a nuevos estímulos de manera automática, basándonos en cómo pensamos que nos afectan.
-
-Eso significa que no estamos tristes por lo que pasó, sino porque **pensamos que debemos estar tristes (!)** por lo que pasó.
-
-Tal vez te sorprenda que tantas personas festejen por algo masivo ¿Crees que todos lo sienten de igual modo? ¿Se te ocurrió pensar que sea parte del control institucional más profundo?
-
-Conozco personas que practican sus reacciones ante distintas circunstancias (sonreir ante regalos, por ejemplo) para poder "encajar".&#x20;
-
-Porque la sociedad se encarga de programar, pero también de anular lo alternativo, que es lo único que puede no ser controlado.
-
-### Es mejor pensar de a ratos
+### **Mejor no pensar todo el tiempo**
 
 El pensamiento nos permitió evolucionar entre las especies y ser generadores de lenguaje, arte, ciencia, etc...
 
-Pero también a destruir el planeta y matar por dinero.
+Aunque también a destruir el planeta sin tener idea de que lo estamos haciendo.
 
-El conflicto en nuestra mente no está en el acto de pensar en sí mismo, sino en hacerlo sin consciencia ni propósito.
+El conflicto no está en el acto de pensar en sí mismo, sino en hacerlo sin consciencia o sin propósitos.
 
-Porque de alguna u otra manera, el propósito define si nuestros resultados construyen o destruyen.
+Daniel Kahneman estudió en el año 2002 los errores cognitivos que surgen y se manifiestan en la evolución de la mente humana a lo largo del tiempo.
 
-Pensamos muchas cosas como ciertas, cuando no lo son (si observas el pronóstico decidirás en base a ese pronóstico, que es incierto y puede no cumplirse).
+Porque pensamos muchas cosas como ciertas, cuando no lo son.
 
-Daniel Kahneman concluyó hace 20 años que los errores cognitivos (automáticos) de nuestra menten nos mantienen alejados del peligro de manera instintiva, a partir de un mecanismo de defensa que fue muy útil cuando nos defendíamos ante depredadores.
+Y llegó a la conclusión de que esos errores en nuestros razonamientos, nos mantienen alejados del peligro de manera instintiva, a partir de un mecanismo de defensa primitivo, activo desde cuando nos defendíamos ante depredadores.
 
-Esa configuración funcionaba muy bien en ese momento, y hoy puede que funcione también para quienes inyectan miedo en la mayoría...
-
-Pero es muy contraproducente para quienes decidimos hacer trading.
-
-El peligro de manera instintiva reforzado por miedo institucional y dependencia generalizada determina un 97% de no-traders en todo el mundo.
+Esa configuración puede funcionar muy bien para quienes se sienten a gusto en su zona de confort produciendo cosas, pero es muy contraproducente para quienes decidimos hacer trading.
 
 ### **Los pensamientos “colorean” experiencias**
 
-**Y no son precisos.**
+**Y no son precisos!**
 
-Vemos reflejos de nosotros en el resto (prejuicios u opiniones hiper subjetivas, influidas por condicionamientos pasados).
+Vemos a diario reflejos de nosotros mismos en el resto (prejuicios u opiniones totalmente subjetivas, influidas por condicionamientos pasados) y no realmente a personas.
 
-Socialmente vivimos desconectados, de todo, de nosotros. Nos "tomamos todo a pecho" cuando nada es personal y somos parte de una experiencia naturalmente colectiva.
+Socialmente vivimos desconectados del resto y de nosotros mismos.
 
-Si tenemos una discusión fuerte con alguien y no gestionamos nuestras emociones, nos molestará e irritará el triple todo lo que nos pase.
+Si tenemos, por ejemplo, una discusión muy fuerte con alguien y no gestionamos las emociones, nos molestaran e irritarán en desmasía circunstancias ajenas a esa situación.
 
-Y pasaría lo contrario si _metemos un buen trade._
-
-Eso es un camino en línea recta hacia el fracaso financiero, pero también en relación a nuestros propósitos.
+Y pasaría lo opuesto si en vez de una discusión, recibimos una buena noticia o _metemos un buen trade._
 
 ### Nuestra naturaleza se adapta a los cambios
 
-Y por eso conocemos el camino de regreso para dejar de estar dormidos.
+El cerebro humano posee una cualidad biológica denominada “neuro plasticidad”, que le permite reorganizarse de acuerdo a cómo es (o no) utilizado.
 
-El cerebro humano posee “neuro plasticidad”, lo cual nos permite reutilizarlo de acuerdo a cómo lo usamos.
+Se creía (\*) que esta cualidad se daba solo durante la infancia, pero luego se descubrió que permanece incluso en edad adulta ([16](https://pubmed.ncbi.nlm.nih.gov/11823806/)).
 
-Se creía (\*) que la neuro-plasticidad se daba solo durante la infancia, pero luego se descubrió que permanece incluso en edad adulta ([16](https://pubmed.ncbi.nlm.nih.gov/11823806/)).
+> (\*) ¿Se creía o se pretendía instalar la idea?
 
-> (\*) ¿Se creía o se pretendía instalar una idea falsa? ¿Quiénes se benefician si la mayoría piensa o cree que no puede cambiar?
-
-La neuro-plasticidad es un concepto técnico que conocen mayormente médicos, pero no hace falta que te recibas para saber de qué se trata.
-
-Permite que las áreas del cerebro que son más usadas se vuelvan más fuertes, mientras que las que se usan menos, más pequeñas y débiles.
-
-Dicho de otra manera, entrenamos nuestra mente como si fuera un músculo pero con acciones, en vez de peso corporal.
+**Entonces, las áreas del cerebro que son más utilizadas se vuelven más fuertes, mientras que las que se desestiman, se vuelven más pequeñas y débiles.**
 
 ### **Por qué te debe interesar esto:**
 
-La única manera en la que podrás cambiar es si dejas de repetir, al menos UNA vez, algo. Y eso implica, al menos conceptualmente, que dejes de repetir todo.
+La única manera en la que podrás cambiar es si dejas de repetir, al menos UNA vez, algo.
 
-Comprobamos con casi \~300 traders de todo el mundo que sin estudio, práctica y desarrollo, repetimos los mismos errores una y otra vez.
+Lo más probable para quien intenta hacer trading sin estudio, práctica y desarrollo, es que repita sus errores una y otra vez.
 
-> _Y lo mismo pasa con la vida de la mayoría de las personas en prácticamente todo lo que se proponen: mismas parejas, mismas decepciones, vacíos existenciales, historias, etc._\
-> __\
-> _Los Criptonautas cortamos el loop y así nos ubicamos en el 3% que elige._
+Lo mismo pasa con la vida de la mayoría de las personas en prácticamente todo lo que se proponen. Mismas parejas, mismas descepciones, mismos vacíos existenciales, etc.
 
-Entonces cada vez que nos frustramos al _perder_ dinero, el área que responde generando cortisol y adrenalina se fortalece...
+Cada vez que vivimos frustración por pérdidas de dinero, el área que responde generando cortisol y adrenalina se fortalece...
 
-Y la estructura que transmite calma y serenidad, se vuelve más pequeña e inútil.
+Y la estructura que transmite calma y serenidad, se vuelve cada vez más pequeña e inútil.
 
-**Esto empeora cuando comenzamos a responder por inercia de manera violenta o más arriesgada. Ese loop es MUY cabrón.**
+**Esto empeora cuando comenzamos a actuar por inercia, sin consciencia plena de lo que estamos haciendo.**
 
-Así nos desconectamos del trading y ejecutamos todas las operaciones a la inversa. _Perdemos_ una y otra vez, casi sin notarlo y hasta quebrar.
+Ahí nos desconectamos del trading y ejecutamos todas las operaciones a la inversa. _Perdemos_ una y otra vez, casi sin notarlo y hasta quebrar.
 
-La repetición de acciones (cortar ganancias, dejar correr pérdidas, ingresar a trades fuera de la estrategia, abrir posiciones sin stop-loss, etc) entrenan literalmente nuestra mente.
+La repetición de acciones (cortar ganancias, dejar correr pérdidas, ingresar a _trades_ fuera de la estrategia, abrir posiciones sin _stop-loss_, etc) entrenan literalmente tu mente.
 
-Y por eso es tan importante practicar, luego de tener esto en claro. Si empiezas bien, seguirás bien; pero si empiezas mal, seguirás mal.
+Y puedes revertir esa situación siguiendo el camino inverso.
 
-A fin de cuentas, no hay bien ni mal, sino un camino armonioso y otro caótico.
-
-Luego de leer esta info eliges cuál tomar.
+Ahí es donde el mindfulness toma relevancia, sobre todo si practicas sin invertir un dólar en el mercado.
