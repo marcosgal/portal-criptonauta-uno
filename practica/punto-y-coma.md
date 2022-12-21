@@ -8,9 +8,9 @@ En el desarrollo de estas páginas hay más de 10 mil horas personales invertida
 
 Si contamos el tiempo de cada uno de los traders que participaron en este proyecto, la suma aumenta varias veces.
 
-Si recibiste en estas páginas más información que en ningún otro canal o suscripción, lo menos que podrías hacer es aportar a su desarrollo.
+Si recibiste en estas páginas más información que en ningún otro canal o suscripción, lo mínimo que podrías hacer es aportar tiempo o dinero a su desarrollo.
 
-Aportar al desarrollo de _algo_, hace que ese _algo_ tenga dinero, motivación y energía para continuar mejorando.
+Aportar al desarrollo de _algo_, hace que ese _algo_ reciba trabajo, dinero, motivación y energía para continuar mejorando.
 
 Porque para mejorar hay que cubrir muchísimas funciones (puestos de trabajo), servidores, herramientas, recursos y plataformas.
 
@@ -18,7 +18,7 @@ Porque para mejorar hay que cubrir muchísimas funciones (puestos de trabajo), s
 
 La compañía directa y constante de una mentoría de reseteo y trading con nuestro criterio y propósito, se vendería en el mercado al menos en 10 veces su precio en lanzamiento.
 
-No te preocupes, las comunidades somos genuinas y no se pueden imitar.
+_Pero no te preocupes, hacemos algo ultra genuino y vanguardista. Y solo funciona entre personas, no desde empresas._
 
 ## Espero verte pronto!
 
