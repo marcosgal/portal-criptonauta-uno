@@ -18,7 +18,7 @@ Si notas que en algún momento estás en una situación muy tensa mientras esté
 
 Estamos para acompañarte, pero deberás acercarte a lo que hacemos y dejar atrás todo tipo de auto-limitaciones que no te permitan hacerlo :)
 
-## \[EJERCICIO PRÁCTICO 5]
+## \[DESAFÍO CRIPTONAUTA 7]
 
 Crea la plantilla que usarás en cada uno de tus trades.
 
