@@ -22,7 +22,7 @@
 * [El arte de estar presente](emociones/el-arte-de-estar-presente/README.md)
   * [Meditar es hacer trading](emociones/el-arte-de-estar-presente/meditar-es-hacer-trading.md)
   * [Comienza hoy mismo](emociones/el-arte-de-estar-presente/comienza-hoy-mismo.md)
-  * [Meditación formal (respiración)](emociones/el-arte-de-estar-presente/meditacion-formal-respiracion.md)
+  * [Meditación formal (respiración)](emociones/el-arte-de-estar-presente/la-tecnica-de-respiracion.md)
   * [Meditación informal (todo lo demás)](emociones/el-arte-de-estar-presente/meditacion-informal-todo-lo-demas.md)
   * [Por qué cuesta meditar](emociones/el-arte-de-estar-presente/por-que-cuesta-meditar.md)
   * [Cuándo verás resultados](emociones/el-arte-de-estar-presente/cuando-veras-resultados.md)
