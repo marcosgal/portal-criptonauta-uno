@@ -1,4 +1,4 @@
-# Las trampas del pensamiento
+# Las trampas de tu mente
 
 Los **sesgos cognitivos** (_bias_ en inglés) son un efecto psicológico que produce una distorsión, juicio inexacto, interpretación ilógica, o irracionalidad, que se da sobre la base de la interpretación de la información disponible, aunque los datos no tengan relación entre sí. ([6](https://es.wikipedia.org/wiki/Sesgo\_cognitivo))
 
