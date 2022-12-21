@@ -241,4 +241,4 @@ Y por eso es tan importante practicar, luego de tener esto en claro. Si empiezas
 
 A fin de cuentas, no hay bien ni mal, sino un camino armonioso y otro caótico.
 
-Eliges cuál tomar.
+Luego de leer esta info eliges cuál tomar.
