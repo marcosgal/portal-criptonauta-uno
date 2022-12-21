@@ -12,19 +12,15 @@ Puedes meditar en ayunas, incorporando mudras, conociendo los movimientos desde 
 
 Pero también en tu departamento, una montaña o un parque público.
 
-Descubrí que la meditación es lo que más debemos cultivar, teniendo en cuenta el ritmo en el que habitualmente vivimos.&#x20;
-
-Porque nos conecta con lo que vale la pena.
+La meditación es lo que más deberíams cultivar teniendo en cuenta el ritmo social imperante, porque nos conecta con lo que vale la pena que es el único instante que vivimos.
 
 Es muy común que al intentar meditar persigas un bienestar o un fin en concreto a partir de la meditación: liberar estrés, aumentar tu productividad, abandonar determinados hábitos, ser mejor persona, ser libre...
 
-Pero vas a obtener lo contrario: aceptar el presente y tomar conciencia de que no eliges nada más que este instante.
+Pero vas a obtener lo contrario: aceptar el presente y tomar conciencia de que no eliges nada más que lo que hagas con tu instante.
 
-**Solo tomarás dimensión de tu instante si destinas tiempo a descubrirlo.**
+**Solo tomarás dimensión de ese instante si destinas tiempo a descubrirlo.**
 
-Y meditar es la única actividad intencional que podemos hacer sin intentar llegar a ningún lugar, porque para la meditación todos los momentos son igual de especiales.
-
-En nuestra comunidad cambió la vida de todas las personas que lo incorporaron de manera muy favorable.
+Y meditar es la única actividad intencional que hará sin intentar llegar a salgún lugar. Porque para la meditación todos los momentos y lugares son igual de especiales.
 
 &#x20;FOTOSMEDITACIONCRIPTONAUTAS
 
