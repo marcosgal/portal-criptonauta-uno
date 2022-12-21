@@ -1,4 +1,4 @@
-# Por qué te pierdes
+# Por qué nos perdemos
 
 La razón por la cual no dedicas tiempo a tus pensamientos y emociones es porque estás programado para producir, todo el tiempo.
 

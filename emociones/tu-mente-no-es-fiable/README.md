@@ -4,7 +4,7 @@ description: >-
   probablemente él mismo".   Benjamin Graham.
 ---
 
-# Tu mente no es fiable
+# Nuestra mente no es fiable
 
 Si lo tengo que expresar en números, aprendí que el éxito en el _trading_ depende un 30% de análisis técnico y un 70% de gestión mental y emocional.
 

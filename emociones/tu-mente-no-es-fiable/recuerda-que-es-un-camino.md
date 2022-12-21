@@ -1,4 +1,4 @@
-# Recuerda que es un camino
+# Todo es un camino
 
 El trading rentable y sostenible **requiere** de un largo camino de frustraciones, riesgos, cambios, persistencia y superación personal.
 
