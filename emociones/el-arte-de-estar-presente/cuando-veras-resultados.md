@@ -20,11 +20,11 @@ Estamos para acompañarte, pero deberás acercarte a lo que hacemos y dejar atr�
 
 ## \[EJERCICIO PRÁCTICO 5]
 
-Llegó el momento de que le des forma a tu diario de trading, lo usarás luego.
+Crea la plantilla que usarás en cada uno de tus trades.
 
-> Puede ser una planilla online pero también un cuaderno o lo que se te ocurra para completar antes y luego de cada trade.
+> _Puede ser una planilla online pero también un cuaderno o lo que se te ocurra para completar antes y luego de cada trade._
 
-**Prepara una hoja que deberás completar en cada uno de tus trades con las siguientes preguntas:**
+**Deberías contemplar (al menos) las siguientes preguntas:**
 
 \- ¿A qué le que tengo que prestar más atención al momento de operar?\
 \- ¿Cuáles son las opciones que tengo al tomar esta decisión?\
