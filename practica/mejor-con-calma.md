@@ -1,3 +1,7 @@
+---
+description: FRASECOMUNIDAD-APORTES
+---
+
 # Dos maneras de avanzar
 
 **Para hacer trading debes re-aprender habilidades y convertirte en Criptonauta.**

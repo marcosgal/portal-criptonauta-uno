@@ -1,5 +1,5 @@
 ---
-description: FRASEAPORTAR
+description: FRASE-BOOMERANG
 ---
 
 # Por qué aportar para continuar
