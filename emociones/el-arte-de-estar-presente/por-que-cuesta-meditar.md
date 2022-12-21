@@ -16,36 +16,30 @@ También cuesta mantener una buena alimentación, realizar ejercicio regularment
 
 Son suficientes 5 o 10 minutos diarios durante la primera o segunda semana, y luego puedes duplicarlos.
 
-Todos tenemos 5 o 10 minutos diarios.
+**Todos tenemos 5 o 10 minutos por día, pero también speechs que nos harían creer que "no tenemos tiempo" (se pierden vidas enteras por ello).**
 
-Si las exigencias sociales (trabajo, familia, hijos pequeños, etc) te privan de cierta cantidad de minutos a solas, podrás comenzar con el tiempo que realmente tengas disponible.
+Si las exigencias sociales como trabajo, familia, hijos pequeños, etc te privan de cierta cantidad de minutos a solas, podrás comenzar con el tiempo que realmente tengas disponible.
 
 Así sea un minuto diario, el cambio de paradigma se hace notar y la estructura cerebral comienza su transformación.&#x20;
 
 _Siendo escéptico, imagino confiarás en sus beneficios probados desde resonancias magnéticas, porque de lo contrario, deberías dejar de ir a clínicas y hospitales._
 
-## Es imposible que no puedas meditar
+## Todos podemos meditar
 
-Escuché muchas veces la frase “la meditación no es para mí”.&#x20;
-
-Y pensar que alguien no puede meditar equivale a pensar que no puede respirar o concentrarse.
+Y pensar que alguien no podría hacerlo equivale a pensar que no puede respirar o concentrarse.
 
 Meditas bailando, cociendo, cocinando e incluso cantando.
 
 Se confunde mucho a la meditación con la relajación o estados que no tienen relación directa con la meditación en sí misma.
 
-La meditación da lugar a cada sentimiento, pensamiento o emoción que suceda.
+Meditar es dar lugar a cualquier sentimiento, pensamiento o emoción que suceda.
 
-No equivale a no pensar en nada, tampoco a pensamientos positivos; sino dar lugar a lo que acontece, sea agradable o no, porque todo es pasajero y nada es constante.
+No equivale a no pensar en nada, tampoco a pensamientos positivos; sino dar lugar a lo que suceda, sea agradable o no, porque todo es pasajero y nada es constante.
 
 **A partir del mindfulness no buscamoss llegar a ningún lugar en especial sino permitirnos estar donde en realidad estamos.**
 
-Es muy probable que quienes pensaron que no pueden meditar, logren despegarse del pensamiento que los condiciona, justamente meditando.
-
-La meditación es un camino, más que una práctica; es una manera de vivir y recorrer la vida en armonía aceptando las cosas tal como son por su propia naturaleza.
-
 ## **\[EJERCICIO PRÁCTICO 4]**
 
-Medita 5 o 10 minutos durante toda la semana y comparte tus experiencias en **#general-pawadans** desde nuestro Discord.
+Medita 5 o 10 minutos, todos los días durante una semana y comparte tus experiencias en **#general-pawadans** desde nuestro Discord.
 
-**Continúa con el próximo capítulo, luego de hacerlo y no antes.**
+**Puedes continuar con el libro mientras lo hagas, pero no incorpores otras actividades hasta que termines tus prácticas de meditación.**
