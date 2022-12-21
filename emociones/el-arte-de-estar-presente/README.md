@@ -52,6 +52,8 @@ Nos permite retirar nuestros fondos de un exchange si alguna inconsistencia nos 
 
 Nos permite incluso saber qué notas musicales son matemáticamente armoniosas entre sí.
 
+Al tomar deciciones financieras rentables usamos nuestra inteligencia analítica pero también nuestra intuición, hiper útil para complementar una estrategia verificada de manera personal.
+
 ### Meditar para salir de la Matrix
 
 Mucho se habla, pero poco realmente se conoce sobre una de las prácticas más importante que puedes sumar a tu vida.
