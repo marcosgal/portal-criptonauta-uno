@@ -2,11 +2,9 @@
 description: “Strategy is a commodity, execution is an art”. Peter Drucker
 ---
 
-# El análisis técnico no asegura nada a futuro
+# El futuro es y será incierto
 
-En el mercado operamos personas o robots programados por personas.
-
-Las personas somos inciertas, y por eso, la certeza no existe a la hora de hacer _trading_.
+En el mercado operamos personas o robots programados por personas. Las personas somos inciertas, y por eso, la certeza no existe a la hora de hacer _trading_.
 
 > Abandonar la zona de confort donde nos hacen creer que podemos asegurar nuestro futuro no es para cualquiera, pero a la vez para todos.
 >

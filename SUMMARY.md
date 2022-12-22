@@ -4,7 +4,7 @@
 
 * [Nuestra experiencia colectiva](README.md)
   * [El trading como estilo de vida](trading/nuestra-experiencia-colectiva/el-trading-como-estilo-de-vida.md)
-  * [El análisis técnico no asegura nada a futuro](trading/nuestra-experiencia-colectiva/el-analisis-tecnico-no-asegura-nada-a-futuro.md)
+  * [El futuro es y será incierto](trading/nuestra-experiencia-colectiva/el-futuro-es-y-sera-incierto.md)
   * [Métodos no convencionales](trading/nuestra-experiencia-colectiva/metodos-no-convencionales.md)
   * [De qué se trata este curso](trading/nuestra-experiencia-colectiva/de-que-se-trata-este-curso.md)
   * [Por qué tradear criptos](trading/nuestra-experiencia-colectiva/por-que-tradear-criptos.md)
