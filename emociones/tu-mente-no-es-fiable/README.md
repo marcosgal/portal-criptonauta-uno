@@ -10,6 +10,10 @@ Si lo tuviera que expresar en números, diría que hacer trading depende un 30% 
 
 Al elegir qué hacer con nuestro dinero tomamos una decisión que tiene múltiples consecuencias y resultados posibles. Entonces usar lo que hace la mayoría a nuestro favor requiere que estemos presente en lo que hacemos.
 
+> No dedicas tiempo a tus pensamientos y emociones porque estás programad@ para producir todo el tiempo.
+>
+> Y mientras menos sientas tu cuerpo, tus sensaciones y pensamientos, más tiempo estarás produciendo.
+
 Nuestra mente piensa mucho más de lo que debería, y usualmente así solo complica las cosas. Lo hace en trampas analíticas pero también sentimentales.
 
 ### Empecé loco por el AT (como la mayoría)
