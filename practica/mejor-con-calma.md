@@ -1,7 +1,7 @@
 ---
 description: >-
-  “Volunteers don’t get paid, not because they’re worthless, but because they’re
-  priceless.” – Sherry Anderson
+  “Remember that the happiest people are not those getting more, but those
+  giving more.” – H. Jackson Brown Jr.
 ---
 
 # Dos maneras de avanzar

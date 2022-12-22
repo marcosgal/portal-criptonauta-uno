@@ -18,7 +18,7 @@ Cuando tradeas estás asumiendo una posición en un par, por ejemplo BTCUSD...
 
 Y si en ese caso, si te interesa sumar USD deberás hacer una cosa, pero si te interesa sumar BTC, la contraria.
 
-**Solo puedes decidir el cómo si primero sabes el qué. Elige qué acumular y luego llegará el cómo.**
+**Solo puedes decidir el cómo si primero sabes qué pretendes acumular. Sin eso, será imposible.**
 
 Puedes elegir tu moneda local, dólares, oro, propiedades, plata, latas de comida, sal, cuadros, guitarras, experiencias o postales de colección.
 
@@ -36,15 +36,13 @@ Contemplo su existencia porque es lo que respetan muchas cosas que debo pagar. P
 
 **No me interesa sumar dólares, más que para cubrir mis gastos mensuales y no perder dinero.**
 
-Y es curioso que la mayoría haga lo contrario.
+Y es curioso que la mayoría haga lo contrario. Pero si planificas un estilo de vida más tradicional, tal vez debas acumular un cierto porcentaje de dólares, porque así podrás relativamente _asegurar_ tu día a día.
 
-Pero si planificas un estilo de vida más tradicional, tal vez debas acumular un cierto porcentaje de dólares, porque así podrás relativamente _asegurar_ tu día a día.
-
-Eso no anula que además puedas mantener un porcentaje invertido en Bitcoin, o Monero, por ejemplo 🔥
+Eso no anula que además puedas mantener un porcentaje invertido en Bitcoin, o Monero, por ejemplo :)
 
 FOTODOLAR(CAPTIONNORINDE)
 
-El dólar estadounidense se aprecia frente a monedas de países endeudados con el FMI, que dependen del dólar por dependencia y estafa institucional...
+El dólar estadounidense se aprecia frente a monedas de países endeudados con el FMI, que dependen del dólar por burocracia de países y políticos...
 
 Pero se deprecia frente a bienes, monedas o activos escasos!
 
@@ -52,8 +50,6 @@ DOLARORO
 
 DOLARBITCOIN
 
-## \[DESAFIO CRIPTONAUTA 2]
+## \[EJERCICIO PRÁCTICO 2]
 
-Responde en este posteo del foro, qué descubriste al analizar la planilla posteada por Franco, actual moderador de Criptonautas.
-
-Allí podrás ver cómo hubiera avanzado tu capital al ahorrar durante los últimos X años en BTC, oro, bonos, acciones, pesos argentinos o dólares.
+Responde en este posteo del foro, qué descubriste al analizar la planilla posteada por Franco, artista y moderador de Criptonautas.
