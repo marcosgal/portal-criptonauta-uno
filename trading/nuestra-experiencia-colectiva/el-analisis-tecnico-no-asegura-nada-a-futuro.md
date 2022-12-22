@@ -1,5 +1,5 @@
 ---
-description: FRASEATNOALCANZA
+description: “Strategy is a commodity, execution is an art”. Peter Drucker
 ---
 
 # El análisis técnico no asegura nada a futuro

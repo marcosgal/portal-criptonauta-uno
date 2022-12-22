@@ -1,10 +1,8 @@
 # Evita loops practicando
 
-Lo reconozco, no es fácil practicar solo.
+Hacer algo que no hacíamos es tan simple como hacerlo, pero si llevamos casi toda nuestra vida sin practicar, es lógico que nos cueste recordar cómo hacerlo.
 
-De hecho es muy aburrido y más para el ritmo de vida que nos inculcan desde niños donde debemos mantenernos a toda hora "productivos".
-
-Pero aquí disfrutamos practicar porque lo hacemos juntos, entonces no se hace algo pesado. Y a la vez, le otorga más sentido, porque practicamos mientras aprendemos juntos.
+Disfrutamos practicar porque lo hacemos juntos, entonces no se hace algo pesado sino divertido 🙂
 
 FOTO EXP
 
@@ -12,21 +10,17 @@ FOTO EXP
 
 FOTO EXP
 
-### Puede tomarte seis meses pero también dos años
+Y tu práctica puede tomarse dos meses como también dos años.
 
-Todos intentamos ganar dinero antes que aprender a hacer _trading_.
+Lo cierto es que tdos intentamos ganar dinero antes que aprender a hacer trading, y así lo perdimos.
 
-![Aprende TRADING en SOLO 10 MINUTOS](<../../.gitbook/assets/imagen (4).png>)
+![¿Aprende TRADING en SOLO 10 MINUTOS?](<../../.gitbook/assets/imagen (4).png>)
 
-**Esa búsqueda devolvió más de mil resultados similares. Youtube es un nido de estafas y basura.**
+Youtube es un nido de estafas e info basura ¿Cuántos youtubers crees que son traders?
 
-¿Cuántos youtubers piensas que son traders?
+Claro, siempre pensamos que la suerte cambie nuestra realidad y perseguimos durante toda la vida ilusiones. Por eso muchos siguen anotando su número en la lotería cada semana.
 
-Claro, siempre pensamos que la suerte cambie nuestra realidad y perseguimos durante toda la vida ilusiones.
-
-Por eso las personas siguen anotando su número en la lotería.
-
-Puedes tener suerte y hacer una diferencia importante tradeando alguna memecoin o entrando a estafas como LUNA...
+Puedes tener suerte y hacer una diferencia importante tradeando alguna memecoin o comprando estafas como LUNA...
 
 FOTOUP
 
@@ -34,24 +28,24 @@ Pero creeme, siempre dura poco:
 
 FOTODOWN
 
-Y de nada sirve ganar mucho dinero para luego perderlo de una vez.&#x20;
+Y de nada sirve ganar mucho dinero para luego perderlo de una vez. Porque **el trading es mucho más que juntar indicadores y fijar un **_**stop-loss**_**.**
 
-Eso no es hacer trading sino librarse a la suerte.
-
-**El trading es mucho más que juntar un par de indicadores y fijar un **_**stop-loss**_**.**
-
-> “Decide si es un pasatiempo o un trabajo. Si es un pasatiempo, mejor encuentra otro porque este va a resultar muy caro y peligrosamente adictivo”.
+> _“Decide si es un pasatiempo o un trabajo. Si es un pasatiempo, mejor encuentra otro porque este va a resultar muy caro y peligrosamente adictivo”._
 >
 > Al Brooks.
 
-### Descubrirás cuántas horas invertir
+### Practica cuando tengas un momento
 
-**Sí, también deberás elegir cuánto tiempo tradear, de acuerdo a los resultados que obtengas.**
+Olvida la semana donde no tengas obligaciones porque no existe si vives en sociedad.
 
-No hay una receta que valga para todos. Pero en mi día a día puedo elegir cuánto tiempo destinarle a mi trading, y noté que puede hacerlo la mayoría.
+Cuando tengas un momento y algo de motivación, lee un capítulo del libro, comparte un patrón, una línea de tendencia o envía tu último trade a Discord.
 
-_Solo un puñado de Criptonautas elige mantenerse en algo semi estático. La mayoría experimenta y practica todas las opciones para poder evaluar mejor dónde ubicarse._
+Esa es la mejor y única manera en la que podrás hacer trading de manera sostenible. Si no compartes, te encontrarás con todos tus sesgos cognitivos perdiendo trades.
 
-En mi caso, si estoy viajando y conociendo lugares, o trabajando de lleno en la comunidad, tradeo menos pero con más volumen.
+Con el tiempo podrás elegir cuánto destinarle a tu trading, de acuerdo a tus habilidades, desempeño y capital invertido (que no trabajes ocho horas no significa que dejarás de trabajar por completo, aunque casi).
 
-Pero solo operamos **cuando se confirma nuestra estrategia**. La mayoría de veces, no sucederá y por eso no haremos nada.
+La mayoría elegimos tradear sin complicarnos demasiado, pero luego de capitalizarnos para poder cubrir nuestro estilo de vida sin complicaciones.
+
+Si estoy viajando y conociendo lugares, o trabajando de lleno en la comunidad, tradeo menos pero con más volumen.
+
+Solo lo hago **cuando se confirma mi estrategia**. Actualmente estoy sosteniendo un ciclo de mercado con menos de 10 movimientos.

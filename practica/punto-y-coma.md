@@ -1,15 +1,35 @@
-# Punto y coma
+---
+description: >-
+  “The best way to find yourself is to lose yourself in the service of others.”
+  – Mahatma Gandhi
+---
 
-### 3 maneras de continuar ya mismo
+# Por qué aportar para continuar
 
-* Leer y comentar [nuestra comunidad](https://comunidad.criptonautas.co)
-* Sumarte a [nuestro chat](https://chat.criptonautas.co)
-* [Aportar como voluntari@](https://ask.criptonautas.co/voluntarios)
+En el desarrollo de estas páginas hay más de 10 mil horas personales invertidas, tanto en mi desarrollo como en lo que hacemos en Criptonautas de manera colectiva.
 
-Es importante que entiendas que no tiene sentido que hagas trading sin primero saber cómo calcular tu patrimonio, por qué piensas en comprarte una casa o qué rendimiento real tienen bonos o acciones.
+Si contamos el tiempo de cada uno de los traders que participaron en este proyecto, la suma aumenta varias veces.
 
-Para eso deberás ir incorporando info en tu día a día, y la mejor manera de hacerlo es compartiendo con el resto 🧡
+Si recibiste en estas páginas más información que en ningún otro canal o suscripción, lo mínimo que podrías hacer es aportar tiempo o dinero a su desarrollo.
 
-Así vemos que somos prescindibles, pero que aún así, desarrollamos nuestros puntos de vista y podemos elegir todo lo que hacemos.
+Aportar al desarrollo de _algo_, hace que ese _algo_ reciba trabajo, dinero, motivación y energía para continuar mejorando.
 
-### **Somos pioneros, bienvenid@ al equipo!**
+Porque para mejorar hay que cubrir muchísimas funciones (puestos de trabajo), servidores, herramientas, recursos y plataformas.
+
+> **Tu aporte monetario representa mucho más que dos cervezas artesanales por mes**, porque de hecho su precio sigue siendo simbólico.
+
+El seguimiento directo y constante de una mentoría de reseteo y trading con nuestro criterio y propósito, se vendería en el mercado al menos en 10 veces su precio lanzamiento.
+
+_Pero no te preocupes, hacemos algo genuino y vanguardista. Y por eso solo funciona entre personas, en valores que pretenden equilibrio (no romperlo)._
+
+## Espero verte pronto!
+
+Porque ya sea aportes tiempo o dinero, o incluso si no lo haces, agradezco mucho tu participación 🧡
+
+Soy **matenauta** en Discord, la comunidad o el blog de Criptonautas.
+
+Y mezclo música electrónica como **Matías Isea** _(aprendí trading para poder mezclar tranquilo y sin limitaciones)_.
+
+No tengo títulos pero además de tradear en cripto \~7 años, diagramo, administro, gestiono y desarrollo todo en Criptonautas.
+
+Pero solo soy un cartoon 😎
