@@ -16,7 +16,7 @@ Y claro que se puede! Pero es necesario descubrir que hacer trading NO es seguir
 \
 Pago menos, es más cómodo y no le tengo que dar explicaciones a nadie.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Portada de Wired en Mayo/Junio de 1993 (Wired)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Portada de Wired en Mayo/Junio de 1993 (Wired)</p></figcaption></figure>
 
 **2)** Evito el análisis fundamental que se usa mucho en el lobby empresarial y bancario para _explicar_ crashes del mercado: devaluaciones, inyección monetaria, saqueos institucionales, despidos, etc.
 

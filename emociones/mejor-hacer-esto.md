@@ -66,7 +66,9 @@ Necesitas practicar de la misma manera, con total pasión y sin pensar en el eve
 
 Solo necesitas un papel donde anotar tu entrada, tu stop-loss, tu take-profit y el resultado de tu trade.&#x20;
 
-Eso es muy valioso y gratis.
+Eso es muy valioso y gratis. Si estás aburrido, practica. Si no sabes qué hacer, practica.
+
+> Si valoras tu libertad y entiendes que el trading es el camino, tarde o temprano lograrás tu propósito.
 
 ### Disfruta tu aprendizaje y motiva tu pasión
 
