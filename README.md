@@ -6,8 +6,8 @@ description: >-
 
 # Nuestra experiencia colectiva
 
-!!! BETA CRIPTONAUTA\
-Puedes aportar imágenes subiendo el archivo (pegando al editar), sugerir ediciones en la organización, sintetizando cada capítulo en un resumen sencillo como última página y corregir ortografía, semántica o lo que sea.\
+!!! BETA CRIPTONAUTA
+Puedes aportar imágenes subiendo el archivo (pegando al editar), sugerir ediciones en la organización, sintetizando cada capítulo en un resumen sencillo como última página y corregir ortografía, semántica o lo que sea.
 !!!
 
 Hola terrícola! 👋
@@ -32,9 +32,9 @@ Aprenderás de manera amigable o muy dura. Porque es nuestro único y principal 
 
 A medida que avances, entenderás por qué no se trata de un libro ni tampoco de un curso. Y cómo es que lo que hacemos se transformó en nuestro estilo de vida.
 
-!!!info Atenti!\
-**Solo debes continuar con anotador en mano**\
-****!!!
+!!!info Atenti
+**Solo debes continuar con anotador en mano**
+!!!
 
 ### Validamos el trading entre todos
 
@@ -86,7 +86,9 @@ Por eso nunca reconocí autoridades sino argumentos, e intenté desarrollar este
 
 El resultado fue el esperado, la mayoría "se perdió" porque "nadie le decía qué hacer" 😬
 
-!!!contrast Es curioso que esperemos nos digan qué hacer, incluso al aprender a decidir por nuestra cuenta. !!!
+!!!contrast
+Es curioso que esperemos nos digan qué hacer, incluso al aprender a decidir por nuestra cuenta.
+!!!
 
 Como Criptonautas tampoco juzgamos, pero reconocemos niveles de compromiso que mantienen la información en tres etapas. Porque **el objetivo de la comunidad en este curso es que la mayoría aprenda trading**.
 
