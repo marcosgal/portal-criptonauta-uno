@@ -1,4 +1,4 @@
-# Recuerda que es un camino
+# HACK 2: reconoce tu camino
 
 El trading rentable y sostenible **requiere** de un largo camino de frustraciones, riesgos, cambios, persistencia y superación personal.
 
