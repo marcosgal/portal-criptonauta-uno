@@ -18,7 +18,7 @@
   * [Decide qué acumular](trading/vivir-del-trading/decide-que-acumular.md)
   * [Por qué acumulo BTC y XMR](trading/vivir-del-trading/por-que-acumulo-btc-y-xmr.md)
 
-## 👨🎓 Lo más importante <a href="#emociones" id="emociones"></a>
+## 👨🎓 👨🎓 Lo más importante <a href="#emociones" id="emociones"></a>
 
 * [El arte de estar presente](emociones/el-arte-de-estar-presente/README.md)
   * [Meditar es hacer trading](emociones/el-arte-de-estar-presente/meditar-es-hacer-trading.md)

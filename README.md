@@ -6,8 +6,8 @@ description: >-
 
 # Nuestra experiencia colectiva
 
-!!! BETA CRIPTONAUTA
-Puedes aportar imágenes subiendo el archivo (pegando al editar), sugerir ediciones en la organización, sintetizando cada capítulo en un resumen sencillo como última página y corregir ortografía, semántica o lo que sea.
+!!! BETA CRIPTONAUTA\
+Puedes aportar imágenes subiendo el archivo (pegando al editar), sugerir ediciones en la organización, sintetizando cada capítulo en un resumen sencillo como última página y corregir ortografía, semántica o lo que sea.\
 !!!
 
 Hola terrícola! 👋
@@ -32,11 +32,9 @@ Aprenderás de manera amigable o muy dura. Porque es nuestro único y principal 
 
 A medida que avances, entenderás por qué no se trata de un libro ni tampoco de un curso. Y cómo es que lo que hacemos se transformó en nuestro estilo de vida.
 
-!!!info Atenti!
-
-**Solo debes continuar con anotador en mano**
-
-**!!!**
+!!!info Atenti!\
+**Solo debes continuar con anotador en mano**\
+****!!!
 
 ### Validamos el trading entre todos
 
@@ -66,10 +64,10 @@ El trading no se trata de mí, de Steve Nison ni mucho menos de Robert Kiyos\*\*
 
 Es lo más real que experimentamos y vivimos quienes lo estudiamos, practicamos y aplicamos a nuestra vida.
 
-En Criptonautas lo entendemos como algo colectivo, no individual, y por eso desarrollamos la primera etapa del curso junto a ~300 personas hispano-hablantes (durante dos años).
+En Criptonautas lo entendemos como algo colectivo, no individual, y por eso desarrollamos la primera etapa del curso junto a \~300 personas hispano-hablantes (durante dos años).
 
 > No debemos ser _expertos_ para decidir sobre nuestro dinero, porque en realidad no existen tales _expertos_.
-> 
+>
 > El futuro es incierto y todos hablamos desde nuestra opinión, que puede o no cumplirse. Ningún master en economía o finanzas logrará cambiar eso.
 
 Pasé la mayor parte de mi vida en tus zapatos. Y si bien vivo tranquilo, no soy millonario ni tampoco quiero serlo.
@@ -88,9 +86,7 @@ Por eso nunca reconocí autoridades sino argumentos, e intenté desarrollar este
 
 El resultado fue el esperado, la mayoría "se perdió" porque "nadie le decía qué hacer" 😬
 
-!!!contrast
-Es curioso que esperemos nos digan qué hacer, incluso al aprender a decidir por nuestra cuenta.
-!!!
+!!!contrast Es curioso que esperemos nos digan qué hacer, incluso al aprender a decidir por nuestra cuenta. !!!
 
 Como Criptonautas tampoco juzgamos, pero reconocemos niveles de compromiso que mantienen la información en tres etapas. Porque **el objetivo de la comunidad en este curso es que la mayoría aprenda trading**.
 
@@ -102,9 +98,7 @@ Esto constituye la **primera etapa del curs**o y mi regalo hacia la comunidad de
 
 En la **primera** deberás leer e incorporar la teoría, que es lo que estás haciendo ahora mismo.
 
-!!!alert
-Tu _hype_ va a disminuir cuando entiendas que deberás aportar muchísimo a tu trading, y aplicar este curso a tu propia estrategia y personalidad.
-!!!
+!!!alert Tu _hype_ va a disminuir cuando entiendas que deberás aportar muchísimo a tu trading, y aplicar este curso a tu propia estrategia y personalidad. !!!
 
 Es muy probable que quieras abandonar a la semana de comenzar esta etapa, y por eso te acompañaremos en tu reseteo con nuestra comunidad.
 
@@ -112,8 +106,8 @@ En la **segunda etapa**, te tocará practicar, practicar y practicar.
 
 Tendrás dos opciones:
 
-1) No practicar, perder mucho dinero y estancarte en el curso.\
-2) Practicar, aprender y avanzar en tu trading.
+1. No practicar, perder mucho dinero y estancarte en el curso.\\
+2. Practicar, aprender y avanzar en tu trading.
 
 **Solo podrás avanzar en el curso si practicas y compartes.**
 
@@ -122,7 +116,7 @@ Así llegarás a la **última etapa**, luego de encontrarte con todo lo que no c
 Recién ahí podrás operar y hablaremos sobre trading en plataformas.
 
 > _Estoy editando esta introducción luego de un experimento que busca despertar un sentimiento fuerte para generar cambios (26/09/22 - 04:04 AM)._
-> 
+>
 > Tanto en el trading como en Criptonautas, estamos siempre _ao vivo_.
 
 ### Métodos flexibles + constancia
@@ -177,7 +171,7 @@ Y lo seguirán haciendo, porque las empresas y sobre todo el marketing mercenari
 
 > A la fuerza todos los Criptonautas entendimos que sin practicar, registrar trades, empezar en demo y llevar un diario de trading, en realidad estábamos apostando.
 
-### Casi todos fuimos placton de ballenas&#x20;
+### Casi todos fuimos placton de ballenas
 
 Porque al compartir en comunidad, contamos con la experiencia colectiva de muchas personas.
 
