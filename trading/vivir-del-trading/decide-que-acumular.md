@@ -30,17 +30,25 @@ También puedes acumular todo eso, pero si haces trading, _algo_ deberás aumula
 > __\
 > _(o peor, que no use algunas mayúsculas a propósito)._
 
-### Es cierto, no acumulo dólares
+### "matenauta no acumula dólares"
 
-Contemplo su existencia porque es lo que respetan muchas cosas que debo pagar. Pero eso no quita que acumule lo que valoro para mantener mi capital a mediano y largo plazo.
+Es cierto, me moví en Argentina, México y Colombia sin dólares (ida y vuelta).
+
+Y lo seguiré haciendo en Europa, Asia o cualquier lugar del mundo.
+
+Contemplo que existen porque es lo que respetan muchas cosas que debo pagar. Pero eso no quita que acumule lo que valoro para mantener mi capital a mediano y largo plazo.
 
 **No me interesa sumar dólares, más que para cubrir mis gastos mensuales y no perder dinero.**
 
 Y es curioso que la mayoría haga lo contrario.
 
-Pero si planificas un estilo de vida más tradicional, tal vez debas acumular un cierto porcentaje de dólares, porque así podrás relativamente _asegurar_ tu día a día.
+Pero si planificas un estilo de vida más tradicional, tal vez debas acumular un cierto porcentaje de dólares, porque siempre es mejor empezar el reseteo de a poco.
 
-Eso no anula que además puedas mantener un porcentaje invertido en Bitcoin, o Monero, por ejemplo 🔥
+Con el tiempo entenderás que no se puede asegurar nada a futuro y te amigarás con la incertidumbre, entonces es probable que disfrutes más tu vida...
+
+Pero mientras tanto no deberías forzar nada, todos tenemos nuestros tiempos para todas las cosas.
+
+Empear de a poco no anula que además de tu capital en dólares puedas mantener un porcentaje invertido en Bitcoin, o Monero 🔥
 
 FOTODOLAR(CAPTIONNORINDE)
 

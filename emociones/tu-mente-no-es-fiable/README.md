@@ -6,19 +6,19 @@ description: >-
 
 # Nuestra mente no es fiable
 
-Si lo tuviera que expresar en números, diría que el éxito en el _trading_ depende un 30% de análisis técnico y un 70% de gestión mental y emocional.
+Si lo tuviera que expresar en números, diría que hacer trading depende un 30% de análisis técnico, gestión de riesgo y capital, pero un 70% de gestión mental y emocional.
 
-Y como verás, hablo de gestión mental y emocional.
+Al elegir qué hacer con nuestro dinero tomamos una decisión que tiene múltiples consecuencias y resultados posibles. Entonces usar lo que hace la mayoría a nuestro favor requiere que estemos presente en lo que hacemos.
 
-Ambas ocurren en nuestra mente, pero representan situaciones que parecen idénticas pero resultan distintas.
+Nuestra mente piensa mucho más de lo que debería, y usualmente así solo complica las cosas. Lo hace en trampas analíticas pero también sentimentales.
 
-En el trading aprendemos a gestionar emociones meditando pero también pensamientos a través de la psicología.
+### Empecé loco por el AT (como la mayoría)
 
-Cuando empecé en esto descreí totalmente el valor de ambas disciplinas y me tocó valorarlo luego a la fuerza.
+Esperaba descubrir una técnica en los gráficos que me permita ganar mucho dinero, y por eso me tocó ver lo hay detrás del trading a la fuerza.
 
-Suponía que analizando gráficos y fundamentos, o combinando indicadores, iba a lograr beneficios extraordinarios y que la psicología en el _trading_ solo valía para personas débiles, entre las cuales ilusamente no me incluía.
+Suponía que combinando indicadores iba a lograr beneficios extraordinarios y que la psicología en el trading solo valía para personas _débiles_, entre las cuales ilusamente no me incluía.
 
-Eso hizo que me funda, dos veces. Y así llegué lue
+Eso hizo que me funda, dos veces. Y así comencé incluso a meditar, porque descubrí que gestionar pensamientos no era suficiente.
 
 !!!alert\
 Muy pocos novatos estudian más allá del AT. Generalmente pierden y se retiran, o se vuelven adictos y pierden todo.\
@@ -26,6 +26,8 @@ Muy pocos novatos estudian más allá del AT. Generalmente pierden y se retiran,
 
 ### Tienes una ventaja enorme frente a la mayoría
 
-Porque cuentas con el apoyo de personas como tú, que están aprendiendo con un loquito como yo, que estudió y experimentó todo
+Porque cuentas con el apoyo de personas como tú, que están aprendiendo con alguien muy alternativo, que estudió y experimentó todo lo que encontró a su alcance.
+
+Pero eso solo será útil en la medida en la que compartas y avances en tu práctica, porque eso es lo único que determina tus resultados.
 
 ##
