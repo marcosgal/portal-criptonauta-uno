@@ -38,7 +38,8 @@ A medida que avances, entenderás por qué no se trata de un libro ni tampoco de
 
 Porque a pesar de esta foto:
 
-FOTOKIYO
+![image](https://user-images.githubusercontent.com/121636966/209996268-92b17e9d-161c-49a3-b975-16846e592d8e.png)
+
 
 No soy ni seré un gurú, porque no me interesó, interesa ni interesará serlo.
 
