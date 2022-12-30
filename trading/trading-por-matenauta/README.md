@@ -20,9 +20,7 @@ Y al 2022, 400 billones pero luego de un pico de 1000 billones (un trillón).
 
 Recuerda que algunos años antes solo tenía 3 billones.
 
-{% embed url="https://www.statista.com/statistics/377382/bitcoin-market-capitalization" %}
-Capitalizaci''on de Bitcoin desde el 2013
-{% endembed %}
+![BTC Capitalizacion](https://user-images.githubusercontent.com/121636966/210031142-ac533acd-16ee-48a9-86dd-cbb57cd6cda2.jpg)
 
 Forex que es el mercado de divisas, tiene cerca de 80 trillones. Cripto existe desde hace 14 años pero Forex, 75.
 
@@ -30,7 +28,7 @@ Cuando llegué a esos datos dejé de preguntar si se podía vivir del trading y 
 
 Porque los mercados están abiertos a inversores minoristas y los precios pueden comprarse y venderse para aprovechar sus diferencias.
 
-IMAGEN
+![Mercados abiertos minoristas](https://user-images.githubusercontent.com/121636966/210031504-d13dbc1e-b3cf-4ef0-bb37-840a964e3221.jpg)
 
 !!!alert\
 Esto es especulación y solo tiene valor si lo encuentras en la habilidad para ubicarte en el mercado, o en lo que elijas acumular.\
@@ -62,7 +60,7 @@ Olvidé lo que es usar el despertador o programar mi día siguiente, salvo que t
 
 Lo cual es muy poco probable, porque prefiero decidir en el momento. Aún así me levanto temprano, pero porque quiero y no porque _tengo que_ hacerlo.
 
-La comunidad sabe que vivo así de relajado y feliz porque eso es lo que buscamos al aprender trading. No coleccionar autos para atarnos a más papeles y problemas.
+La comunidad sabe que vivo así de relajado y felíz porque eso es lo que buscamos al aprender trading. No coleccionar autos para atarnos a más papeles y problemas.
 
 Valoro operar con mi notebook en cualquier lugar del mundo, sin cumplir horarios de ningún tipo y sin que nadie me diga qué tengo que hacer.
 
@@ -78,7 +76,7 @@ Y justamente por eso la magia está en el trading en sí mismo, no tanto en sus 
 
 ### Será muy duro (mejor acompañado)
 
-Seguramente muchos te dijeron que invertir tiene riesgos pero tuve que confiar ciegamente en mi voluntad mientras me levantaba a mí mismo desde el suelo.
+Seguramente muchos te dijeron que invertir tiene riesgos, pero tuve que confiar ciegamente en mi voluntad mientras me levantaba a mí mismo desde el suelo.
 
 Porque casi nadie me apoyaba. Mis amigos no creían que esto fuera posible, la mayoría sigue pagando marketineadas de muy mala calidad.
 
