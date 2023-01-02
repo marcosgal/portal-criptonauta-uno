@@ -38,5 +38,4 @@ Porque todo corrige, siempre:
 
 ![Volatilidad y corrección en acciones de Netflix](https://user-images.githubusercontent.com/98671738/210264784-cb46ed80-ede3-4c62-9092-0f6c67c5313b.png)
 
-
 Y mejor contar con una base de datos transparente.

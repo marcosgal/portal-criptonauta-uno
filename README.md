@@ -38,7 +38,8 @@ A medida que avances, entenderás por qué no se trata de un libro ni tampoco de
 
 Porque a pesar de esta foto:
 
-FOTOKIYO
+![image](https://user-images.githubusercontent.com/121636966/209996268-92b17e9d-161c-49a3-b975-16846e592d8e.png)
+
 
 No soy ni seré un gurú, porque no me interesó, interesa ni interesará serlo.
 
@@ -46,7 +47,7 @@ Claro, todos los gurúes "comparten" (leen guiones ajenos) cierta información �
 
 Tuve que anunciar mi despedida de un servicio online que llegó a millones de personas, luego de mencionarles que iban a perderlo todo si no cerraban sus posiciones.
 
-VIDEOFOTOFINALABRIL
+![image](https://user-images.githubusercontent.com/121636966/210003734-69180689-d50b-4d10-bbfa-acc4b077ae08.png)
 
 En 6 meses de trading logramos un 574%. El trading rompe muchísimos esquemas, sobre todo en víctimas de la "economía clásica" que nos programa para ahorrar algo que se devalúa a ritmo exponencial.
 
@@ -137,7 +138,7 @@ Porque mi trading, incluso con toda esa pila enorme de información, seguía sin
 >
 > Los académicos del trading publican estrategias con cientos de reglas y miles de páginas que otorgan resultados inciertos.
 
-Ninguno de esos nombres me enseñó trading. Con el tiempo llegué a un puñado de autores de nicho, donde entendí finalmente qué va todo esto.
+Ninguno de esos nombres me enseñó trading. Con el tiempo llegué a un puñado de autores de nicho, donde entendí finalmente de qué va todo esto.
 
 **Porque el 90% de académicos con renombre repite relatos** sobre indicadores y métodos que no funcionan.
 
@@ -175,7 +176,7 @@ Y lo seguirán haciendo, porque las empresas y sobre todo el marketing mercenari
 
 Porque al compartir en comunidad, contamos con la experiencia colectiva de muchas personas.
 
-En mi caso me fundí dos veces. Y con las últimas fuerzas que tenía, le di forma al primer borrador en un bloc de notas que escribí de corrido en algo así como 10 horas continuas.
+En mi caso me fundí dos veces. Y con las últimas fuerzas que tenía, le di forma al primer borrador en un bloc de notas que escribí de corrido en algo así como 10 horas contínuas.
 
 En ese momento no tenía nada que perder, sabía que lo más probable era que mi cuenta siga sufriendo, pero no tenía el coraje necesario para cerrar la posición.
 

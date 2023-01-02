@@ -29,7 +29,7 @@ Pero eso es falso, salvo que te dediques a vender cosas y pienses que es más im
 Apurarte y hacer todo rápido no hará que te conviertas en trader, sino todo lo contrario porque **la paciencia es la madre de todas nuestras virtudes.**
 
 !!!
-Esto no es un speech, si te apuras te chocarás una pared de concreto gigante 🙂
+Esto no es un speech, si te apuras te chocarás una pared de concreto gigante 
 !!!
 
 ### Estudia y practica cuando estés enfocad@
