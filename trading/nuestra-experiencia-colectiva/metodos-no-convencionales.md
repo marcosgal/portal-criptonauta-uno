@@ -42,8 +42,8 @@ Y ese desarrollo solo existe porque hacemos trading colectivo.
 
 ### **Hay mucho más que estudiar**
 
-!!!alert\
-No se trata de hacer mucho dinero sino de mantener nuestras emociones y razón en equilibrio para no perder el que tenemos.\
+!!!alert
+No se trata de hacer mucho dinero sino de mantener nuestras emociones y razón en equilibrio para no perder el que tenemos.
 !!!
 
 Con el trading el dinero deja de llenar nuestros vacíos y comienza a florecer en experiencias.
