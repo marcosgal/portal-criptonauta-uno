@@ -46,7 +46,7 @@ Claro, todos los gurúes "comparten" (leen guiones ajenos) cierta información �
 
 Tuve que anunciar mi despedida de un servicio online que llegó a millones de personas, luego de mencionarles que iban a perderlo todo si no cerraban sus posiciones.
 
-IMAGENULTIMOVIVOENIG(NOPROMO)
+IMAGENULTIMOWEBINARENIG(NOPROMO)
 
 En 6 meses de trading logramos un 574%. El trading rompe muchísimos esquemas, sobre todo en víctimas de la "economía clásica" que nos programa para ahorrar algo que se devalúa a ritmo exponencial.
 
