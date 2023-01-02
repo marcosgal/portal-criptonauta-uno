@@ -34,6 +34,6 @@ Complementar los datos básicos del mercado (precios, volumen, promedios y momen
 
 Porque todo corrige, siempre:
 
-FOTOFB - FOTONETFLIX
+![META_2022-12-29_23-22-01_3f741](https://user-images.githubusercontent.com/121636966/210028601-94f9b270-b65e-4cf9-92ed-55b0a9c449f2.png)![NFLX_2022-12-29_23-24-32_ff27f](https://user-images.githubusercontent.com/121636966/210028613-6af849a0-89d0-42de-84c4-23f8c9005df9.png)
 
 Y mejor contar con una base de datos transparente.
