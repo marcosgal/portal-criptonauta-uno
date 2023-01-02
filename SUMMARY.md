@@ -2,23 +2,24 @@
 
 ## 👋 Aprende trading en equipo <a href="#trading" id="trading"></a>
 
-* [Nuestra experiencia colectiva](README.md)
+* [CURSO EN BETA](README.md)
+* [Nuestra experiencia colectiva](<README (1).md>)
   * [El trading como estilo de vida](trading/nuestra-experiencia-colectiva/el-trading-como-estilo-de-vida.md)
   * [El futuro es y será incierto](trading/nuestra-experiencia-colectiva/el-futuro-es-y-sera-incierto.md)
   * [Métodos no convencionales](trading/nuestra-experiencia-colectiva/metodos-no-convencionales.md)
   * [De qué se trata este curso](trading/nuestra-experiencia-colectiva/de-que-se-trata-este-curso.md)
   * [Por qué tradear criptos](trading/nuestra-experiencia-colectiva/por-que-tradear-criptos.md)
   * [Aprenderás todo esto](trading/nuestra-experiencia-colectiva/aprenderas-todo-esto.md)
-* [Cripto trading por matenauta](trading/trading-por-matenauta/README.md)
-  * [Mojarras vs ballenas](trading/trading-por-matenauta/mojarras-vs-ballenas.md)
-  * [Instinto, razón y emociones](trading/trading-por-matenauta/instinto-razon-y-emociones.md)
-  * [Evita loops practicando](trading/trading-por-matenauta/evita-loops-practicando.md)
-  * [El arte de no-hacer](trading/trading-por-matenauta/el-arte-de-no-hacer.md)
+* [Cripto trading por matenauta](trading/cripto-trading-por-matenauta/README.md)
+  * [Mojarras vs ballenas](trading/cripto-trading-por-matenauta/mojarras-vs-ballenas.md)
+  * [Instinto, razón y emociones](trading/cripto-trading-por-matenauta/instinto-razon-y-emociones.md)
+  * [Evita loops practicando](trading/cripto-trading-por-matenauta/evita-loops-practicando.md)
+  * [El arte de no-hacer](trading/cripto-trading-por-matenauta/el-arte-de-no-hacer.md)
 * [Vivir del trading](trading/vivir-del-trading/README.md)
   * [Decide qué acumular](trading/vivir-del-trading/decide-que-acumular.md)
   * [Por qué acumulo BTC y XMR](trading/vivir-del-trading/por-que-acumulo-btc-y-xmr.md)
 
-## 👨🎓 👨🎓 Lo más importante <a href="#emociones" id="emociones"></a>
+## 👨🎓 👨🎓 👨🎓 Lo más importante <a href="#emociones" id="emociones"></a>
 
 * [El arte de estar presente](emociones/el-arte-de-estar-presente/README.md)
   * [Meditar es hacer trading](emociones/el-arte-de-estar-presente/meditar-es-hacer-trading.md)

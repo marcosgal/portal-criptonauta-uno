@@ -6,9 +6,13 @@ description: '"Un viaje de mil millas comienza con un solo paso".   Lao Tse.'
 
 Abandoné abogacía luego de entender que _**valía madres**_ para instituciones, y al descubrir que la burocracia se quedaba con el poco tiempo libre que tenía luego de dormir, trabajar y transportarme durante 20 horas diarias.
 
-Trabajé en tres empresas cumpliendo reglas absurdas y eso logró que hoy leas esto. Porque luego de reconocerme como esclavo, me propuse dejar de trabajar para otros, como sea.
+Trabajé en tres empresas cumpliendo reglas absurdas y mi descontento logró que hoy esté redactando estas líneas.
 
-Un día me pregunté si se puede vivir del trading.
+Un día me pregunté si se puede vivir del trading. En ese momento Bitcoin solo tenía 3 billones de dólares de capitalización.
+
+Un día me propuse dejar de trabajar para otros, como sea. Y me pregunté si se puede vivir del trading o desde inversiones, sin ser millonario.
+
+En ese momento Bitcoin solo tenía 3 billones de dólares de capitalización.
 
 En ese momento Bitcoin solo tenía 3 billones de dólares de capitalización.
 
@@ -38,7 +42,7 @@ Si solo piensas en hacer dinero, como un fin en sí mismo, lo más probable es q
 
 ### **Siempre supe que es posible**
 
-Mark Douglas afirma que la sociedad persigue metas incompatibles con la mentalidad que debe desarrollar el trader y por eso nos cuesta tanto hacerlo.[ 2](https://www.amazon.com/Trading-Zone-Confidence-Discipline-Attitude-ebook/dp/B004H1TBCG)&#x20;
+Mark Douglas afirma que la sociedad persigue metas incompatibles con la mentalidad que debe desarrollar el trader y por eso nos cuesta tanto hacerlo.[ 2](https://www.amazon.com/Trading-Zone-Confidence-Discipline-Attitude-ebook/dp/B004H1TBCG)
 
 Coincido con el colega luego de encontrar mi trading, alejarme de instituciones y vivir a mi modo... Pero sobre todo, luego de compartir casi tres años con \~300 traders en este curso 🏄
 
@@ -50,11 +54,11 @@ Compramos _bots_, _scripts_ en TradingView, nos suscribimos a decenas de canales
 
 **Y esa información no existe porque en el trading no hay certezas.**
 
-Operamos sobre las mayores probabilidades, siendo eso lo menos probable que elija la mayoría, que no sabe elegir.&#x20;
+Operamos sobre las mayores probabilidades, siendo eso lo menos probable que elija la mayoría, que no sabe elegir.
 
 Nosotros elegimos y eso nos hace Criptonautas 😎
 
-### El esfuerzo vale la pena&#x20;
+### El esfuerzo vale la pena
 
 Olvidé lo que es usar el despertador o programar mi día siguiente, salvo que tenga algo para hacer durante la mañana...
 
@@ -70,7 +74,7 @@ Y salvo muy pocas excepciones, tienen un monto fijo como salario o alguna regla 
 
 Por si eso fuera poco, el trading nos regala un desarrollo personal sin precedentes. Lo cual apenas puedo comparar con algunas de mis restantes pasiones.
 
-Deberías replantearte si el trading es lo que buscas, si no te interesa evolucionar o cambiar conductas, porque deberás hacerlo todo el tiempo.&#x20;
+Deberías replantearte si el trading es lo que buscas, si no te interesa evolucionar o cambiar conductas, porque deberás hacerlo todo el tiempo.
 
 Y justamente por eso la magia está en el trading en sí mismo, no tanto en sus resultados.
 
@@ -89,7 +93,7 @@ Editar este libro me recuerda que estuve del otro lado, y te garantiza que puede
 Tal vez creas que soy muy inteligente, o muy capaz... Pero confirmamos que **todos podemos hacer trading** en la primera etapa de este curso.
 
 > _En las universidades se egresa solo un 20% (incluso pagando), y el promedio mundial de traders exitosos en el mundo es el 3%._\
-> __\
+> \_\_\
 > _Puedes buscar tus fuentes, pero sabiendo que en Criptonautas tenemos un 11% de traders (o cercanos a traders) en solo dos años._
 
 Los resultados solo dependen del tiempo y esfuerzo que dedicamos.

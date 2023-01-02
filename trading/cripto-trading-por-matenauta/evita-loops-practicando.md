@@ -14,7 +14,7 @@ Y tu práctica puede tomarse dos meses como también dos años.
 
 Lo cierto es que tdos intentamos ganar dinero antes que aprender a hacer trading, y así lo perdimos.
 
-![¿Aprende TRADING en SOLO 10 MINUTOS?](<../../.gitbook/assets/imagen (4).png>)
+![¿Aprende TRADING en SOLO 10 MINUTOS?](../../.gitbook/assets/imagen.png)
 
 Youtube es un nido de estafas e info basura ¿Cuántos youtubers crees que son traders?
 

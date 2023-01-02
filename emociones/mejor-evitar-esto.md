@@ -192,7 +192,7 @@ Te sugiero retirar tus ganancias, sobre todo si tradeas usando margen. Disfruta 
 
 &#x20;Hay más de 13 mil criptomonedas:
 
-![](<../.gitbook/assets/imagen (5).png>)
+![](<../.gitbook/assets/imagen (2).png>)
 
 _¿Crees que todas te harán ganar dinero?_
 
