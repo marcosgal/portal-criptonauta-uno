@@ -48,7 +48,7 @@ No se trata de hacer mucho dinero sino de mantener nuestras emociones y razón e
 
 Con el trading el dinero deja de llenar nuestros vacíos y comienza a florecer en experiencias.
 
-Y lo que nos mantiene _en profit_ es nuestro equilibrio y constancia, no aprender a leer gráficos o ejecutar órdenes exchanges.
+Y lo que nos mantiene _en profit_ es nuestro equilibrio y constancia, no aprender a leer gráficos o ejecutar órdenes en exchanges.
 
 La suerte no es constante, y algunos métodos funcionan pero la mayoría no, porque se venden sin práctica ni desarrollo.
 
