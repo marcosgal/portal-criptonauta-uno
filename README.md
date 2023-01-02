@@ -12,6 +12,8 @@ Este será el **Curso de Iniciación Criptonauta**, previamente conocido como mi
 > \
 > _Gitbook pide muchos requisitos para habilitar lo mismo, y por ese motivo fuimos a lo menos burocrático y más personalizable posible._
 
+**Si quieres aportar, por favor envía tu Pull Request. EVITA FORKEAR!**
+
 ## To-Do List
 
 * Agregar imágenes mencionadas en MAYÚSCULAS.
