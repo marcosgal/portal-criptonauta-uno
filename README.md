@@ -38,8 +38,7 @@ A medida que avances, entenderás por qué no se trata de un libro ni tampoco de
 
 Porque a pesar de esta foto:
 
-![image](https://user-images.githubusercontent.com/121636966/209996268-92b17e9d-161c-49a3-b975-16846e592d8e.png)
-
+IMAGENMATIKIYO
 
 No soy ni seré un gurú, porque no me interesó, interesa ni interesará serlo.
 
@@ -47,7 +46,7 @@ Claro, todos los gurúes "comparten" (leen guiones ajenos) cierta información �
 
 Tuve que anunciar mi despedida de un servicio online que llegó a millones de personas, luego de mencionarles que iban a perderlo todo si no cerraban sus posiciones.
 
-![image](https://user-images.githubusercontent.com/121636966/210003734-69180689-d50b-4d10-bbfa-acc4b077ae08.png)
+IMAGENULTIMOVIVOENIG(NOPROMO)
 
 En 6 meses de trading logramos un 574%. El trading rompe muchísimos esquemas, sobre todo en víctimas de la "economía clásica" que nos programa para ahorrar algo que se devalúa a ritmo exponencial.
 
