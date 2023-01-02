@@ -51,7 +51,7 @@ Tuve que anunciar mi despedida de un servicio online que llegó a millones de pe
 
 En 6 meses de trading logramos un 574%. El trading rompe muchísimos esquemas, sobre todo en víctimas de la "economía clásica" que nos programa para ahorrar algo que se devalúa a ritmo exponencial.
 
-![image](https://user-images.githubusercontent.com/121636966/209998394-9ade2595-343d-4931-8174-798184007498.png)
+![Capacidad de compra del dólar en el tiempo](https://user-images.githubusercontent.com/98671738/210263652-4257423d-f7c0-4e1a-916a-7031bad18f05.png)
 
 El marketing de gurúes es lo que mejor funciona con el 97% que se mueve por emociones que no aprendió a gestionar.
 
