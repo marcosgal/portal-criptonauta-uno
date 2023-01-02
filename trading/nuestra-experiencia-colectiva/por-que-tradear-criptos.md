@@ -34,6 +34,9 @@ Complementar los datos básicos del mercado (precios, volumen, promedios y momen
 
 Porque todo corrige, siempre:
 
-FOTOFB - FOTONETFLIX
+![Volatilidad y corrección en acciones de Facebook](https://user-images.githubusercontent.com/98671738/210264709-96fddb8c-e937-4013-83cf-7743fe55932d.png)
+
+![Volatilidad y corrección en acciones de Netflix](https://user-images.githubusercontent.com/98671738/210264784-cb46ed80-ede3-4c62-9092-0f6c67c5313b.png)
+
 
 Y mejor contar con una base de datos transparente.
