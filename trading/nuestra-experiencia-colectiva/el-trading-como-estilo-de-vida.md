@@ -6,7 +6,7 @@ _¿Alguna vez te cruzaste a alguien que te dejó sin palabras por la libertad qu
 
 Así somos los traders. Y "no tenemos siempre razón", pero nos mantenemos firmes a nuestras estrategias.
 
-Podemos ajustarlas y cambiarlas, porque sabemos que nada es permanente. Y nos llevamos muy bien con ciertos métodos ajenos, pero luego de desarrollar los propios.
+Podemos ajustarlas y cambiarlas, porque sabemos que nada es permanente. Y nos llevamos muy bien con ciertos métodos ajenos, luego de desarrollar los propios.
 
 Intentar soluciones absolutas o universales es contrario a la naturaleza de todas las cosas.
 
@@ -26,15 +26,15 @@ Y me tocó desarrollar muchísimas cosas que no existían en relación al tradin
 
 Soy pionero, no solo en Criptonautas, sino al tradear de manera sostenida durante 7 años acumulando BTC (desde el 2022 también XMR) y sin ninguna cuenta en brokers tradicionales.
 
-Incluso viajé por tres países sin usar dólares ni cuentas en EE.UU.
+Incluso viajé por tres países, sin usar dólares ni cuentas en EE.UU.
 
 ### El 90% "pierde" porque vivimos en sociedad
 
-> _Nos obligan a recursar materias y a aferrarnos a relaciones que no funcionan, porque las insituciones generan dependencia para conservar su poder._\
+> _Nos obligan a recursar materias y aferrarnos a relaciones que no funcionan, porque las insituciones generan dependencia para conservar su poder._\
 > __\
 > _Solo ganan si no eres libre._
 
-Al acercarnos por primera vez al mercado, lo hacemos pensando en beneficios que no existen, porque nos inyectan la idea de que necesitamos cosas y que nuestra felicidad depende de cuántos bienes acumulemos.
+Al acercarnos por primera vez al mercado, lo hacemos pensando en beneficios que no existen, porque nos inyectan la idea que necesitamos cosas y que nuestra felicidad depende de cuántos bienes acumulemos.
 
 Eso es falso, pero muy cotidiano. **Por eso, la mayoría de los inversores individuales pierde todo su dinero**.&#x20;
 
