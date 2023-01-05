@@ -1,4 +1,8 @@
 ---
+icon: hubot
+---
+
+---
 description: >-
   "If you shift your awareness to your being, it will be your ticket to
   freedom". -Deepak Chopra
