@@ -4,7 +4,7 @@ description: O falacia del costo hundido.
 
 # Trampa de estar adentro
 
-Hace que nos mantengamosrnos en una decisión aun cuando las consecuencias de hacerlo sean desfavorables.
+Hace que nos mantengamos en una decisión aún cuando las consecuencias de hacerlo sean desfavorables.
 
 _Mantener posiciones a pérdida más allá del stop-loss o cerrar posiciones en ganancias sin que lleguen a su take-profit._
 
