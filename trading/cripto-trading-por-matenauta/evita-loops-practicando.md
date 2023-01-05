@@ -12,7 +12,7 @@ FOTO EXP
 
 Y tu práctica puede tomarse dos meses como también dos años.
 
-Lo cierto es que tdos intentamos ganar dinero antes que aprender a hacer trading, y así lo perdimos.
+Lo cierto es que todos intentamos ganar dinero antes que aprender a hacer trading, y así lo perdimos.
 
 ![¿Aprende TRADING en SOLO 10 MINUTOS?](../../.gitbook/assets/imagen.png)
 
@@ -22,11 +22,13 @@ Claro, siempre pensamos que la suerte cambie nuestra realidad y perseguimos dura
 
 Puedes tener suerte y hacer una diferencia importante tradeando alguna memecoin o comprando estafas como LUNA...
 
-FOTOUP
+![image](https://user-images.githubusercontent.com/122026745/210851418-7b5b788a-fef4-43a1-b8d9-366f9793cf1a.png)
+
 
 Pero creeme, siempre dura poco:
 
-FOTODOWN
+![image](https://user-images.githubusercontent.com/122026745/210851635-82422f92-c6c9-453f-b769-28e3dc1817f3.png)
+
 
 Y de nada sirve ganar mucho dinero para luego perderlo de una vez. Porque **el trading es mucho más que juntar indicadores y fijar un **_**stop-loss**_**.**
 
@@ -48,4 +50,4 @@ La mayoría elegimos tradear sin complicarnos demasiado, pero luego de capitaliz
 
 Si estoy viajando y conociendo lugares, o trabajando de lleno en la comunidad, tradeo menos pero con más volumen.
 
-Solo lo hago **cuando se confirma mi estrategia**. Actualmente estoy sosteniendo un ciclo de mercado con menos de 10 movimientos.
+Solo lo hago **cuando se confirma mi estrategia**. Actualmente estoy sosteniendo un ciclo de mercado con menos de 10 movimientos,recuerda que la mayoría de las veces, menos es más.
