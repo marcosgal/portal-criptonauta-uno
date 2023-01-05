@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-**Describe the improvement**
-A clear and concise description of what your suggestion is.
+## Description of the improvement
+_A clear and concise description of what your suggestion is._
 
-**How can you contribute**
-Tell us if you want to donate or give your time to work on your suggestion.
+## How I contribute
+_Tell us if you want to donate or give your time to work on your suggestion._
 
-**Screenshots or graphics**
-If applicable, add screenshots or graphics to help explain your problem.
+## Screenshots or graphics
+_If applicable, add screenshots or graphics to help explain your problem._
 
-**Additional context**
-Add any other context about the problem here.
+## Additional context
+_Add any other context about the problem here._
