@@ -3,7 +3,7 @@ label: Welcome
 icon: home
 ---
 
-# Welcome to Trading like a Criptonaut
+# Welcome to the jungle
 
 ## What's our trading course?
 
