@@ -13,6 +13,12 @@ branding:
       
 edit:
   repo: https://github.com/somos-criptonautas/trading
+  label: Editar en Github
+editor:
+  enabled: true
+integrations:
+  plausible:
+   domain: stats.criptonautas.co
 links:
   - text: blog
     link: https://criptonautas.co
@@ -20,5 +26,10 @@ links:
     link: https://comunidad.criptonautas.co
   - text: discord
     link: https://discord.criptonautas.co
+search:
+  placeholder: Buscar (textual)
+server:
+  watch:
+    mode: disk
 footer:
   copyright: "Criptonautas tiene licencia Creative Commons"
