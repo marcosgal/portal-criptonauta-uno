@@ -1,4 +1,9 @@
-# Welcome to Criptonautas
+---
+label: Welcome
+icon: home
+---
+
+# Trading like Criptonauta
 
 ## What's our trading course?
 
