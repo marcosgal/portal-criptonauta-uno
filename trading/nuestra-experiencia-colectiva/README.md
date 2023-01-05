@@ -1,3 +1,7 @@
+---
+icon: people
+---
+
 # Nuestra experiencia colectiva
 
 !!!light
