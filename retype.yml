@@ -33,7 +33,7 @@ search:
   noResultsFoundMsg: "No encontramos nada, prueba con otra palabra!"
 server:
   watch:
-    mode: memory
+    mode: disk
     polling: true|60000
 footer:
   copyright: "Criptonautas tiene licencia Creative Commons"
