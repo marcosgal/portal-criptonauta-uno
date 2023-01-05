@@ -17,7 +17,7 @@
 
 #### **Do you intend to add a new feature or change an existing one?**
 
-* Suggest your change in our [discussions here on Github]([https://discuss.rubyonrails.org/c/rubyonrails-core](https://github.com/somos-criptonautas/trading/discussions)) and start writing code 🧡
+* Suggest your change in our [discussions here on Github](https://github.com/somos-criptonautas/trading/discussions) and start writing code 🧡
 
 * Do not open an issue on GitHub for feature requests until you have collected positive feedback about the change. GitHub issues are primarily intended for bug reports and fixes.
 
