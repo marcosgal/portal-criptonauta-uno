@@ -4,10 +4,6 @@
 
 * Alan Watts !!!
 
-## Nuestra experiencia colectiva
-
-!!! BETA CRIPTONAUTA Puedes aportar imágenes subiendo el archivo (pegando al editar), sugerir ediciones en la organización, sintetizando cada capítulo en un resumen sencillo como última página y corregir ortografía, semántica o lo que sea. !!!
-
 Hola terrícola! 👋
 
 Lo que leerás a continuación es el resultado de prácticamente toda mi vida, porque el trading motiva todo lo que me hace bien.

@@ -1,9 +1,3 @@
----
-description: >-
-  "Nobody has the power to take two steps together; you can make only one step
-  at a time." - Osho
----
-
 # El trading como estilo de vida
 
 Para conocer al mercado, que es un lugar lleno de personas e instituciones que tratan de manipular personas, debemos primero conocernos a nosotros mismos.
