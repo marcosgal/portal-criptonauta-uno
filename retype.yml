@@ -10,7 +10,6 @@ branding:
     label:
       background: #111111
       text: #ffffff
-      
 edit:
   repo: https://github.com/somos-criptonautas/trading
   label: Editar en Github
@@ -28,6 +27,7 @@ links:
     link: https://discord.criptonautas.co
 search:
   placeholder: Buscar (textual)
+  noResultsFoundMsg: "No encontramos nada, prueba con otra palabra!"
 server:
   watch:
     mode: disk
