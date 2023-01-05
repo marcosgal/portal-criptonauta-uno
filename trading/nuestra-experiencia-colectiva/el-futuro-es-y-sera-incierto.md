@@ -1,4 +1,8 @@
 ---
+icon: pulse
+---
+
+---
 description: “Strategy is a commodity, execution is an art”. Peter Drucker
 ---
 
