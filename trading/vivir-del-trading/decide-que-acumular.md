@@ -56,9 +56,11 @@ El dólar estadounidense se aprecia frente a monedas de países endeudados con e
 
 Pero se deprecia frente a bienes, monedas o activos escasos!
 
-DOLARORO
+![image](https://user-images.githubusercontent.com/122026745/210862118-d5e4e01b-152c-440f-b002-5672baa33963.png)
 
-DOLARBITCOIN
+
+![image](https://user-images.githubusercontent.com/122026745/210862356-48f8cc33-37ba-4953-be5b-e0c65beea2d3.png)
+
 
 ## \[DESAFIO CRIPTONAUTA 2]
 
