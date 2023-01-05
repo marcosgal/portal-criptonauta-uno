@@ -8,7 +8,9 @@ It was started by matenauta (aka Matías Isea)
 
 ## Getting started
 
-You can start reading here or the coolest version on https://trading.criptonautas.co
+You can start reading [on Github](https://github.com/somos-criptonautas/trading) or the [coolest version on Retype](https://trading.criptonautas.co)
+
+**[WIP]** The first edition is on process and only in spanish (english and esperanto translations are planned).
 
 ## Contributing
 
@@ -22,4 +24,3 @@ We are in early stage and fully open to contributions. Please check out [CONTRIB
 * General structure revision (titles, subtitles).
 * Simplify redundant content.
 * Translate to english and esperanto.
-
