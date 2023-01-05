@@ -16,7 +16,6 @@ edit:
 editor:
   enabled: true
 exclude:
-  - README.md
   - CONTRIBUTING.md
 integrations:
   plausible:
