@@ -3,7 +3,7 @@
 ## 👋 Aprende trading en equipo <a href="#trading" id="trading"></a>
 
 * [Trading like Criptonauta](README.md)
-* [Nuestra experiencia colectiva](<README (1).md>)
+* [Nuestra experiencia colectiva](<trading/nuestra-experiencia-colectiva/index.md>)
   * [El trading como estilo de vida](trading/nuestra-experiencia-colectiva/el-trading-como-estilo-de-vida.md)
   * [El futuro es y será incierto](trading/nuestra-experiencia-colectiva/el-futuro-es-y-sera-incierto.md)
   * [Métodos no convencionales](trading/nuestra-experiencia-colectiva/metodos-no-convencionales.md)
@@ -21,14 +21,14 @@
 
 ## 👨🎓 Lo más importante <a href="#emociones" id="emociones"></a>
 
-* [El arte de estar presente](emociones/el-arte-de-estar-presente/README.md)
+* [El arte de estar presente](emociones/el-arte-de-estar-presente/index.md)
   * [Meditar es hacer trading](emociones/el-arte-de-estar-presente/meditar-es-hacer-trading.md)
   * [Comienza hoy mismo](emociones/el-arte-de-estar-presente/comienza-hoy-mismo.md)
     * [Meditación formal (respiración)](emociones/el-arte-de-estar-presente/la-tecnica-de-respiracion.md)
     * [Meditación informal (todo lo demás)](emociones/el-arte-de-estar-presente/comienza-hoy-mismo/meditacion-informal-todo-lo-demas.md)
   * [Por qué cuesta meditar](emociones/el-arte-de-estar-presente/por-que-cuesta-meditar.md)
   * [Cuándo verás resultados](emociones/el-arte-de-estar-presente/cuando-veras-resultados.md)
-* [Nuestra mente no es fiable](emociones/tu-mente-no-es-fiable/README.md)
+* [Nuestra mente no es fiable](emociones/tu-mente-no-es-fiable/index.md)
   * [Nos perdemos en emociones](emociones/tu-mente-no-es-fiable/por-que-te-pierdes.md)
   * [Las trampas del pensamiento](emociones/tu-mente-no-es-fiable/las-trampas-de-tu-mente.md)
     * [Trampa de pérdidas](emociones/nuestra-mente-no-es-fiable/las-trampas-del-pensamiento/trampa-de-perdidas.md)
