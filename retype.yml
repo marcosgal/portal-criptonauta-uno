@@ -15,6 +15,9 @@ edit:
   label: Editar en Github
 editor:
   enabled: true
+exclude:
+  - README.md
+  - CONTRIBUTING.md
 integrations:
   plausible:
    domain: stats.criptonautas.co
