@@ -10,6 +10,6 @@ A la hora de medir un sistema, deberías hacerlo a partir de una muestra lo sufi
 
 **¿Qué hacer para evitar esta trampa?**
 
-Comenzar en una _testnet_ y registar todas tus operaciones**.**
+Comenzar en una _testnet_ y registar todas tus operaciones
 
 La info escrita no varía como lo puede hacer tu memoria. Una de las planillas que te envié con este curso mejora notablemente su utilidad mientras más datos (_trades_) introduzcas en ella.
