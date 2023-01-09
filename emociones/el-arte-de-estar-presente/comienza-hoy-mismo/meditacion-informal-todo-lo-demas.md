@@ -4,8 +4,8 @@ Así como podemos hacer ejercicio dejando atrás nuestra dependencia al menor es
 
 Una cosa no quita a la otra, y es probable que caminar a la tienda en busca de alimentos no sea suficiente, como tampoco lo sea enfocar tu atención a la ducha mientras te bañas.
 
-!!!\
-Ambas prácticas sumarán mucho a tu vida, y mejor empezar con ambas ya mismo.\
+!!!
+Ambas prácticas sumarán mucho a tu vida, y mejor empezar con ambas ya mismo.
 !!!
 
 Para meditar en tu día a día solo deberás apreciar la magia del presente, como si tuvieras 5/10 años.
