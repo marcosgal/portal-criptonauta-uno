@@ -106,7 +106,7 @@ Ciertos gurúes suben periódicamente videos a YouTube, redactan artículos o in
 
 El uso de stop-loss es gratuito, lleva apenas unos segundos fijarlo y mantiene tus pérdidas controladas.&#x20;
 
-**Hasta tener al menos 3 años en el mercado, deberás tradear SIEMPRE con **_**stop-loss.**_
+> Hasta tener al menos 3 años en el mercado, deberás tradear SIEMPRE con _stop-loss._
 
 ### Mantener posiciones a pérdida
 
