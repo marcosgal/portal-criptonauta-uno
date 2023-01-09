@@ -14,8 +14,8 @@ Esa info es precisa y nos permite auto-evaluarnos de manera muy simple y natural
 
 Descubrimos nuestras motivaciones Existen varios tipos de motivaciones: internas o externas, intrínsecas o extrínsecas, positivas o negativas.
 
-!!!\
-Hay una diferencia enorme entre hacer algo por y para un resultado específico.\
+!!!
+Hay una diferencia enorme entre hacer algo por y para un resultado específico.
 !!!
 
 Puedes hacer trading para ganar dinero. Puedes hacer trading por tu desarrollo y aprendizaje.
@@ -24,8 +24,8 @@ Está comprobado que quienes focalizan su energía en el resultado obtienen alta
 
 Eso quiere decir que si te enfocás en ganar dinero, vivirás ansios@ y lo perderás todo el tiempo. Porque aunque tal vez no lo valores, es muy gratificante entender análisis técnico, saber gestionar riesgo y capital, o hacer yoga y meditar a diario. El dinero llega después. ¿Qué motiva tus operaciones? Como para que quede claro: si piensas solo en hacer dinero, la vas a pasar muy mal. No conectarás con la comunidad ni conmigo, porque no le doy lugar al egoísmo en nuestro espacio. Y el mercado es incluso peor. Tienes tiempo de sobra para hacer dinero, porque el trading nos muestra que la realidad es exponencial, ya no lineal, pero para entenderlo debemos conocernos y conocer al resto en profundidad.
 
-!!!\
-Lineal es lo que mantiene control: tu salario, la moneda de los bancos, el calendario que te dice qué día puedes descansar.\
+!!!
+Lineal es lo que mantiene control: tu salario, la moneda de los bancos, el calendario que te dice qué día puedes descansar.
 !!!
 
 ## \[DESAFIO CRIPTONAUTA 8]
