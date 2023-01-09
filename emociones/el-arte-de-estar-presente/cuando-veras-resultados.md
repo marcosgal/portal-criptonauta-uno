@@ -16,8 +16,8 @@ Los cambios que genera el mindfulness son mínimos, pero sumamente importantes y
 
 Si notas que en algún momento estás en una situación muy tensa mientras estés operando, frena todo, respira, tomate tu tiempo y evalúa con la comunidad de qué manera seguir.
 
-!!!alert\
-Nos gusta acompañarte, pero deberás acercarte a lo que hacemos y dejar atrás todo tipo de auto-limitaciones que no te permitan avanzar.\
+!!!
+Nos gusta acompañarte, pero deberás acercarte a lo que hacemos y dejar atrás todo tipo de auto-limitaciones que no te permitan avanzar.
 !!!
 
 ## \[DESAFÍO CRIPTONAUTA 7]
