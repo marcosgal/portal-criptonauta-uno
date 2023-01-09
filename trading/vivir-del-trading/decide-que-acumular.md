@@ -6,11 +6,9 @@ description: >-
 
 # Decide qué acumular
 
-Si quieres dólares, deberás idear una estrategia para sumar y mantener dólares; pero si quieres Bitcoin, deberás mantener una estrategia enfocada en sumar y mantener BTC.
+Si quieres dólares, deberás idear una estrategia para sumar y mantener dólares; pero si quieres Bitcoin, deberás mantener una estrategia enfocada en sumar y mantener BTC. Lo mismo para acumular euros, estampillas o autógrafos de famosos.
 
-Lo mismo para acumular euros, estampillas o autógrafos de famosos.
-
-> La mayoría elige una moneda para ello, pero incluso puedes elegir varias a la vez, y no pensar tu capital como algo estático sino dinámico, que fluctuará en relación a ciclos.\
+> La mayoría elige una moneda para ello, incluso puedes elegir varias a la vez, y no pensar tu capital como algo estático sino dinámico, que fluctuará en relación a ciclos.\
 > \
 > Así gestiono mis finanzas. Pero puedes elegir solo una opción y empezar de ese modo.
 
@@ -36,7 +34,7 @@ Es cierto, me moví en Argentina, México y Colombia sin dólares (ida y vuelta)
 
 Y lo seguiré haciendo en Europa, Asia o cualquier lugar del mundo.
 
-Contemplo que existen porque es lo que respetan muchas cosas que debo pagar. Pero eso no quita que acumule lo que valoro para mantener mi capital a mediano y largo plazo.
+Contemplo que existen porque es lo que respetan muchas cosas que debo pagar. Eso no quita que acumule lo que valoro para mantener mi capital a mediano y largo plazo.
 
 **No me interesa sumar dólares, más que para cubrir mis gastos mensuales y no perder dinero.**
 
@@ -44,11 +42,11 @@ Y es curioso que la mayoría haga lo contrario.
 
 Pero si planificas un estilo de vida más tradicional, tal vez debas acumular un cierto porcentaje de dólares, porque siempre es mejor empezar el reseteo de a poco.
 
-Con el tiempo entenderás que no se puede asegurar nada a futuro y te amigarás con la incertidumbre, entonces es probable que disfrutes más tu vida...
+Con el tiempo entenderás que no se puede asegurar nada a futuro y te amigarás con la incertidumbre. Entonces es probable que disfrutes más tu vida...
 
-Pero mientras tanto no deberías forzar nada, todos tenemos nuestros tiempos para todas las cosas.
+Mientras tanto no deberías forzar nada, todos tenemos nuestros tiempos para todas las cosas.
 
-Empear de a poco no anula que además de tu capital en dólares puedas mantener un porcentaje invertido en Bitcoin, o Monero 🔥
+Empezar de a poco no anula que además de tu capital en dólares puedas mantener un porcentaje invertido en Bitcoin, o Monero 🔥
 
 FOTODOLAR(CAPTIONNORINDE)
 
