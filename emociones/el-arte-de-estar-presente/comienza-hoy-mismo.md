@@ -12,7 +12,7 @@ Puedes meditar en ayunas, incorporando mudras, conociendo los movimientos desde 
 
 Pero también en tu departamento, una montaña o un parque público.
 
-La meditación es lo que más deberíams cultivar teniendo en cuenta el ritmo social cotidiano, porque nos conecta con lo que vale la pena que es el único instante que respiramos.
+La meditación es lo que más deberíamos cultivar teniendo en cuenta el ritmo social cotidiano, porque nos conecta con lo que vale la pena que es el único instante que respiramos.
 
 Es muy común que al intentar meditar persigas un bienestar o un fin en concreto a partir de la meditación: liberar estrés, aumentar tu productividad, abandonar determinados hábitos, ser mejor persona, ser libre...
 
@@ -22,9 +22,9 @@ Pero vas a obtener lo contrario: aceptar el presente y tomar conciencia de que n
 
 Y así comenzarás a elegir tu día a día, con el tiempo.
 
-Meditar es la única actividad intencional que harás sin intentar llegar a salgún lugar. Porque para la meditación todos los momentos y lugares son igual de especiales.
+Meditar es la única actividad intencional que harás sin intentar llegar a algún lugar. Porque para la meditación todos los momentos y lugares son igual de especiales.
 
-&#x20;FOTOSMEDITACIONCRIPTONAUTAS
+![arbol](https://user-images.githubusercontent.com/121636966/210469130-b583add6-96b0-4412-9124-bb41c9e6cd43.jpg)
 
 ### Medita en tu día a día
 
