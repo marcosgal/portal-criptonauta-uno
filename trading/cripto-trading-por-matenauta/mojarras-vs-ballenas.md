@@ -12,8 +12,4 @@ Tal vez pienses que ser una _mojarra_ sea algo malo. Pero en el trading aprendem
 
 Porque siendo _mojarra_ puedes moverte con mucha más libertad y menos responsabilidades que las _ballenas_.
 
-Pero **si no eres consciente** de tu peso en el mercado, perderás todo tu dinero, porque elegirán las ballenas por ti y comprarás basura (o comprarás algo bueno en sobre-precio).
-
-> Puedes navegar Criptonautas para más info sobre la manipulación institucional en tu día a día.\
-> \
-> Somos el único medio independiente sobre trading y cripto, desde una perspectiva bitcoiner NO fundamentalista.
+Pero **si no eres consciente** de tu peso en el mercado, perderás todo tu dinero, porque eligirán las ballenas por ti y comprarás basura (o comprarás algo bueno en sobre-precio).

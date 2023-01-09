@@ -32,7 +32,7 @@ Luego de perder todo el dinero que había acumulado en mi vida, respeté mi deci
 
 Entonces pedí dinero prestado y me recuperé haciendo trading en períodos muy reducidos de tiempo, acumulando BTC a través del _scalping_ con margen con tope en 20X.
 
-Y esa no es la única manera de aplicar lo que aprendí porque dejé de hacer _scalping_ al fundar btcarg, hoy **Criptonautas**, y publicar este curso.
+Y esa no es la única manera de aplicar lo que aprendí porque dejé de hacer _scalping_ al fundar btcarg (hoy **Criptonautas**), y publicar este curso.
 
 El tiempo no se puede aumentar, es lo más limitado que tenemos. Y el _scalping_ require más atención operativa que el _swing trading_ donde las operaciones se toman más tiempo en desarrollarse...
 
@@ -44,10 +44,9 @@ Incorporé el concepto de _retesteo_ a los que utilizamos en nuestro día a día
 
 FOTOXMR-PAXG-MEDIOTRADE
 
-!!!\
-El resultado de esa adaptación fue muy positivo, todas mis entradas están visibles en nuestro foro y servidor en Discord.
+!!! El resultado de esa adaptación fue muy positivo, todas mis entradas están visibles en nuestro foro y servidor en Discord.
 
-Sumé capital (en BTC) incluso en bear market, sosteniendo la comunidad y viajando por el mundo. Y sin restringirme ni una vez en mi día a día, siendo que me gusta vivir cómodo.\
+Sumé capital (en BTC) incluso en bear market, sosteniendo la comunidad y viajando por el mundo. Y sin restringirme ni una vez en mi día a día, siendo que me gusta vivir cómodo.
 !!!
 
 Al destinar menos tiempo a mi trading, moví 10 veces más capital que al hacer scalping, pero de manera (relativa en el caso de PAXG) descentralizada en Bitcoin, Monero y Pax Gold.
@@ -58,11 +57,11 @@ Hay muchísimas opciones para hacer trading de manera rentable y sostenible, per
 
 Y es delicado hablar de resultados porque dependen exclusivamente de la ejecución de entradas y salidas...
 
-Ademá s de que no es lo mismo vivir solo con 200 dólares en Argentina que en familia con 5000 en Europa.
+Además que no es lo mismo vivir solo con 200 dólares en Argentina, que en familia con 5.000 en Europa.
 
 **¿Crees que Lionel Messi empezó a jugar al fútbol pensando en cuánto iba a ganar?**
 
-Pero más allá de eso, te puedo acercar un poco a tierra 🙂
+Más allá de eso, te puedo acercar un poco a tierra 🙂
 
 Si vives soltero o con una familia sin demasiados gastos fijos, necesitas 5/10k USD para vivir relativamente cómodo del trading, operando de manera activa y usando margen.
 
@@ -70,18 +69,16 @@ Siendo lo más razonable que te fondees el doble o el triple, para poder operar 
 
 Si tienes diez veces ese monto, algo asi como 100 mil dólares, podrías vivir de tus inversiones sin demasiadas preocupaciones _(esos 100 mil pueden cotizar menos durante algunos momentos)_.
 
-Pero para eso deberás practicar al menos uno o dos años, y eso es muchísimo más importante que conseguir esos 100 mil dólares.
-
-Porque si solo los consigues, luego los pierdes. Y puede que incluso pierdas otros 100 mil más.
+Pero para eso deberás practicar al menos uno o dos años, y eso es muchísimo más importante que conseguir esos 100 mil dólares. Porque si solo los consigues, luego los pierdes. Y puede que incluso pierdas otros 100 mil más.
 
 Entonces en una situación de mercado lateral y suponiendo que las operaciones que generas son precisas, el porcentaje de ganancias por operación puede ir del 2% al 20%.
 
-Y eso se da en unos minutos o apenas unas horas. Se confirman dos o tres entradas diarias de este tipo, pero con un porcentaje de éxito muy favorable (es lo que debe perseguir cualquier estrategia de _trading_).
+Y eso se da en unos minutos o apenas unas horas. Se confirman dos o tres entradas diarias de este tipo, con un porcentaje de éxito muy favorable (es lo que debe perseguir cualquier estrategia de _trading_).
 
 Entonces con 30 entradas mensuales estarías haciendo un 20% aproximado sobre tu capital inicial, tradeando y diversificando muchísimo tu riesgo en varias operaciones.
 
 Porque nunca tradeamos todo lo que tenemos, cuidamos lo que tenemos. Y no apostamos, trabajamos sobre nuestro capital.
 
-Pero si no tienes tanto tiempo para dedicarle a tus finanzas, puedes hacer algunos movimientos mensuales y lograr que tu dinero no se devalúe por su naturaleza sino que se aprecie.
+Pero si no tienes tanto tiempo para dedicarle a tus finanzas, puedes hacer algunos movimientos mensuales y lograr que tu dinero no se devalúe por su naturaleza, sino que se aprecie.
 
 Y cuando pasen los años, podrás comprarte algo que te interese, hacer algún viaje o regalarle algo a personas que valores.

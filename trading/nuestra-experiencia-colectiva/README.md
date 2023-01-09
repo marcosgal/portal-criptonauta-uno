@@ -1,12 +1,12 @@
+---
+icon: globe
+---
+
 # Nuestra experiencia colectiva
 
-!!!light "By replacing fear of the unknown with curiosity we open ourselves up to an infinite stream of possibility.”
-
-* Alan Watts !!!
-
-## Nuestra experiencia colectiva
-
-!!! BETA CRIPTONAUTA Puedes aportar imágenes subiendo el archivo (pegando al editar), sugerir ediciones en la organización, sintetizando cada capítulo en un resumen sencillo como última página y corregir ortografía, semántica o lo que sea. !!!
+!!!light
+"By replacing fear of the unknown with curiosity we open ourselves up to an infinite stream of possibility.”
+- Alan Watts !!!
 
 Hola terrícola! 👋
 

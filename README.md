@@ -1,25 +1,31 @@
 ---
-description: >-
-  "Nobody has the power to take two steps together; you can make only one step
-  at a time." - Osho
+label: Welcome
+icon: home
 ---
 
-# CURSO EN BETA
+# Welcome to the jungle
 
-Este será el **Curso de Iniciación Criptonauta**, previamente conocido como mi Curso de Trading.
+## What's our trading course?
 
-> Si lees desde **Github**, ingresa a https://trading.criptonautas.co para ver la versión en **Retype** (con mejores estilos y posibilidad de edición en open-source).\
-> \
-> _Gitbook pide muchos requisitos para habilitar lo mismo, y por ese motivo fuimos a lo menos burocrático y más personalizable posible._
+Our trading course is a colective experience that includes almost 3 years of ~300 traders feedback around the world.
 
-**Si quieres aportar, por favor envía tu Pull Request. EVITA FORKEAR!**
+It was started by matenauta (aka Matías Isea) 
 
-## To-Do List
+## Getting started
 
-* Agregar imágenes mencionadas en MAYÚSCULAS.
-* Correcciones en estilos (css, html, markdown).
-* Completar citas en todos los títulos.
-* Revisión de títulos, subtítulos, estructura general.
-* Simplificar contenido redundante.
-* Traducir a inglés y esperanto.
+You can start reading [on Github](https://github.com/somos-criptonautas/trading) or the [coolest version on Retype](https://trading.criptonautas.co)
 
+**[WIP]** The first edition is on process and only in spanish (english and esperanto translations are planned).
+
+## Contributing
+
+We are in early stage and fully open to contributions. Please check out [CONTRIBUTING.MD](https://github.com/somos-criptonautas/trading/blob/main/CONTRIBUTING.md) for more info.
+
+### To-Do List
+
+* Complete images mentioned in CAPS.
+* CSS style corrections (CSS, HTML, Markdown).
+* Add quotes on every title or subtitle.
+* General structure revision (titles, subtitles).
+* Simplify redundant content.
+* Translate to english and esperanto.
