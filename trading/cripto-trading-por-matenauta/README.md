@@ -14,8 +14,6 @@ Un día me propuse dejar de trabajar para otros, como sea. Y me pregunté si se 
 
 En ese momento Bitcoin solo tenía 3 billones de dólares de capitalización.
 
-En ese momento Bitcoin solo tenía 3 billones de dólares de capitalización.
-
 _`Multiplicamos los bitcoins vigentes por el precio de cada uno en dólares (BTCUSD).`_
 
 Pero al 2020, cuando publiqué la primera versión de este libro, Bitcoin tenía 100 billones de dólares...
@@ -34,7 +32,7 @@ Porque los mercados están abiertos a inversores minoristas y los precios pueden
 
 ![Mercados abiertos minoristas](https://user-images.githubusercontent.com/121636966/210031504-d13dbc1e-b3cf-4ef0-bb37-840a964e3221.jpg)
 
-!!!alert\
+!!!
 Esto es especulación y solo tiene valor si lo encuentras en la habilidad para ubicarte en el mercado, o en lo que elijas acumular.\
 \
 Si solo piensas en hacer dinero, como un fin en sí mismo, lo más probable es que lo pierdas.\
@@ -42,7 +40,7 @@ Si solo piensas en hacer dinero, como un fin en sí mismo, lo más probable es q
 
 ### **Siempre supe que es posible**
 
-Mark Douglas afirma que la sociedad persigue metas incompatibles con la mentalidad que debe desarrollar el trader y por eso nos cuesta tanto hacerlo.[ 2](https://www.amazon.com/Trading-Zone-Confidence-Discipline-Attitude-ebook/dp/B004H1TBCG)
+Mark Douglas afirma que *la sociedad persigue metas incompatibles con la mentalidad que debe desarrollar el trader y por eso nos cuesta tanto hacerlo*.[ 2](https://www.amazon.com/Trading-Zone-Confidence-Discipline-Attitude-ebook/dp/B004H1TBCG)
 
 Coincido con el colega luego de encontrar mi trading, alejarme de instituciones y vivir a mi modo... Pero sobre todo, luego de compartir casi tres años con \~300 traders en este curso 🏄
 
@@ -86,7 +84,7 @@ Porque casi nadie me apoyaba. Mis amigos no creían que esto fuera posible, la m
 
 Mi familia me apoyaba pero es muy tradicional, y tampoco creían que vivir sin trabajar ocho horas o vivir sin horarios ni calendario fuera posible.
 
-En el camino me fundí dos veces y viví situaciones muy delicadas pero siempre tuve en claro que valía la pena seguir aprendiendo desde cada uno de mis errores.
+En el camino me fundí dos veces y viví situaciones muy delicadas aunque siempre tuve en claro que valía la pena seguir aprendiendo desde cada uno de mis errores.
 
 Editar este libro me recuerda que estuve del otro lado, y te garantiza que puedes hacerlo :)
 

@@ -24,8 +24,5 @@ Revisa los conceptos, prepara una segunda lectura o simplemente no avances hasta
 
 Esto marcará un límite a tu ansiedad, que tarde o temprano deberás limitar.
 
-!!!\
-_Puedes compartir tus notas con la comunidad desde_ [_nuestro Discord_](https://discord.criptonautas.co) _o_ [_nuestro foro_](https://comunidad.criptonautas.co)_!_\
-__!!!
-
-**TL;DR =** Continúa leyendo en tres días desde el título "Vivir del trading".
+!!! _Puedes compartir tus notas con la comunidad desde_ [_nuestro Discord_](https://discord.criptonautas.co) _o_ [_nuestro foro_](https://comunidad.criptonautas.co)_!_!!!
+__!!! Continúa leyendo en tres días desde el título "Vivir del trading". !!!
