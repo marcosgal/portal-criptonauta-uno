@@ -32,7 +32,7 @@ Agradecerás muchísimo hacerlo.
 
 \- ¿A qué le que tengo que prestar más atención al momento de operar?\
 \- ¿Cuáles son las opciones que tengo al tomar esta decisión?\
-\- ¿Cual es la emoción de base que origina la desición que estoy tomando?\
+\- ¿Cual es la emoción de base que origina la decisión que estoy tomando?\
 \- ¿Cómo es mi respiración en este momento, qué es lo que siento? ¿Soy consciente de cómo me siento?\
 \- ¿Cómo me siento al cerrar la posición, cómo es mi respiración, qué tanta ansiedad tengo, qué tanto miedo, qué tanta duda?\
 \- ¿Qué opino honestamente del resultado?\
