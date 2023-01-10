@@ -25,7 +25,9 @@ La pausa mental permite que las ganancias corran, en vez de cortarlas desde un a
 
 Eso no significa que funcionará para tí, ni asegura que funcione para todos. Porque dependerá del tiempo que dediques y lo consciente que seas al hacerlo.
 
-> Deberías acompañar al mindfulness con alimentación más conciente, abandonar las gaseosas, alimentos procesados, harinas y azúcares refinadas, químicos y colorantes artificiales y tomar solo agua filtrada, o cualquier cosa que sepas hará bien a tu organismo. https://www.yerbabuena.cl/article/los-7-ingredientes-mas-daninos-en-los-alimentos-procesados
+> Puedes acompañar al mindfulness con alimentación consciente: cambiar gaseosas por agua filtrada, alimentos procesados por artesanales y orgánicos.
+>
+> Y si quieres ser libre deberás quitar progresivamente harinas y azúcares refinadas, químicos y colorantes artificiales de tu día a día.
 >
 > Nos envenenan para hacernos dependientes y no podemos hacer trading en paz si vivimos atanos a todo.
 
