@@ -27,7 +27,7 @@ Eso no significa que funcionará para tí, ni asegura que funcione para todos. P
 
 > Deberías acompañar al mindfulness con alimentación más conciente, abandonar las gaseosas, alimentos procesados, harinas y azúcares refinadas, químicos y colorantes artificiales y tomar solo agua filtrada, o cualquier cosa que sepas hará bien a tu organismo. https://www.yerbabuena.cl/article/los-7-ingredientes-mas-daninos-en-los-alimentos-procesados
 >
-> Nos envenenan para hacernos dependientes, nos inflamamos comiendo alimentos sin sol (procesados, enlatados, en fin no naturales ) y no podrás hacer trading en paz si te vives atando a todo.
+> Nos envenenan para hacernos dependientes y no podemos hacer trading en paz si vivimos atanos a todo.
 
 Neurocientíficos afirman que meditar media hora diaria durante 8 semanas produce cambios físicos visibles en tomografías ([17](https://news.harvard.edu/gazette/story/2011/01/eight-weeks-to-a-better-brain/)).
 
