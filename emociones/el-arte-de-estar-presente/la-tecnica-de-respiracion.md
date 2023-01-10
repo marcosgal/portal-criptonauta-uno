@@ -88,6 +88,6 @@ Antes de meditar no era consciente de que tenía tantos pensamientos, porque jus
 
 ## \[DESAFÍO CRIPTONAUTA 5]
 
-!!!\
-Fija un horario o al menos una franja horaria donde meditar al menos dos veces por semana, y en lo posible un lugar.\
+!!!
+Fija un horario o al menos una franja horaria donde meditar al menos dos veces por semana, y en lo posible un lugar.
 !!!
