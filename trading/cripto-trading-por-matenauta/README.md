@@ -14,8 +14,6 @@ Un día me propuse dejar de trabajar para otros, como sea. Y me pregunté si se 
 
 En ese momento Bitcoin solo tenía 3 billones de dólares de capitalización.
 
-En ese momento Bitcoin solo tenía 3 billones de dólares de capitalización.
-
 _`Multiplicamos los bitcoins vigentes por el precio de cada uno en dólares (BTCUSD).`_
 
 Pero al 2020, cuando publiqué la primera versión de este libro, Bitcoin tenía 100 billones de dólares...
