@@ -10,19 +10,21 @@ Y es la actividad que más libertad me ofrece, que es la base de cada una de mis
 
 A lo largo de este libro verás varios emojis, te cruzarás con palabras _argentas_, _paisas_ y _mexas_, y aprenderás que todo puede ser más simple.
 
+Incluso leerás algunas citas en inglés, para estimular tu curiosidad y mérito (siempre puedes traducir).
+
 Si piensas en escribir un libro, tal vez imagines que es algo que se escribe de principio a final...
 
 Pero si escribes un libro, notarás que tiene varios principios y finales.
 
-La idea de lo incierto cotidianamente nos asusta porque esperamos controlar todas las cosas, cuando no podemos controlar ni siquiera nuestras pasiones.
+La idea de lo incierto cotidianamente nos asusta porque esperamos controlar todas las cosas, cuando no podemos controlar ni siquiera nuestros propios pensamientos, sentimientos o pasiones.
 
-Por eso te sentirás incómod@ a lo largo de esta experiencia, sobre todo si esperas algo que resuelva tus problemas financieros de una vez.
+Por eso te sentirás incómod@ a lo largo de esta experiencia, sobre todo si esperas algo que resuelva tus problemas financieros de una vez, o sea un camino siempre agradable.
 
-Aquí aprenderás estudiando, compartiendo o repitiendo patrones cíclicos si no prestas atención ni respetas nuestro método.
+Aquí aprenderás estudiando y compartiendo, o perdiendo mucho dinero, si no prestas atención ni te incorporas a nuestra propuesta.
 
-Aprenderás de manera amigable o muy dura. Porque es nuestro único y principal objetivo, que aprendas lo que aprendimos y te liberes.
+Aprenderás de manera amigable o muy dura. Porque es nuestro único y principal objetivo, que aprendas y te liberes.
 
-A medida que avances, entenderás por qué no se trata de un libro ni tampoco de un curso. Y cómo es que lo que hacemos se transformó en nuestro estilo de vida.
+A medida que avances entenderás por qué no se trata de un libro ni tampoco de un curso. Y descubrirás por qué el trading se transformó en algo que forma parte de nuestro estilo de vida.
 
 !!!info Atenti **Solo debes continuar con anotador en mano** !!!
 
@@ -30,7 +32,7 @@ A medida que avances, entenderás por qué no se trata de un libro ni tampoco de
 
 Porque a pesar de esta foto:
 
-IMAGENMATIKIYO
+![El conocimiento no entra desde caras](https://user-images.githubusercontent.com/98671738/212181424-d06ee8b0-be76-40e9-bb4e-8074f348b44e.png)
 
 No soy ni seré un gurú, porque no me interesó, interesa ni interesará serlo.
 
@@ -38,7 +40,7 @@ Claro, todos los gurúes "comparten" (leen guiones ajenos) cierta información �
 
 Tuve que anunciar mi despedida de un servicio online que llegó a millones de personas, luego de mencionarles que iban a perderlo todo si no cerraban sus posiciones.
 
-IMAGENULTIMOWEBINARENIG(NOPROMO)
+*FOTOWEBINARBUSCARENS3(matenauta)*
 
 En 6 meses de trading logramos un 574%. El trading rompe muchísimos esquemas, sobre todo en víctimas de la "economía clásica" que nos programa para ahorrar algo que se devalúa a ritmo exponencial.
 
@@ -129,11 +131,11 @@ Ninguno de esos nombres me enseñó trading. Con el tiempo llegué a un puñado 
 
 Dónde está realmente la info:
 
-![El más punk, muchos tips](.gitbook/assets/imagen (4).png)
+![El más punk, muchos tips](https://user-images.githubusercontent.com/98671738/212181068-8d0b0e13-3d9d-4a92-bfc6-212bb3f213c0.png)
 
-![La base de mi estrategia (seguir la tendencia)](.gitbook/assets/imagen (3).png)
+![La base de mi estrategia (seguir la tendencia)](https://user-images.githubusercontent.com/98671738/212180968-98505319-3aea-4b9c-a549-a2db3e20af8c.png)
 
-![Mi ABC del trading](.gitbook/assets/Screen Shot 2022-10-08 at 13.14.37.png)
+![Mi ABC de trading](https://user-images.githubusercontent.com/98671738/212181156-12db45ce-3e59-4e99-9417-926e06280ec0.png)
 
 Y no son los únicos autores, hay más! Pero no encontrarás soluciones a tus problemas financieros en ninguno de ellos, ni tampoco en este libro.
 
@@ -147,7 +149,7 @@ _No podemos esperar a que papá Estado imprima más billetes para seguir apostan
 
 Y por otra parte, no podemos hacer como Elon Musk y lograr que millones de personas compren algo que vale cero:
 
-<figure><img src=".gitbook/assets/imagen (6).png" alt=""><figcaption><p>Esquema Pump&#x26;Dump generado por instituciones</p></figcaption></figure>
+![Esquema Pump&Dump generado por Instituciones](https://user-images.githubusercontent.com/98671738/212193801-4c11de2e-aadd-40af-b5e3-45d78d2e2292.png)
 
 #### Se funden miles por no practicar trading
 
