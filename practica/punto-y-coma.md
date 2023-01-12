@@ -6,30 +6,20 @@ description: >-
 
 # Por qué aportar para continuar
 
-En el desarrollo de estas páginas hay más de 10 mil horas personales invertidas, tanto en mi desarrollo como en lo que hacemos en Criptonautas de manera colectiva.
+En el desarrollo de estas páginas hay más de 10 mil horas personales invertidas, tanto en mi desarrollo como en lo que hacemos en comunidad.
 
-Si contamos el tiempo de cada uno de los traders que participaron en este proyecto, la suma aumenta varias veces.
+Si contamos el tiempo de cada uno de los traders que participa en este proyecto, la suma aumenta varias veces, y dudo que alguien en internet le haya dedicado algo cercano a lo que hacemos.
 
-Si recibiste en estas páginas más información que en ningún otro canal o suscripción, lo mínimo que podrías hacer es aportar tiempo o dinero a su desarrollo.
+Si recibiste en estas páginas más información que en ningún otro canal o suscripción, puedes aportar tiempo o dinero a su desarrollo y así comenzar a aplicar lo que leíste.
 
 Aportar al desarrollo de _algo_, hace que ese _algo_ reciba trabajo, dinero, motivación y energía para continuar mejorando.
 
 Porque para mejorar hay que cubrir muchísimas funciones (puestos de trabajo), servidores, herramientas, recursos y plataformas.
 
-> **Tu aporte monetario representa mucho más que dos cervezas artesanales por mes**, porque de hecho su precio sigue siendo simbólico.
+> **Tu aporte monetario será justo**, porque elegimos un precio simbólico que la mayoría estaríamos dispuestos a pagar.\
+> \
+> **Tu suscripción cuesta lo mismo que dos cervezas por mes.**
 
 El seguimiento directo y constante de una mentoría de reseteo y trading con nuestro criterio y propósito, se vendería en el mercado al menos en 10 veces su precio lanzamiento.
 
-_Pero no te preocupes, hacemos algo genuino y vanguardista. Y por eso solo funciona entre personas, en valores que pretenden equilibrio (no romperlo)._
-
-## Espero verte pronto!
-
-Porque ya sea aportes tiempo o dinero, o incluso si no lo haces, agradezco mucho tu participación 🧡
-
-Soy **matenauta** en Discord, la comunidad o el blog de Criptonautas.
-
-Y mezclo música electrónica como **Matías Isea** _(aprendí trading para poder mezclar tranquilo y sin limitaciones)_.
-
-No tengo títulos pero además de tradear en cripto \~7 años, diagramo, administro, gestiono y desarrollo todo en Criptonautas.
-
-Pero solo soy un cartoon 😎
+_Pero no te preocupes, hacemos algo genuino y vanguardista. Y por eso solo funciona entre personas que mantenemos valores que pretenden equilibrio (no romperlo en ventas abusivas o marketing mercenario)._

@@ -14,9 +14,9 @@ El trading solo funciona cuando dejamos de buscar la razón y comenzamos a recib
 
 Porque sino damos vueltas sobre lo mismo, una y otra vez.
 
-Notarás que tus aportes regresan como búmeran a tu trading y te mantienen siempre entre las mayores probabilidades.
+Notarás que tus aportes regresan como boomeran a tu trading y te mantienen siempre entre las mayores probabilidades.
 
-### Tienes dos maneras de avanzar
+## Decide cómo avanzar
 
-* Compartiendo en la comunidad durante tres meses y [respetando nuestro sistema de compromiso](https://comunidad.criptonautas.com.ar/t/importante-categorias-de-usuarios-en-criptonautas/64) para recibir la membresía Padawan de manera gratuita por tus aportes.
-* [Abonar nuestra membresía Padawan](https://criptonautas.co/membresia) y continuar ya mismo.
+* Compartiendo en la comunidad durante tres meses y [respetando nuestro sistema de compromiso](https://comunidad.criptonautas.com.ar/t/importante-categorias-de-usuarios-en-criptonautas/64).
+* ****[**Abonando nuestra membresía Padawan**](https://criptonautas.co/membresia) **para continuar ya mismo.**
