@@ -129,11 +129,11 @@ Ninguno de esos nombres me enseñó trading. Con el tiempo llegué a un puñado 
 
 Dónde está realmente la info:
 
-<figure><img src=".gitbook/assets/imagen (4).png" alt=""><figcaption><p>El más punk, muchos tips</p></figcaption></figure>
+![El más punk, muchos tips](.gitbook/assets/imagen (4).png)
 
-<figure><img src=".gitbook/assets/imagen (3).png" alt=""><figcaption><p>La base de mi estrategia (seguir la tendencia)</p></figcaption></figure>
+![La base de mi estrategia (seguir la tendencia)](.gitbook/assets/imagen (3).png)
 
-<figure><img src=".gitbook/assets/Screen Shot 2022-10-08 at 13.14.37.png" alt=""><figcaption><p>Mi ABC del trading</p></figcaption></figure>
+![Mi ABC del trading](.gitbook/assets/Screen Shot 2022-10-08 at 13.14.37.png)
 
 Y no son los únicos autores, hay más! Pero no encontrarás soluciones a tus problemas financieros en ninguno de ellos, ni tampoco en este libro.
 
