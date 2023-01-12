@@ -1,4 +1,8 @@
 ---
+icon: multi-select
+---
+
+---
 description: >-
   Te contamos brevemente cómo registrarte, recorrer e investigar en nuestros
   espacios.
