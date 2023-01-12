@@ -100,7 +100,7 @@ Y por eso será muy simple que incorpores lo que aprendí en tus propias estrate
 
 En vez de vender una falaz verdad absoluta, prefiero motivarte a que apliques la info en tu propio sistema de trading, aunque eso requiera tu esfuerzo (es lo único que funciona).
 
-Aprender practicando es la única manera de hacerlo así que olvidate de indicadores y robots mágicos...
+Aprender practicando es la única manera de hacerlo, así que olvidate de indicadores y robots mágicos...
 
 Y preparate para cruzarte con todos tus miedos, si acostumbras a que otros hagan las cosas por ti.
 
