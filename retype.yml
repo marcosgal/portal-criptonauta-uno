@@ -17,6 +17,7 @@ editor:
   enabled: true
 exclude:
   - CONTRIBUTING.md
+  - README.md
 integrations:
   plausible:
    domain: stats.criptonautas.co
