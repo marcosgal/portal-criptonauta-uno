@@ -1,3 +1,7 @@
+---
+icon: copilot
+---
+
 # Portal Criptonauta
 
 ## Quiénes somos?
