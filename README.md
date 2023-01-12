@@ -3,7 +3,9 @@ label: Welcome
 icon: home
 ---
 
-# Welcome to the jungle
+# Enter into the Cryptonaut Portal
+
+> Para leer en español avanza a la siguiente página desde más abajo 🙂
 
 ## What's our trading course?
 
