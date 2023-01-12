@@ -15,6 +15,7 @@ edit:
   label: Editar en Github
 editor:
   enabled: true
+favicon: static/favicon.png
 exclude:
   - CONTRIBUTING.md
   - README.md
