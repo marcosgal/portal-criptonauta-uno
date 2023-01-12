@@ -1,6 +1,6 @@
-# Ingresa al Portal Criptonauta
+# Portal Criptonauta
 
-## Quiénes son los Criptonautas?
+## Quiénes somos?
 
 Los Criptonautas somos un grupo de personas como tú, que se encontró en internet al buscar cómo liberar sus finanzas y economía del sistema.
 
@@ -38,7 +38,7 @@ Y nuestra experiencia colectiva de casi 3 años en comunidad.
 
 ## Cómo empezar
 
-### 👉 Puedes empezar leyendo la primer etapa [en Github](https://github.com/somos-criptonautas/trading) o [la versión más cool en Retype](https://trading.criptonautas.co) (open-source).
+## 👉 Puedes empezar [en Github](https://github.com/somos-criptonautas/trading) si sabes usar Github o en [la versión más cool en Retype](https://trading.criptonautas.co) si eliges la manera más simple.
 
 > **\[WIP - Work In Progress]** Nuestra experiencia está en desarrollo constante, y esta versión aún es BETA.
 >
