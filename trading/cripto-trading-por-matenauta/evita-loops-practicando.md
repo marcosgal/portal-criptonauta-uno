@@ -1,3 +1,7 @@
+---
+icon: iterations
+---
+
 # Evita loops practicando
 
 Hacer algo que no hacíamos es tan simple como hacerlo, pero si llevamos casi toda nuestra vida sin practicar, es lógico que nos cueste recordar cómo hacerlo.
