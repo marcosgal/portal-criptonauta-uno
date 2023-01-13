@@ -43,11 +43,9 @@ Y nuestra experiencia colectiva de casi 3 años en comunidad.
 
 ## Cómo empezar
 
-## 👉 Puedes empezar [en Github](https://github.com/somos-criptonautas/trading) si sabes usar Github o en [la versión más cool en Retype](https://trading.criptonautas.co) si eliges la manera más simple.
-
-> **\[WIP - Work In Progress]** Nuestra experiencia está en desarrollo constante, y esta versión aún es BETA.
->
-> Eso significa que algunas cosas no funcionarán como deberían, pero te guiaremos siempre desde nuestro soporte (lo cubrimos directamente desde la comunidad :orange\_heart:).
+!!!
+Puedes empezar [en Github](https://github.com/somos-criptonautas/trading) si sabes usar Github o en [la versión más cool en Retype](https://trading.criptonautas.co) si eliges la manera más simple.
+!!!
 
 ## Cómo aportar
 
@@ -59,7 +57,13 @@ X
 
 > Recibimos dinero libre, puedes conseguir XMR en **#lacuevademilton** o casi cualquier exchange del mundo.
 
-## Lista de pendientes
+=== \[WIP - Work In Progress]
+
+Nuestra experiencia está en desarrollo constante, y esta versión aún es BETA.
+
+Eso significa que algunas cosas no funcionarán como deberían, pero te guiaremos siempre desde nuestro soporte (lo cubrimos directamente desde la comunidad :orange\_heart:).
+
+==- Lista de pendientes
 
 * Completar imágenes en MAYUS.
 * Corregir hojas de estilos (CSS, HTML, Markdown).
@@ -67,3 +71,4 @@ X
 * Revisar la estructura general.
 * Simplificar contenido redundante.
 * Traducir al inglés y esperanto.
+===
