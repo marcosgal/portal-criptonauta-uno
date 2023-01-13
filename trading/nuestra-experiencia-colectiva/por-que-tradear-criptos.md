@@ -2,6 +2,7 @@
 description: >-
   "Privacy is the power to selectively reveal oneself to the world" - Eric
   Hughes
+icon: bold
 ---
 
 # Por qué tradear criptos
