@@ -2,6 +2,7 @@
 description: >-
   "Usted sólo podrá aprender los secretos del mercado si presta atención a cómo
   funciona (usted) en realidad".   Van K. Tharp.
+  icon: trophy
 ---
 
 # Vivir del trading
