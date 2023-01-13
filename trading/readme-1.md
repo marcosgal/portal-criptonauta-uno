@@ -44,14 +44,15 @@ Y nuestra experiencia colectiva de casi 3 años en comunidad.
 ## Cómo empezar
 
 !!!
-Puedes empezar [en Github](https://github.com/somos-criptonautas/trading) si sabes usar Github o en [la versión más cool en Retype](https://trading.criptonautas.co) si eliges la manera más simple.
+Solo debes continuar leyendo, pero contemplando que lo puedes hacer en [la versión diseñada en Retype](https://trading.criptonautas.co) o en la más avanzada [desde Github](https://github.com/somos-criptonautas/trading).
 !!!
 
 ## Cómo aportar
 
-Este proyecto es encuentra en sus primeras etapas de desarrollo. Si quieres aportar ediciones e información, revisa [CONTRIBUTING.MD](../CONTRIBUTING.md).
+Este proyecto es encuentra en sus primeras etapas de desarrollo, por lo que son muy bienvenidos los aportes.
 
-Si te interesa aportar dinero, puedes enviar XMR a la siguiente dirección:
+- Si quieres aportar ediciones e información, revisa [CONTRIBUTING.MD](../CONTRIBUTING.md).
+- Si quieres aportar dinero, puedes enviar XMR a la siguiente dirección:
 
 X
 
@@ -59,9 +60,9 @@ X
 
 === \[WIP - Work In Progress]
 
-Nuestra experiencia está en desarrollo constante, y esta versión aún es BETA.
+Nuestra experiencia está en desarrollo constante y actualmente en estado beta.
 
-Eso significa que algunas cosas no funcionarán como deberían, pero te guiaremos siempre desde nuestro soporte (lo cubrimos directamente desde la comunidad :orange\_heart:).
+Eso significa que algunas cosas no funcionarán como deberían, pero te guiaremos siempre desde nuestro soporte (lo cubrimos directamente desde la comunidad 🧡).
 
 ==- Lista de pendientes
 
