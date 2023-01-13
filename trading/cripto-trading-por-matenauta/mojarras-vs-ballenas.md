@@ -1,3 +1,7 @@
+===
+icon: mirror
+===
+
 # Mojarras vs ballenas
 
 Miles de “mojarras” o _pequeños traders_ intentan métodos que solo inflan las cuentas de “ballenas” o traders institucionales (bancos, empresas y gobiernos).
