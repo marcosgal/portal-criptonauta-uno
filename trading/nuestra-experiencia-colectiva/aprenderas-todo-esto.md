@@ -1,3 +1,7 @@
+---
+icon: trophy
+---
+
 # Aprenderás todo esto
 
 Nuestro curso no se agota en análisis técnico, psicología ni gestión de emociones, porque enseñamos y aprendemos trading de manera holística e integral.
