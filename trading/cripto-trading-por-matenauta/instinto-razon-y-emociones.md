@@ -1,6 +1,6 @@
-===
+---
 icon: dependabot
-===
+---
 
 # Instinto, razón y emociones
 
