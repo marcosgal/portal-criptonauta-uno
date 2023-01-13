@@ -1,3 +1,7 @@
+===
+icon: dependabot
+===
+
 # Instinto, razón y emociones
 
 Paul MacLean -neurocientífico estadounidense- propuso en la década de los 70’s que nuestro cerebro posee tres áreas: reptiliana (instintos, supervivencia), límbica (emociones) y neocórtex (razón, lenguaje). [3](https://trove.nla.gov.au/work/21996323?selectedversion=NBD593731)
