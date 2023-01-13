@@ -1,5 +1,6 @@
 ---
 description: '"It does not matter how slowly you go as long as you do not stop.'' -Confucio'
+icon: issue-draft
 ---
 
 # El arte de no-hacer
