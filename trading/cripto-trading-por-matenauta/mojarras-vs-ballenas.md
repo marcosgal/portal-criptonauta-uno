@@ -1,6 +1,6 @@
-===
+---
 icon: mirror
-===
+---
 
 # Mojarras vs ballenas
 
