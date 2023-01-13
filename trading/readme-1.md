@@ -44,12 +44,12 @@ Y nuestra experiencia colectiva de casi 3 años en comunidad.
 ## Cómo empezar
 
 !!!
-Solo debes continuar leyendo, pero contemplando que lo puedes hacer en [la versión diseñada en Retype](https://trading.criptonautas.co) o en la más avanzada [desde Github](https://github.com/somos-criptonautas/trading).
+Solo debes continuar leyendo pero si lo haces desde Github, ingresa a [la versión diseñada en Retype](https://trading.criptonautas.co).
 !!!
 
 ## Cómo aportar
 
-Este proyecto es encuentra en sus primeras etapas de desarrollo, por lo que son muy bienvenidos los aportes.
+Estamos en pleno desarrollo, por lo que son muy bienvenidos tus aportes.
 
 - Si quieres aportar ediciones e información, revisa [CONTRIBUTING.MD](../CONTRIBUTING.md).
 - Si quieres aportar dinero, puedes enviar XMR a la siguiente dirección:
