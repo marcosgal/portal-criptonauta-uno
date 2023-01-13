@@ -1,6 +1,6 @@
 ---
 icon: multi-select
-description: >- Te contamos brevemente cómo registrarte, recorrer e investigar en nuestros espacios.
+description: Te contamos brevemente cómo registrarte, recorrer e investigar en nuestros espacios.
 ---
 
 # Navegar en Criptonautas
