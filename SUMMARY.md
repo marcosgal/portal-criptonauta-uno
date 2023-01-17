@@ -6,7 +6,6 @@
 * [Ingresa al Portal Criptonauta](trading/readme-1.md)
 * [Navegar en Criptonautas](trading/navegar-en-criptonautas.md)
 * [Nuestra experiencia colectiva](trading/nuestra-experiencia-colectiva/README.md)
-  * [Nuestra experiencia colectiva](trading/nuestra-experiencia-colectiva/nuestra-experiencia-colectiva.md)
   * [El trading como estilo de vida](trading/nuestra-experiencia-colectiva/el-trading-como-estilo-de-vida.md)
   * [El futuro es y será incierto](trading/nuestra-experiencia-colectiva/el-futuro-es-y-sera-incierto.md)
   * [Métodos no convencionales](trading/nuestra-experiencia-colectiva/metodos-no-convencionales.md)
@@ -22,7 +21,7 @@
   * [Decide qué acumular](trading/vivir-del-trading/decide-que-acumular.md)
   * [Por qué acumulo BTC y XMR](trading/vivir-del-trading/por-que-acumulo-btc-y-xmr.md)
 
-## 👨🎓 👨🎓 👨🎓 Lo más importante <a href="#emociones" id="emociones"></a>
+## 👨🎓 👨🎓 👨🎓 👨🎓 Lo más importante <a href="#emociones" id="emociones"></a>
 
 * [El arte de estar presente](emociones/el-arte-de-estar-presente/README.md)
   * [Meditar es hacer trading](emociones/el-arte-de-estar-presente/meditar-es-hacer-trading.md)
