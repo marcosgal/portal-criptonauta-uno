@@ -1,56 +1,61 @@
 ---
 description: >-
-  "We can choose courage or we can choose comfort, but we can't have both. Not
-  at the same time". -Brené Brown
+  "We can choose courage or we can choose comfort, but we can't have both. Not at the same time".
+  -Brené Brown
+icon: info
 ---
 
 # Decide qué acumular
 
 Si quieres dólares, deberás idear una estrategia para sumar y mantener dólares; pero si quieres Bitcoin, deberás mantener una estrategia enfocada en sumar y mantener BTC. Lo mismo para acumular euros, estampillas o autógrafos de famosos.
 
-> La mayoría elige una moneda para ello, incluso puedes elegir varias a la vez, y no pensar tu capital como algo estático sino dinámico, que fluctuará en relación a ciclos.\
-> \
-> Así gestiono mis finanzas. Pero puedes elegir solo una opción y empezar de ese modo.
+_Es muy probable que los autógrafos de famosos no se devalúen tanto como la moneda de los bancos._
 
-Cuando tradeas estás asumiendo una posición en un par, por ejemplo BTCUSD...
+La mayoría elige acumular una moneda o propiedades.
 
-Y si en ese caso, si te interesa sumar USD deberás hacer una cosa, pero si te interesa sumar BTC, la contraria.
+Pero los Criptonautas podemos usar varias monedas a la vez (en vez de pensar nuestro saldo exclusivamente en dólares). Entonces mantenemos nuestro capital en un estándar dinámico y ya no estatico.
 
-**Solo puedes decidir el cómo si primero sabes el qué. Elige qué acumular y luego llegará el cómo.**
+Al tradear (comprar y vender algo) asumimos una posición en un par, por ejemplo auto vendido por pesos argentinos (ARS) o directamente dos activos juntos como es el caso de BTCUSD...
 
-Puedes elegir tu moneda local, dólares, oro, propiedades, plata, latas de comida, sal, cuadros, guitarras, experiencias o postales de colección.
+Porque puedes sumar dolares pero también Bitcoin, y debes tener en claro qué quieres sumar. Si te interesa sumar USD deberás hacer una cosa, pero si te interesa sumar BTC, generalmente la contraria.
 
-También puedes acumular todo eso, pero si haces trading, _algo_ deberás aumular en tus trades porque tus operaciones lograrán un resultado en _algo_ (EUR, USDT, BTC, ETH, etc).
+**Solo puedes decidir el cómo si primero sabes el qué. Elige qué acumular y luego llegará el cómo!**
 
-> Y esto es muy importante, de hecho es el **\[EJERCICIO PRÁCTICO 2] que encontrarás más abajo**\
-> ****\
-> ****_(tal vez te incomode que haya cambiado el método de organización previo, bienvenid@ al club)._\
-> __\
-> _(o peor, que no use algunas mayúsculas a propósito)._
+A lo largo de tu vida puedes elegir acumular tu moneda local, dólares, oro, propiedades, plata, latas de comida, sal, cuadros, guitarras, experiencias o postales de colección...
 
-### "matenauta no acumula dólares"
+También puedes acumular todo eso! Pero si haces trading, **_algo_ deberás aumular en tus trades** porque tus operaciones lograrán un resultado en _algo_ (EUR, USDT, BTC, ETH, etc).
 
-Es cierto, me moví en Argentina, México y Colombia sin dólares (ida y vuelta).
+> Y esto es muy importante, de hecho es el **[EJERCICIO PRÁCTICO 2] que encontrarás más abajo!**
+> 
+> _(Tal vez te incomode que haya cambiado el método de organización previo, bienvenid@ al club del reseteo)._ 👽\
 
-Y lo seguiré haciendo en Europa, Asia o cualquier lugar del mundo.
+### Personalmente no acumulo dólares (matenauta)
 
-Contemplo que existen porque es lo que respetan muchas cosas que debo pagar. Eso no quita que acumule lo que valoro para mantener mi capital a mediano y largo plazo.
+Es cierto, me muevo entre Argentina, México y Colombia sin dólares. Y lo seguiré haciendo en Europa, Asia o cualquier lugar del mundo cuando continúe mis aventuras.
 
-**No me interesa sumar dólares, más que para cubrir mis gastos mensuales y no perder dinero.**
+Contemplo que existen porque es lo que respetan muchas cosas que debo pagar. Pero eso no quita que acumule lo que valoro para mantener mi capital a mediano y largo plazo.
 
-Y es curioso que la mayoría haga lo contrario.
+**Y no me interesa sumar dólares, más que para cubrir mis gastos mensuales y no perder dinero.**
 
-Pero si planificas un estilo de vida más tradicional, tal vez debas acumular un cierto porcentaje de dólares, porque siempre es mejor empezar el reseteo de a poco.
+Algunas personas se sorprenden por esto pero a mí me resulta muy curioso que la mayoría haga lo contrario.
 
-Con el tiempo entenderás que no se puede asegurar nada a futuro y te amigarás con la incertidumbre. Entonces es probable que disfrutes más tu vida...
+De todas maneras, si planificas un estilo de vida más tradicional, deberás cubrir muchos gastos. Porque se encargan de eso.
 
-Mientras tanto no deberías forzar nada, todos tenemos nuestros tiempos para todas las cosas.
+Vivienda, comida, salud, educación, renta, bienes personales, ganancias, etc, etc.
 
-Empezar de a poco no anula que además de tu capital en dólares puedas mantener un porcentaje invertido en Bitcoin, o Monero 🔥
+En eses caso deberías acumular un cierto porcentaje de tu patrimonio (todo lo que tienes entre ahorros, inversiones o bienes) en dólares, porque siempre es mejor liberarse de a poco.
 
-FOTODOLAR(CAPTIONNORINDE)
+> Si dependes de fármacos, lo más saludable es que los retires de a poco (no de una vez). Lo mismo aplica a tus miedos e incluso tu dependencia a los bancos.
 
-El dólar estadounidense se aprecia frente a monedas de países endeudados con el FMI, que dependen del dólar por dependencia y estafa institucional...
+Con el tiempo entenderás que no se puede asegurar nada a futuro y te amigarás con la incertidumbre. Entonces es probable que disfrutes más tu vida y no quieras que nadie se meta en tus asuntos.
+
+Ahí tendrías más dinero libre, ya no registrado en el Estado, pero hasta que eso se genere deberías ir de a poco y aceptar que todos tenemos nuestros tiempos para todas las cosas.
+
+Porque "empezar de a poco" no anula que además de tu capital en dólares puedas mantener un porcentaje invertido en Bitcoin, o Monero. De hecho eso es lo que más libertad te ofrecerá, siempre 🔥
+
+## El dólar no es estable (ni mucho menos inversión)
+
+Se aprecia frente a monedas de países endeudados con el FMI, que dependen del dólar por dependencia y estafa institucional...
 
 Pero se deprecia frente a bienes, monedas o activos escasos!
 
