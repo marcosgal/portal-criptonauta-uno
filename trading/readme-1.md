@@ -1,5 +1,5 @@
 ---
-icon: copilot
+icon: rocket
 order: 1
 ---
 
