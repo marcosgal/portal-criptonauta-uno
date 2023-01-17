@@ -87,7 +87,9 @@ Por eso nunca reconocí autoridades sino argumentos, e intenté desarrollar este
 
 El resultado fue el esperado, la mayoría "se perdió" porque "nadie le decía qué hacer" 😬
 
-!!!contrast Es curioso que esperemos nos digan qué hacer, incluso al aprender a decidir por nuestra cuenta. !!!
+!!!contrast
+Es curioso que esperemos nos digan qué hacer, incluso al aprender a decidir por nuestra cuenta.
+!!!
 
 Como Criptonautas tampoco juzgamos, pero reconocemos niveles de compromiso que mantienen la información en tres etapas. Porque **el objetivo de la comunidad en este curso es que la mayoría aprenda trading**.
 
