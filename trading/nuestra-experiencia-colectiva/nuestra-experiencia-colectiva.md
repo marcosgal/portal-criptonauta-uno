@@ -2,13 +2,22 @@
 
 !!!light "By replacing fear of the unknown with curiosity we open ourselves up to an infinite stream of possibility.”
 
-* Alan Watts !!!
+- Alan Watts
+!!!
 
 Hola terrícola! 👋
 
-Lo que leerás a continuación es el resultado de prácticamente toda mi vida, porque el trading motiva todo lo que me hace bien.
+Te escribe matenauta pero junto a la comunidad criptonauta que se sumó a editar y colaborar con nuestro Portal.
 
-Y es la actividad que más libertad me ofrece, que es la base de cada una de mis creaciones :)
+Esto es el resultado de prácticamente toda mi vida, porque el trading motiva y exige todo lo que me hace bien.
+
+Tal vez no lo entiendas ahora, pero a medida que avances, entenderás que elegir sobre nuestro dinero implica un grado y nivel de libertad y equilibrio que ni siquiera imaginamos dentro de lo que aquí definimos como "La Matrix" (para otros puede ser la sociedad, el capitalismo o el sistema).
+
+Estudié y me desarrollé profesionalmente en el trading de criptomonedas porque es la única manera en la que pude poder costear el nivel de vida que disfruto sin entregar más de 1/3 de mi tiempo.
+
+Y además, porque me propuse mezclar música electronica sin depender de ello para sostener mi economía.
+
+Si no encuentras un propósito mayor a hacer dinero, lo perderás todo porque así funcionan las cosas a nivel universal (generamos lo opuesto a lo que intentamos forzar).
 
 A lo largo de este libro verás varios emojis, te cruzarás con palabras _argentas_, _paisas_ y _mexas_, y aprenderás que todo puede ser más simple.
 
@@ -180,3 +189,22 @@ Ahí me vi cara a cara con el diablo, y obtuve la sabiduría que hoy me permite 
 El diablo en este caso no tiene una connotación negativa, pero es aquello que nos muestra nuestros miedos y deseos más ocultos.
 
 El trading nos muestra todo.
+
+Nuestro curso no se agota en análisis técnico, psicología ni gestión de emociones, porque enseñamos y aprendemos trading de manera holística e integral.
+
+Aquí aprenderás cómo tomar tus decisiones financieras, pero sobre todo a recuperar el valor de tomar tus propias decisiones.
+
+![Discord1](https://user-images.githubusercontent.com/121636966/210029435-78ea2fb2-a793-43e4-b187-fe0a564e1f24.jpg)
+![Discord2](https://user-images.githubusercontent.com/121636966/210029442-d4e2edcd-e602-4c83-ab83-d448d9caee0c.jpg)
+![Discord3](https://user-images.githubusercontent.com/121636966/210029445-b6b9c504-b57f-45d0-bd99-a7c753f1d094.jpg)
+![Discord4](https://user-images.githubusercontent.com/121636966/210029557-15d356eb-94f9-4d6e-8281-50eb6ecdc3a8.jpg)
+
+Si desconoces sobre el dinero, aprenderás qué es el dinero desde nuestra perspectiva y día a día.
+
+Si desconoces sobre trading, aprenderás la base de las velas japonesas y tendencias, que te permitirán ver al mundo de otra manera y ya no desde las noticias de los que más poder tienen sobre la mayoría.
+
+![Velas](https://user-images.githubusercontent.com/121636966/210030414-9438c6f8-4108-452b-89aa-021ab9c90618.jpg)
+
+Si desconoces sobre cripto, aprenderás cómo manejarte fuera de empresas, Estados y organismos de control, porque valoramos privacidad y seguridad en todo lo que hacemos.
+
+![kyc](https://user-images.githubusercontent.com/121636966/210030428-861a6c61-d4fa-4cb5-bbb8-b6e2fc63ab47.jpg)
