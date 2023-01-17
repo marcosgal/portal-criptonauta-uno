@@ -1,5 +1,6 @@
 ---
 description: QUOTEPROBABILITIES
+icon: light-bulb
 ---
 
 # Por qué acumulo BTC y XMR
