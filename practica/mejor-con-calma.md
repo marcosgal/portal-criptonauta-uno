@@ -2,6 +2,7 @@
 description: >-
   “Remember that the happiest people are not those getting more, but those
   giving more.” – H. Jackson Brown Jr.
+icon: git-pull-request-closed
 ---
 
 # Dos maneras de avanzar
