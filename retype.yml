@@ -18,7 +18,7 @@ editor:
 favicon: static/favicon.png
 exclude:
   - CONTRIBUTING.md
-  - README.md
+  - ./README.md
 integrations:
   plausible:
    domain: stats.criptonautas.co
