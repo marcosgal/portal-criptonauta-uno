@@ -34,9 +34,10 @@ A lo largo de tres etapas **aprenderás trading desde una perspectiva holística
 
 ## Fundamentos
 
-* Métodos desde diversas áreas, disciplinas y escuelas de pensamiento alternativas: Wadorf, Sudbury, Mindfulness, 
-* Desarrollo de tiempo completo durante 7 años por nuestro fundador.
-* Nuestra experiencia colectiva de casi 3 años en comunidad.
+* Métodos desde diversas áreas, disciplinas y escuelas de pensamiento alternativas: Wadorf, Sudbury, Mindfulness, conectivismo, aprendizaje rizomático y método Feynmann (entre otros).
+* Desarrollo profesional y durante 7 años por nuestro fundador.
+* Experiencia colectiva de casi 3 años en comunidad.
+* Archivo público y verificable de todo lo que hacemos.
 
 ## Cómo empezar
 
