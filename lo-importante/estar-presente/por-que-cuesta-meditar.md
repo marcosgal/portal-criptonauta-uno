@@ -20,9 +20,9 @@ Son suficientes 5 o 10 minutos diarios durante la primera o segunda semana, porq
 
 Si las exigencias sociales (trabajo, familia, hijos pequeños) te privan de cierta cantidad de minutos a solas, podrás comenzar con el tiempo que realmente tengas disponible.
 
-Así sea un minuto diario, el cambio de paradigma se hace notar y la estructura cerebral comienza su transformación.&#x20;
+Así sea un minuto diario, el cambio de paradigma se hace notar y la estructura cerebral se transforma sin que lo notemos.&#x20;
 
-_Siendo escéptico, imagino confiarás en sus beneficios probados desde resonancias magnéticas, porque de lo contrario, deberías también abandonar clínicas y hospitales._
+> Si eres escéptic@, imagino confiarás en sus beneficios probados desde resonancias magnéticas, porque de lo contrario, deberías también abandonar clínicas y hospitales.
 
 ## Todos podemos meditar
 
