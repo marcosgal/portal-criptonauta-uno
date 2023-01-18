@@ -29,21 +29,49 @@ Apurarte y hacer todo rápido no hará que te conviertas en trader, sino todo lo
 Esto no es un speech, si te apuras te chocarás una pared de concreto gigante.
 !!!
 
-# Estudia y practica cuando estés enfocad@
+# Es un no-curso porque genera libertad
 
-Si en algún momento notas que te cuesta retener los conceptos mientras estés leyendo, o directamente no los recuerdas, deberías retomar en otro momento.
+El modelo de educación tradicional parte de la figura de autoridad, en la cual alguien sabe algo que otro no.
+
+Entonces se produce una relación de poder, donde el maestro es superior al alumno. Y el alumno solo aprueba si el maestro está de acuerdo en ello (desde su criterio).
+
+¿Te imaginas si me tuvieras que pedir permiso cada vez que ejecutes un trade? ¿Quién sería responsable si eso no sale como esperamos?
+
+_Gestioné algunas carteras y terminaron haciendo lo que quisieron. Otros no lograron hacerse el tiempo o la fuerza necesaria para enviar su capital a un dispositivo Trezor._
+
+_Es lamentable que ciertas personas tengan exceso de recursos, pero eso está cambiando de manera muy vertiginosa._
+
+# Es un no-curso porque "no tendrás que" hacer
+
+En cambio, decidirás hacer (o no hacer) y serás plenamente responsable de tus resultados.
+
+Dudo que alguien quiera regalarte algo así, porque eso representará (o no) tu independencia financiera.
+
+Usualmente recibes dinero en bancos y dependes de ellos para gestionarlo. Puedes comprar dólares, que es la moneda de otro banco, o propiedades que están tasadas en esas mismas monedas (y dependen además de la legislación que modifican sin pedirte permiso).
+
+También puedes comprar oro, algo que confiscaron y hoy se define desde un precio en el mercado de derivados.
+
+FOTOCONFISCATEDGOLD
+
+# Estudiamos y practicamos cuando tenemos ganas
+
+Entonces, si en algún momento notas que te cuesta retener los conceptos mientras estés leyendo, o directamente no los recuerdas, deberías retomar en otro momento.
+
+Salí a pasear, hacé algo que te guste. Disfrutamos lo que hacemos.
 
 Si te peleaste con tu pareja, tus hijos se metieron en problemas, o tu jefe se ve muy molesto esta semana... Tal vez sea mejor que le dediques tu tiempo a eso y luego te sientes para avanzar en tu trading.
 
 Mejor de a una cosa por vez.
 
-Acostumbras "andar a mil" porque es el ritmo de la sociedad del consumo, que produce para que unos pocos maximicen al máximo sus ganancias _(pero pagando salarios fijos y limitados, vaya negocio para instituciones)_.
+Acostumbras "andar a mil" porque es el ritmo de la sociedad del consumo, que produce para que unos pocos maximicen al máximo sus ganancias _(pero pagando salarios fijos y limitados, vaya negocio para los más grandes)_.
 
 Durante este curso, mientras más consciencia puedas mantener en lo que haces y de la manera más relajada posible, mejores serán TUS resultados.
 
-> **TIP CRIPTONAUTA:** recuerda el anotador para tu lista de lo que no entiendes. Luego puedes buscar o preguntar e ir tachando.
+!!! **TIP CRIPTONAUTA:**
+Recuerda el anotador para tu lista de lo que no entiendas. Luego podrás buscar o consultar e ir tachando, lo cual se siente muy bien 😎
+!!!
 
-#### Internet es un arma de doble filo
+## Internet es un arma de doble filo
 
 Hace 30 años solo podían tradear un puñado de afortunados. Ciertos apellidos o familias, ningún aficionado.
 
@@ -55,4 +83,4 @@ Y eso suena cool pero también genera una realidad que debes aceptar ahora mismo
 
 Las _ballenas_ acumulan y las _mojarras_ venden a pérdida, y esto pasa en todos los mercados, desde que existen hace más de 200 años.
 
-_Sigo siendo mojarra, pero me muevo según las ballenas_ 😬
+_Por aquí sigo siendo mojarra, pero me muevo según las ballenas_ 😬
