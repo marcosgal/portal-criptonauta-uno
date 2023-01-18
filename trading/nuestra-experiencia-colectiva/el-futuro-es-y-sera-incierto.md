@@ -1,8 +1,9 @@
----
-description: “Strategy is a commodity, execution is an art”. Peter Drucker
----
-
 # El futuro es y será incierto
+
+!!!contrast
+Strategy is a commodity, execution is an art.
+— Peter Drucker
+!!!
 
 En el mercado operamos personas o robots programados por personas. Las personas somos inciertas, y por eso, la certeza no existe a la hora de hacer _trading_.
 
@@ -22,7 +23,7 @@ Nuestras emociones delinean nuestros pensamientos, y es muy probable que no veam
 
 **La programación mental que recibimos nos hace cortar profits y arriesgar de más en las pérdidas porque nos acostumbran a evitar sentimientos negativos.**
 
-No es casualidad encontrar tantos químicos en la calle y tantas apps de citas; una línea de cocaína + una noche de sexo funcionan como antídoto ideal ante el día a día que tolera la mayoría.
+No es casualidad encontrar tantos químicos en la calle o apps de citas; una línea de cocaína + una noche de sexo funcionan como antídoto ideal ante el día a día que tolera la mayoría.
 
 En el siglo XXI todo va a mil, no hay lugar para la paciencia. La vida gira en torno a una vorágine constante de deseo ininterrumpido, y no hay lugar para desarrollarnos.
 
