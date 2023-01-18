@@ -1,8 +1,8 @@
 ---
-icon: info
 description: >-
-  "We can choose courage or we can choose comfort, but we can't have both. Not
-  at the same time". -Brené Brown
+  "We can choose courage or we can choose comfort, but we can't have both. Not at the same time".
+  -Brené Brown
+icon: info
 ---
 
 # Decide qué acumular
@@ -23,11 +23,11 @@ Porque puedes sumar dolares pero también Bitcoin, y debes tener en claro qué q
 
 A lo largo de tu vida puedes elegir acumular tu moneda local, dólares, oro, propiedades, plata, latas de comida, sal, cuadros, guitarras, experiencias o postales de colección...
 
-También puedes acumular todo eso! Pero si haces trading, _**algo**_** deberás aumular en tus trades** porque tus operaciones lograrán un resultado en _algo_ (EUR, USDT, BTC, ETH, etc).
+También puedes acumular todo eso! Pero si haces trading, **_algo_ deberás aumular en tus trades** porque tus operaciones lograrán un resultado en _algo_ (EUR, USDT, BTC, ETH, etc).
 
-> Y esto es muy importante, de hecho es el **\[EJERCICIO PRÁCTICO 2] que encontrarás más abajo!**
->
-> _(Tal vez te incomode que haya cambiado el método de organización previo, bienvenid@ al club del reseteo)._ 👽\\
+> Y esto es muy importante, de hecho es el **[EJERCICIO PRÁCTICO 2] que encontrarás más abajo!**
+> 
+> _(Tal vez te incomode que haya cambiado el método de organización previo, bienvenid@ al club del reseteo)._ 👽\
 
 ### Personalmente no acumulo dólares (matenauta)
 
@@ -61,7 +61,9 @@ Pero se deprecia frente a bienes, monedas o activos escasos!
 
 ![image](https://user-images.githubusercontent.com/122026745/210862118-d5e4e01b-152c-440f-b002-5672baa33963.png)
 
+
 ![image](https://user-images.githubusercontent.com/122026745/210862356-48f8cc33-37ba-4953-be5b-e0c65beea2d3.png)
+
 
 ## \[DESAFIO CRIPTONAUTA 2]
 

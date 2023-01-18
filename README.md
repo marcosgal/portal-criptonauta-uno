@@ -1,8 +1,3 @@
----
-icon: rocket
-order: 1
----
-
 # Ingresa al Portal Criptonauta
 
 ## Quiénes somos?
