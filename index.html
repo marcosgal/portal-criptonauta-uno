@@ -5,7 +5,7 @@
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.727321162595">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.727321243763">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 2.4.0">
@@ -32,11 +32,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="resources/css/retype.css?v=2.4.0.727321162595" rel="stylesheet" />
+    <link href="resources/css/retype.css?v=2.4.0.727321243763" rel="stylesheet" />
 
-    <script type="text/javascript" src="resources/js/config.js?v=2.4.0.727321162595" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="resources/js/config.js?v=2.4.0.727321243763" data-turbo-eval="false" defer></script>
     <script type="text/javascript" src="resources/js/retype.js?v=2.4.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" type="text/javascript" src="resources/js/lunr.js?v=2.4.0.727321162595" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" type="text/javascript" src="resources/js/lunr.js?v=2.4.0.727321243763" data-turbo-eval="false" defer></script>
 
     <link href="/static/custom.css" rel="stylesheet" />
 
@@ -328,19 +328,25 @@ __<br />
 <blockquote>
 <p>Recibimos dinero libre, puedes conseguir XMR en <strong>#lacuevademilton</strong> o casi cualquier exchange del mundo.</p>
 </blockquote>
-<p>---</p>
-<p>=== [WIP - Work In Progress]</p>
+<hr />
+<doc-panels>
+   <doc-panel id="wip-work-in-progress">
+       <template #title>[WIP - Work In Progress]</template>
 <p>Nuestra experiencia está en desarrollo constante y actualmente en estado beta.</p>
 <p>Eso significa que algunas cosas no funcionarán como deberían, pero te guiaremos siempre desde nuestro soporte (lo cubrimos directamente desde la comunidad <span class="docs-emoji">&#x1F9E1;</span>).</p>
-<p>==- Lista de pendientes</p>
+   </doc-panel>
+   <doc-panel id="lista-de-pendientes" collapsed>
+       <template #title>Lista de pendientes</template>
 <ul>
 <li>Completar imágenes en MAYUS.</li>
 <li>Corregir hojas de estilos (CSS, HTML, Markdown).</li>
 <li>Completar las citas en cada título y subtítulo.</li>
 <li>Revisar la estructura general.</li>
 <li>Simplificar contenido redundante.</li>
-<li>Traducir al inglés y esperanto. ===</li>
+<li>Traducir al inglés y esperanto.</li>
 </ul>
+   </doc-panel>
+</doc-panels>
 
                                 
                                 <!-- Required only on API pages -->
