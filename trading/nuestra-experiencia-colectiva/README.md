@@ -111,6 +111,32 @@ FOTOARCHIVOCARASVIDEOJUNTADA
 
 Las frases bonitas no generan traders sino nuestra práctica constante en comunidad. Y eso es lo que hacemos en Criptonautas.
 
+## Todos regalamos algo de dinero
+
+Y entendemos que eso también es parte de nuestro aprendizaje.
+
+![¿Aprende TRADING en SOLO 10 MINUTOS?](../../.gitbook/assets/imagen.png)
+
+Youtube es un nido de estafas e info basura pero nadie te mandó a meterte ahí adentro
+
+**¿Cuántos youtubers crees que son traders?**
+
+Claro, pensamos que la suerte cambiará nuestra realidad y perseguimos durante toda la vida ilusiones. Por eso muchos siguen anotando su número en la lotería cada semana.
+
+Puedes tener suerte y hacer una diferencia importante tradeando alguna memecoin o comprando estafas como LUNA...
+
+![image](https://user-images.githubusercontent.com/122026745/210851418-7b5b788a-fef4-43a1-b8d9-366f9793cf1a.png)
+
+Pero creeme, siempre dura poco:
+
+![image](https://user-images.githubusercontent.com/122026745/210851635-82422f92-c6c9-453f-b769-28e3dc1817f3.png)
+
+Y de nada sirve ganar mucho dinero para luego perderlo de una vez. Porque **el trading es mucho más que juntar indicadores y fijar un \_stop-loss**\_**.**
+
+> _“Decide si es un pasatiempo o un trabajo. Si es un pasatiempo, mejor encuentra otro porque este va a resultar muy caro y peligrosamente adictivo”._
+>
+> — Al Brooks
+
 ## Nuestro método educativo es meritorio
 
 _¿Te preguntaste por qué no nos enseñan a plantar, cultivar, alimentarnos, hacer yoga, gestionar emociones, nuestro dinero o meditar?_
@@ -123,4 +149,4 @@ Porque **el objetivo de la comunidad en este curso es que la mayoría aprenda tr
 
 Esta es la **primera Fase del Portal** y mi regalo hacia la comunidad de traders y [Cypherpunks](https://en.wikipedia.org/wiki/Cypherpunk).
 
-Eso incluye a cualquiera que respete y valore el open-source, la libertad (privacidad) sobre todas las cosas, y/o se anime a hacer lo que quiera con su vida 👊
+_Eso incluye a cualquiera que respete y valore el open-source, la libertad (privacidad) sobre todas las cosas, y/o se anime a hacer lo que quiera con su vida_ 👊
