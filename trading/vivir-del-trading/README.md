@@ -18,21 +18,26 @@ Debe ser entendido como una profesión, porque sino se transforma en ludopatía.
 
 Y para vivir del trading debemos desarrollar un método y estrategia, pero también definir qué acumular, y es algo que hacemos muy pocos.
 
-### Adapta todo lo que aquí aprendas
+Más allá de eso, hay algo inherente que cuesta muchísimo procesar en un mundo ultra-dependiente donde necesitas contador, abogado, médico, gestor, arquitecto, diseñador, administrador, etc, etc, etc.
+
+!!!contrast
+"En el campo uno se arregla como puede y sino se ayuda con el vecino".
+— Ian (nos trajo a Córdoba con Lola)
+!!!
+
+## Adapta todo lo que aquí aprendas
 
 Porque si bien es muy probable que coincidamos en muchas cosas, mi situación puede o no ser similar a la tuya.
 
-Vivo soltero, no tengo familia y nadie más que yo gestiona mis finanzas. Si no cuentas con eso, tal vez debas evaluar muy de cerca cuánto y cómo gestionar ¿tu? capital.
+Vivo soltero, sin hijos y nadie más que yo gestiona mis finanzas. Si no cuentas con eso, tal vez debas evaluar muy de cerca cuánto y cómo gestionar ¿tu? capital.
 
-Y en mi caso asumí muchos riesgos porque fue la única manera en la que me salió liberarme.
-
-_"Si nadie más cercano se libera, me libero como sea"._
+En mi caso asumí muchos riesgos porque fue la única manera en la que me salió liberarme, pero me hubiera gustado conocer esta comunidad (por eso la fundé).
 
 Luego de perder todo el dinero que había acumulado en mi vida, respeté mi decisión de no retomar trabajos asalariados y sobrevivir como pudiera...
 
-Entonces pedí dinero prestado y me recuperé haciendo trading en períodos muy reducidos de tiempo, acumulando BTC a través del _scalping_ con margen con tope en 20X.
+Entonces pedí dinero prestado y me recuperé haciendo trading en períodos muy reducidos de tiempo, acumulando BTC a través de lo que se conoce como _scalping_ con margen con tope en 20X.
 
-Y esa no es la única manera de aplicar lo que aprendí porque dejé de hacer _scalping_ al fundar btcarg (hoy **Criptonautas**), y publicar este curso.
+Y esa no es la única manera de aplicar lo que aprendí porque dejé de hacer _scalping_ al fundar btcarg (hoy **Criptonautas**), y publicar este ~~curso~~ Portal.
 
 El tiempo no se puede aumentar, es lo más limitado que tenemos. Y el _scalping_ require más atención operativa que el _swing trading_ donde las operaciones se toman más tiempo en desarrollarse...
 
@@ -48,7 +53,7 @@ FOTOXMR-PAXG-MEDIOTRADE
 
 El resultado de esa adaptación fue muy positivo, todas mis entradas están visibles en nuestro foro y servidor en Discord.
 
-Sumé capital (en BTC) incluso en bear market, sosteniendo la comunidad y viajando por el mundo. Y sin restringirme ni una vez en mi día a día, siendo que me gusta vivir cómodo.
+Sumé capital (en BTC) incluso en bear market, sosteniendo la comunidad y viajando por el mundo. Y sin restringirme ni una vez en mi día a día, siendo que me gusta vivir muy cómodo.
 
 !!!
 
@@ -56,15 +61,19 @@ Al destinar menos tiempo a mi trading, moví 10 veces más capital que al hacer 
 
 _De esa manera pude sumar satoshis sin tener mi dinero en exchanges, porque no confío en empresas en bear markets que son más propensas a desaparecer por hackeos, quiebras o muertes de CEOs._
 
+## Cuánto dinero podemos hacer con el trading
+
 Hay muchísimas opciones para hacer trading de manera rentable y sostenible, pero eso solo aprendiendo y practicando lo suficiente.
 
-Y es delicado hablar de resultados porque dependen exclusivamente de la ejecución de entradas y salidas...
+Y las posibilidades son tantas porque dependen de tu voluntad, motivación, enfoque, constancia y sobre todo, humildad.
+
+Es algo delicado hablar de resultados porque dependen exclusivamente de la ejecución de entradas y salidas...
 
 Además que no es lo mismo vivir solo con 200 dólares en Argentina, que en familia con 5.000 en Europa.
 
 **¿Crees que Lionel Messi empezó a jugar al fútbol pensando en cuánto iba a ganar?**
 
-Más allá de eso, te puedo acercar un poco a tierra 🙂
+Pero más allá de eso, te puedo acercar un poco a tierra 🙂
 
 Si vives soltero o con una familia sin demasiados gastos fijos, necesitas 5/10k USD para vivir relativamente cómodo del trading, operando de manera activa y usando margen.
 
@@ -72,16 +81,24 @@ Siendo lo más razonable que te fondees el doble o el triple, para poder operar 
 
 Si tienes diez veces ese monto, algo asi como 100 mil dólares, podrías vivir de tus inversiones sin demasiadas preocupaciones _(esos 100 mil pueden cotizar menos durante algunos momentos)_.
 
-Pero para eso deberás practicar al menos uno o dos años, y eso es muchísimo más importante que conseguir esos 100 mil dólares. Porque si solo los consigues, luego los pierdes. Y puede que incluso pierdas otros 100 mil más.
+Pero para llegar a ese nivel deberás practicar al menos uno o dos años, y eso es muchísimo más importante que conseguir esos 100 mil dólares.
 
-Entonces en una situación de mercado lateral y suponiendo que las operaciones que generas son precisas, el porcentaje de ganancias por operación puede ir del 2% al 20%.
+Porque si solo los consigues, luego los pierdes. Y puede que incluso pierdas otros 100 mil más.
 
-Y eso se da en unos minutos o apenas unas horas. Se confirman dos o tres entradas diarias de este tipo, con un porcentaje de éxito muy favorable (es lo que debe perseguir cualquier estrategia de _trading_).
+Entonces en una situación de mercado lateral y suponiendo que las operaciones que generes haciendo _scalping_ sean precisas, el porcentaje de ganancias por trade puede ir del 2% al 20%.
+
+Y eso se da en unos minutos o apenas unas horas.
+
+Se confirman dos o tres entradas diarias de este tipo, con un porcentaje de éxito muy favorable (es lo que debe perseguir cualquier estrategia de _trading_).
 
 Entonces con 30 entradas mensuales estarías haciendo un 20% aproximado sobre tu capital inicial, tradeando y diversificando muchísimo tu riesgo en varias operaciones.
 
-Porque nunca tradeamos todo lo que tenemos, cuidamos lo que tenemos. Y no apostamos, trabajamos sobre nuestro capital.
+> Porque nunca tradeamos todo lo que tenemos, ese nivel de exposición es propio de novatos. No apostamos, trabajamos sobre nuestro capital.
 
 Pero si no tienes tanto tiempo para dedicarle a tus finanzas, puedes hacer algunos movimientos mensuales y lograr que tu dinero no se devalúe por su naturaleza, sino que se aprecie.
 
-Y cuando pasen los años, podrás comprarte algo que te interese, hacer algún viaje o regalarle algo a personas que valores.
+Eso es un montón para la mayoría, que literalmente está perdiendo dinero todos los años (y sin notarlo).
+
+Invertir en cripto de manera consciente tiene muchísimas chances de que, tarde o temprano, genere un rendimiento muy positivo frente al resto de las inversiones.
+
+Eso sucede por motivos fundamentales, pero principalmente porque vivimos en un mundo que mantiene una economía sostenida del aire.
