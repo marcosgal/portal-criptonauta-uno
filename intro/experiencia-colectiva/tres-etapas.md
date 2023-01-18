@@ -4,7 +4,7 @@
 
 Cuando publiqué hace \~3 años lo que fue mi curso de trading (hoy es este Portal) pensé que solo se acercarían traders.
 
-El curso mencionaba mi estrategia de scalping, que es lo más rentable que desarrollé de manera sostenible, pero además incorporaba la base psicológica y emocional que tuve que desarrollar...
+El curso detalló mi estrategia de scalping, que es lo más rentable que desarrollé de manera sostenible, pero además incorporó la base psicológica y emocional que "tuve que" descubrir...
 
 Y dos planillas que resumieron 5 libros matemáticos sobre gestión de capital (fusioné varias fórmulas luego de probar muchas más de las que imagines).
 
@@ -22,7 +22,7 @@ La información de base en relación al trading y nuestras finanzas es muy exten
 
 Comenzó a dar vueltas sobre mi mente una pregunta que se repetía cada vez que alguien me decía que no podía hacer algo porque no tenía dinero.
 
-Me recordé en otros momentos, donde me pasaba lo mismo. Y tenía que calcular cuántas cervezas tomar, para volver o no en remís o taxi.
+_Me recordé en otros momentos, donde me pasaba lo mismo. Y tenía que calcular cuántas cervezas tomar, para volver o no en remís o taxi._
 
 Lo mismo pensaba cada vez que veía a personas revolviendo cestos de basura, donde encontraba una relación directa con su nula gestión y educación, porque todos podemos cultivar alimentos y cambiarlos por dinero.
 
@@ -36,7 +36,7 @@ FOTODISCORDAGRADECIENDO - FOTODISCORDAGRADECIENDO - FOTODISCORDAGRADECIENDO
 
 Y así transformaremos Criptonautas en una escuela de reseteo universal. Con posibilidad abierta de que las personas avancen compartiendo, no solo aportando dinero.
 
-El dinero para nosotros no es un limitante, aprendemos a gestionarlo en un mundo volátil y generamos la diferencia, como hacen los que manejan el sistema, en distinta escala y posición.
+> El dinero para nosotros no es un limitante, aprendemos a gestionarlo en un mundo volátil y generamos la diferencia, como hacen los que manejan el sistema, en distinta escala y posición.
 
 ## Las fases surgieron en comunidad
 
@@ -48,7 +48,7 @@ En nuestro universo criptonauta el conocimiento circula libremente entre las per
 
 Entonces en la **primera fase del Portal** deberás leer e incorporar la teoría de base, que es lo que estás haciendo ahora mismo.
 
-!!!alert
+!!!warning
 
 Tu _hype_ va a disminuir cuando entiendas que deberás aportar muchísimo a tu trading, y aplicar este curso a tu propia estrategia y personalidad.
 
@@ -71,7 +71,9 @@ Recién ahí podrás operar y hablaremos sobre trading en plataformas.
 
 El mercado cambia de manera constante y NO podemos justificar nuestro accionar en el accionar ajeno.
 
-||| :icon-check-circle: Criptonautip 1 Solo podemos cambiar nuestra conducta. |||
+||| :icon-check-circle: Criptonautip 1
+Solo podemos cambiar nuestra conducta.
+|||
 
 Si intentaste hacer trading en algún _exchange_ o _broker_ supongo se te ocurrió anotar lo que aprendiste cuando tu cuenta estaba al rojo vivo, y tal vez lo hiciste.
 
