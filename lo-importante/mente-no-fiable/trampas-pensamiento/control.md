@@ -10,4 +10,4 @@ Se manifiesta cuando asumimos más riesgos de los que deberíamos, cuando sobre 
 
 **¿Qué hacer para evitar esta trampa?**
 
-Prestar atención al capítulo destinado a gestión de riesgo y capital.
+Prestar atención al capítulo destinado a gestión de riesgo y capital. Esta info es avanzada y solo visible para Criptonautas.
