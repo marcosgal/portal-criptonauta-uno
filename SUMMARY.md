@@ -3,14 +3,14 @@
 ## 👋 Aprende trading en equipo <a href="#intro" id="intro"></a>
 
 * [Ingresa al Portal Criptonauta](README.md)
-* [Nuestra experiencia colectiva](trading/nuestra-experiencia-colectiva/README.md)
+* [Nuestra experiencia colectiva](intro/experiencia-colectiva/README.md)
   * [Tres etapas de aprendizaje](intro/experiencia-colectiva/tres-etapas.md)
-  * [El trading como estilo de vida](trading/nuestra-experiencia-colectiva/el-trading-como-estilo-de-vida.md)
-  * [El futuro es y será incierto](trading/nuestra-experiencia-colectiva/el-futuro-es-y-sera-incierto.md)
-  * [Métodos no convencionales](trading/nuestra-experiencia-colectiva/metodos-no-convencionales.md)
-  * [De qué se trata este curso](trading/nuestra-experiencia-colectiva/de-que-se-trata-este-curso.md)
-  * [Por qué tradear criptos](trading/nuestra-experiencia-colectiva/por-que-tradear-criptos.md)
-  * [Aprenderás todo esto](trading/nuestra-experiencia-colectiva/aprenderas-todo-esto.md)
+  * [El trading como estilo de vida](intro/experiencia-colectiva/estilo-de-vida.md)
+  * [El futuro es y será incierto](intro/experiencia-colectiva/futuro-incierto.md)
+  * [Métodos no convencionales](intro/experiencia-colectiva/metodos-no-convencionales.md)
+  * [Por qué es un no-curso](intro/experiencia-colectiva/por-que-nocurso.md)
+  * [Por qué tradear criptos](<intro/experiencia-colectiva/por que-criptos.md>)
+  * [Aprenderás todo esto](intro/experiencia-colectiva/aprenderas-esto.md)
 * [Cripto trading por matenauta](trading/cripto-trading-por-matenauta/README.md)
   * [Mojarras vs ballenas](trading/cripto-trading-por-matenauta/mojarras-vs-ballenas.md)
   * [Instinto, razón y emociones](trading/cripto-trading-por-matenauta/instinto-razon-y-emociones.md)
@@ -20,7 +20,7 @@
   * [Decide qué acumular](trading/vivir-del-trading/decide-que-acumular.md)
   * [Por qué acumulo BTC y XMR](trading/vivir-del-trading/por-que-acumulo-btc-y-xmr.md)
 
-## 👨🎓 Lo más importante <a href="#lo-importante" id="lo-importante"></a>
+## 👨🎓 👨🎓 Lo más importante <a href="#lo-importante" id="lo-importante"></a>
 
 * [El arte de estar presente](emociones/el-arte-de-estar-presente/README.md)
   * [Meditar es hacer trading](emociones/el-arte-de-estar-presente/meditar-es-hacer-trading.md)
