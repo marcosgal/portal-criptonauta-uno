@@ -1,10 +1,13 @@
----
-description: '"It does not matter how slowly you go as long as you do not stop.'' -Confucio'
----
-
 # El arte de no-hacer
 
-Este curso está pensado para que aprendas y para eso deberás practicar mucho. Pero también evitar conductas automáticas que harán que pierdas dinero, como invertir sin aprender cómo hacerlo.
+!!!contrast
+It does not matter how slowly you go as long as you do not stop.
+- Confucio
+!!!
+
+Este curso está pensado para que aprendas y para eso deberás practicar mucho.
+
+Pero también evitar conductas automáticas que harán que pierdas dinero, como invertir sin aprender cómo hacerlo.
 
 > _Puede que tu experiencia no sea siempre agradable, pero será mejor si mantienes dramas afuera y abrazas todo lo que llegue_ 🙂
 
@@ -16,16 +19,20 @@ Pensarás que puedes aprender rápido e incluso tal vez ganes mucho dinero de en
 
 Deberás amigarte con la paciencia porque es nuestra mejor aliada. Y **deberás practicar al menos 6 meses antes de salir al mercado.**
 
-## **\[PRIMER DESAFIO CRIPTONAUTA]**
+Contempla que si liberas tus finanzas en cripto, literalmenta ya no deberás trabajar para otros ni sostener negocios que no consideres oportunos (por el motivo que sea).
 
-!!!alert
+Ese nivel de libertad requiere que te comprometas en alcanzarlo, y mantenerlo. Compartimos para no olvidarnos nunca de hacerlo.
 
-**Mantén la atención durante tres días en lo que has leído hasta ahora.**
+## \[PRIMER DESAFIO CRIPTONAUTA]
+
+!!! Desafío Criptonauta
+
+Te desafiamos a mantener la atención durante tres días en lo que leíste hasta ahora.
 
 !!!
 
-Revisa los conceptos, prepara una segunda lectura o simplemente no avances hasta que pasen tres días completos (es muy poco tiempo en relación a tu vida).
+Entonces tendrás tiempo para revisar los conceptos, preparar una segunda lectura o descansar durante tres días para que no se te olvide todo a la semana (como le pasa a quienes se apuran).
 
-Esto marcará un límite a tu ansiedad, que tarde o temprano deberás limitar.
+**Esto también marcará un límite a tu ansiedad, que tarde o temprano deberás limitar.**
 
-> _También puedes compartir las dudas que anotaste desde_ [_nuestro Discord_](https://discord.criptonautas.co) _o_ [_nuestro foro_](https://comunidad.criptonautas.co) __ 💪
+> Hey! Este es el mejor momento para acercarnos las dudas que anotaste en [nuestro Discord](https://discord.criptonautas.co) o [nuestro foro](https://comunidad.criptonautas.co) 💪
