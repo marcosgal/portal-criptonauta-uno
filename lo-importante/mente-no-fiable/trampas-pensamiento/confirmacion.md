@@ -1,13 +1,9 @@
----
-description: O sesgo de confirmación.
----
-
 # Trampa de confirmación
 
-Desechas lo que demuestre lo contrario a lo que supones, y te apoyas en lo que lo avale.&#x20;
+Desechas lo que demuestre lo contrario a lo que supones, y te apoyas en lo que lo avale.
 
-Y con el tiempo entenderás que es muy común que una noticia que -según el sentido común- debería sumarle valor al activo, en la práctica lo tire al piso!
+Es muy común que una noticia que -según el sentido común- debería sumarle valor al activo, en la práctica lo tire al piso.
 
 **¿Qué hacer para evitar esta trampa?**
 
-Evitar analistas u operar por noticias y enfocarse en nuestro Discord.
+Siempre puedes evitar analistas u operar por noticias y enfocarte en practicar + compartir en Criptonautas.
