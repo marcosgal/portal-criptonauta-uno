@@ -84,7 +84,7 @@ _Lo hicimos de manera descentralizada, y eso fue impensado para una empresa como
 
 Y desde ellos se valida una figura conocida como "falacia de autoridad" que logra récords en speechs de ventas mezclados con datos económicos reciclados o hiper trillados.
 
-[!ref icon="info" target="blank" text="Argumento Ad Verecundiam"]([https://retype.com/](https://es.wikipedia.org/wiki/Argumento\_ad\_verecundiam))
+[!ref icon="info" target="blank" text="Argumento Ad Verecundiam"]([https://es.wikipedia.org/wiki/Argumento\_ad\_verecundiam])
 
 ## El trading es honesto
 
