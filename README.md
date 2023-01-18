@@ -30,11 +30,11 @@ Tampoco.
 > __\
 > _Es alguien que toma sus decisiones, y valora el tiempo ajeno como el propio._
 
-A lo largo de tres etapas **aprenderás trading pero desde una perspectiva holístic**a, que te mostrará el camino hacia el nivel de independencia que estés dispuesto a cultivar por tí mism@.
+A lo largo de tres etapas **aprenderás trading desde una perspectiva holística**, que te mostrará el camino hacia el nivel de independencia que estés dispuest@ a cultivar por tí mism@.
 
 ## Fundamentos
 
-* Métodos de muchas áreas, disciplinas e incluso escuelas de pensamiento alternativas: Wadorf, Sudbury, Mindfulness,&#x20;
+* Métodos desde diversas áreas, disciplinas y escuelas de pensamiento alternativas: Wadorf, Sudbury, Mindfulness, 
 * Desarrollo de tiempo completo durante 7 años por nuestro fundador.
 * Nuestra experiencia colectiva de casi 3 años en comunidad.
 
@@ -53,7 +53,7 @@ Estamos en pleno desarrollo, por lo que son muy bienvenidos tus aportes.
 
 X
 
-> Recibimos dinero libre, puedes conseguir XMR en **#lacuevademilton** o casi cualquier exchange del mundo.
+> Recibimos dinero libre, puedes conseguir XMR en **[#lacuevademilton](https://discord.criptonautas.co)** o en casi cualquier exchange del mundo.
 
 ---
 
@@ -71,4 +71,5 @@ Eso significa que algunas cosas no funcionarán como deberían, pero te guiaremo
 * Revisar la estructura general.
 * Simplificar contenido redundante.
 * Traducir al inglés y esperanto.
+
 ===
