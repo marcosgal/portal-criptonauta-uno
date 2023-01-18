@@ -11,7 +11,6 @@
   * [Métodos no convencionales](trading/nuestra-experiencia-colectiva/metodos-no-convencionales.md)
   * [Por qué es un no-curso](trading/nuestra-experiencia-colectiva/de-que-se-trata-este-curso.md)
   * [Por qué tradear criptos](trading/nuestra-experiencia-colectiva/por-que-tradear-criptos.md)
-  * [Aprenderás todo esto](trading/nuestra-experiencia-colectiva/aprenderas-todo-esto.md)
 * [Cripto trading por matenauta](intro/trading-por-matenauta/README.md)
   * [Mojarras vs ballenas](intro/trading-por-matenauta/mojarras-ballenas.md)
   * [Instinto, razón y emociones](intro/trading-por-matenauta/instinto-razon-emociones.md)
