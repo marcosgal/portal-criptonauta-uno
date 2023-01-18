@@ -115,3 +115,9 @@ Por eso no reconocemos autoridades sino argumentos, y sumamos a nuestro desarrol
 Porque **el objetivo de la comunidad en este curso es que la mayoría aprenda trading**.
 
 Esto constituye la **primera etapa del curs**o y mi regalo hacia la comunidad de traders y [Cypherpunks](https://en.wikipedia.org/wiki/Cypherpunk) que respetan y valoran el open-source, la libertad sobre todas las cosas y se animan a hacer lo que quieren con su vida 👊
+
+Y sin querer queriendo, funciona como filtro, porque solo podrán avanzar quienes inviertan tiempo en su propio desarrollo.
+
+El mérito es inherente al desarrollo del trading porque es una actividad que realizamos directamente sobre nuestro capital, más allá de que se vendan muchos servicios insostenibles en forma de "copy trading", "señales" o "fondos de inversión cripto".
+
+> _Si piensas lo contrario, te invito a que pruebes que algo más allá del trading se mantuvo más de tres años._
