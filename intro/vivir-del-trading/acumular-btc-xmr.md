@@ -4,13 +4,15 @@ description: QUOTEPROBABILITIES
 
 # Por qué acumulo BTC y XMR
 
-Hablar sobre dinero excede al trading (comprar y vender), pero como deberás elegir qué acumular y es probable que no sepas nada sobre el dinero, te acerco algunos datos.
+Hablar sobre dinero excede al trading (comprar y vender), pero como deberás elegir qué acumular así que te acerco algunos datos.
 
 Bitcoin es un activo muy volátil, como la mayoría de los países emergentes, pero [su tendencia a largo plazo es alcista desde su creación](https://foro.btcarg.com.ar/t/analisis-btc-en-diciembre-2019-velas-semanales/185).
 
 **Sus propiedades intrínsecas y -sobre todo- la desconfianza en la moneda papel (fiat), lo convirtieron en algo que nació para quedarse.**
 
-Bitcoin es una moneda descentralizada, universal, escasa y con reglas claras. Y eso suena mejor que el dólar, al menos para la mayoría de las personas que conocemos sus cualidades de cerca.
+Es una moneda descentralizada, universal, escasa y con reglas claras.
+
+Y eso suena mejor que el dólar, al menos para la mayoría de las personas que conocemos sus cualidades de cerca.
 
 Bitcoin ofrece un nivel de transparencia que supera ampliamente al que (no) ofrecen bancos y Estados desde el dinero bancario.
 
@@ -38,11 +40,17 @@ Valoro ambos proyectos y por eso los acumulo, pero mi rentabilidad tiene relaci�
 
 Porque si solamente holdeas mantienes algo que cotiza 1, luego cotiza 10 y vuelve a cotizar 1.
 
-Si solo mantenemos las criptomonedas quienes encontramos valor en ellas, su precio dejaría de escalar. Esto continuará creciendo pero no de manera indefinida ni permanente.
+PUMP&DUMPENCRIPTOCAPITALIZADA
+
+Y si solo mantenemos las criptomonedas quienes encontramos valor en ellas, su precio dejaría de escalar.
+
+||| :icon-check-circle: Criptonautip 3
+El mercado cripto continuará creciendo pero no de manera indefinida ni permanente.
+|||
 
 Desconozco cómo será el mercado en 5 o 10 años pero imagino que con gran parte del mismo absorbido directamente por instituciones y/o controlado por ellas.
 
-La descentralización encontrará siempre su lugar, pero nada es para siempre.
+La descentralización encontrará siempre su lugar, pero nada es para siempre, y por eso comencé a invertir (tradeando) en Monero:
 
 TRADEMONERO
 
