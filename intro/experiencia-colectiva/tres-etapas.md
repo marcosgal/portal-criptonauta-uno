@@ -1,6 +1,6 @@
 # 3 Fases Criptonautas
 
-Cuando publiqué hace ~3 años lo que fue mi curso de trading (hoy es este Portal) pensé que el curso sería visitado exclusivamente por traders...
+Cuando publiqué hace ~3 años lo que fue mi curso de trading (hoy es este Portal) pensé que el curso sería visitado exclusivamente por traders.
 
 Porque imaginé que solo se acercarían a lo que hago, quienes ya contaran con cierto conocimiento previo.
 
