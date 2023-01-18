@@ -28,27 +28,30 @@ Entonces, cuando llegué a esos datos dejé de preguntar si se podía vivir del 
 
 Porque los mercados están abiertos a inversores minoristas y los precios pueden comprarse y venderse para aprovechar sus diferencias:
 
-![Mercados abiertos minoristas](https://user-images.githubusercontent.com/121636966/210031504-d13dbc1e-b3cf-4ef0-bb37-840a964e3221.jpg)
+![Tokens que cualquiera puede comprar (24/7)](https://user-images.githubusercontent.com/121636966/210031504-d13dbc1e-b3cf-4ef0-bb37-840a964e3221.jpg)
 
-# Siempre supe que es posible
+## Siempre supe que es posible
 
 Mark Douglas afirma que _la sociedad persigue metas incompatibles con la mentalidad que debe desarrollar el trader y por eso nos cuesta tanto hacerlo_.[ 2](https://www.amazon.com/Trading-Zone-Confidence-Discipline-Attitude-ebook/dp/B004H1TBCG)
 
 Coincido con el colega luego de encontrar mi trading, alejarme de instituciones y vivir a mi modo... Pero sobre todo, luego de compartir casi tres años con \~300 traders en este curso 🏄
 
-> `"History Does Not Repeat Itself, But It Rhymes"`[ `-` Theodor Reik](https://quoteinvestigator.com/2014/01/12/history-rhymes/)
+!!!contrast
+History Does Not Repeat Itself, But It Rhymes.
+- [Theodor Reik](https://quoteinvestigator.com/2014/01/12/history-rhymes/)
+!!!
 
 Y lo menciono porque muchas “mojarras” invertimos meses o incluso años buscando el método infalible, el método de trading perfecto.
 
 Compramos _bots_, _scripts_ en TradingView, nos suscribimos a decenas de canales en distintas plataformas para dar con la data precisa...
 
-**Y esa información no existe porque en el trading no hay certezas.**
+**Esa información no existe porque en el trading no hay certezas.**
 
 Operamos sobre las mayores probabilidades, siendo eso lo menos probable que elija la mayoría, que no sabe elegir.
 
 Nosotros elegimos y eso nos hace Criptonautas 😎
 
-### El esfuerzo vale la pena
+## El esfuerzo vale la pena
 
 Olvidé lo que es usar el despertador o programar mi día siguiente, salvo que tenga algo para hacer durante la mañana...
 
@@ -68,7 +71,7 @@ Deberías replantearte si el trading es lo que buscas, si no te interesa evoluci
 
 Y justamente por eso la magia está en el trading en sí mismo, no tanto en sus resultados.
 
-### Será muy duro (mejor acompañado)
+## Será muy duro (mejor acompañado)
 
 Seguramente muchos te dijeron que invertir tiene riesgos, pero tuve que confiar ciegamente en mi voluntad mientras me levantaba a mí mismo desde el suelo.
 
