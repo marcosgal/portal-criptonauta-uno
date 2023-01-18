@@ -2,9 +2,7 @@
 
 ## 👋 Aprende trading en equipo <a href="#trading" id="trading"></a>
 
-* [Trading like a Cryptonaut](README.md)
-* [Ingresa al Portal Criptonauta](trading/readme-1.md)
-* [Navegar en Criptonautas](trading/navegar-en-criptonautas.md)
+* [Ingresa al Portal Criptonauta](README.md)
 * [Nuestra experiencia colectiva](trading/nuestra-experiencia-colectiva/README.md)
   * [El trading como estilo de vida](trading/nuestra-experiencia-colectiva/el-trading-como-estilo-de-vida.md)
   * [El futuro es y será incierto](trading/nuestra-experiencia-colectiva/el-futuro-es-y-sera-incierto.md)

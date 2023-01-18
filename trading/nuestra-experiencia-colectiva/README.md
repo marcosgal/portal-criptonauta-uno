@@ -8,19 +8,27 @@ Hola terrícola! 👋
 
 Te escribe matenauta pero junto a la comunidad criptonauta que se sumó a editar y colaborar con nuestro Portal.
 
-Esto es el resultado de prácticamente toda mi vida, porque el trading motiva y exige todo lo que me hace bien.
+**Esto es el resultado de prácticamente toda mi vida, porque el trading motiva y exige todo lo que me hace bien.**
 
-Tal vez no lo entiendas ahora, pero a medida que avances, entenderás que elegir sobre nuestro dinero implica un grado y nivel de libertad y equilibrio que ni siquiera imaginamos dentro de lo que aquí definimos como "La Matrix" (para otros puede ser la sociedad, el capitalismo o el sistema).
+Tal vez no lo entiendas ahora, pero a medida que avances, entenderás que elegir sobre nuestro dinero implica un grado y nivel de libertad y equilibrio que ni siquiera imaginamos dentro de lo que aquí definimos como "La Matrix".
+
+_(Para otros puede ser la sociedad, el capitalismo o el sistema)._
+
+## Por qué aprendí trading
 
 Estudié y me desarrollé profesionalmente en el trading de criptomonedas porque es la única manera en la que pude poder costear el nivel de vida que disfruto sin entregar más de 1/3 de mi tiempo.
 
 Y además, porque me propuse mezclar música electronica sin depender de ello para sostener mi economía.
 
-Si no encuentras un propósito mayor a hacer dinero, lo perderás todo porque así funcionan las cosas a nivel universal (generamos lo opuesto a lo que intentamos forzar).
+Tal vez te preguntes por qué te cuento esto porque solo quieres hacer dinero.
 
-A lo largo de este libro verás varios emojis, te cruzarás con palabras _argentas_, _paisas_ y _mexas_, y aprenderás que todo puede ser más simple.
+En tal caso es muy importante que sepas que si no encuentras un propósito mayor a hacer dinero, hay muchísimas chances de que lo pierdas todo.
 
-Incluso leerás algunas citas en inglés, para estimular tu curiosidad y mérito (siempre puedes traducir).
+Porque nos pasó a todos los que pensamos que el trading es una máquina de hacer dinero, y así funcionan las cosas a nivel universal (generamos lo opuesto a lo que intentamos forzar).
+
+> _A lo largo de este libro de código abierto (no anclado a ninguna editorial) verás varios emojis, te cruzarás con palabras argentas, paisas y mexas, y aprenderás que todo puede ser más simple._
+>
+> _Incluso leerás algunas citas en inglés, para estimular tu curiosidad y mérito, que siempre podrás traducir._
 
 Si piensas en escribir un libro, tal vez imagines que es algo que se escribe de principio a final...
 

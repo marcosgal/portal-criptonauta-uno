@@ -1,28 +1,76 @@
-# Enter into the Cryptonaut Portal
+---
+icon: rocket
+order: 1
+---
 
-> Para leer en español avanza a la siguiente página desde más abajo 🙂
+# Ingresa al Portal Criptonauta
 
-## What's our trading course?
+## Quiénes somos?
 
-Our trading course is a colective experience that includes almost 3 years of ~300 traders feedback around the world.
+Los Criptonautas somos un grupo de personas como tú, que se encontró en internet al buscar cómo liberar sus finanzas y economía del sistema.
 
-It was started by matenauta (aka Matías Isea) 
+Aprendimos trading y usamos criptos porque son por esencia libres pero además a usar bancos, créditos e incluso deudas a nuestro favor 🙂
 
-## Getting started
+## Por qué creamos el Portal
 
-You can start reading [on Github](https://github.com/somos-criptonautas/trading) or the [coolest version on Retype](https://trading.criptonautas.co)
+Descubrimos que el trading está repleto de obstáculos, y podemos superarlos de manera mucho más sencilla en equipo...
 
-**[WIP]** The first edition is on process and only in spanish (english and esperanto translations are planned).
+Y que es necesario mantener relativa disciplina en todo lo que hacemos de manera independiente.
 
-## Contributing
+Notamos que nuestro método de aprendizaje basado en la síntesis y práctica colectiva está fuera de este mundo, entonces creamos este portal.
 
-We are in early stage and fully open to contributions. Please check out [CONTRIBUTING.MD](https://github.com/somos-criptonautas/trading/blob/main/CONTRIBUTING.md) for more info.
+## Es un curso de trading?
 
-### To-Do List
+Nop.
 
-* Complete images mentioned in CAPS.
-* CSS style corrections (CSS, HTML, Markdown).
-* Add quotes on every title or subtitle.
-* General structure revision (titles, subtitles).
-* Simplify redundant content.
-* Translate to english and esperanto.
+## Es un curso de cripto?
+
+Tampoco.
+
+## Entonces qué es?
+
+**Nuestro Portal Criptonauta es la puerta de entrada a nuestro universo, donde evitamos definir las cosas porque nos interesa vivirlas.**
+
+> _Un Criptonauta aspira a ser lo que dice, sin exageraciones, mentiras ni contradicciones._\
+> __\
+> _Es alguien que toma sus decisiones, y valora el tiempo ajeno como el propio._
+
+A lo largo de tres etapas **aprenderás trading pero desde una perspectiva holístic**a, que te mostrará el camino hacia el nivel de independencia que estés dispuesto a cultivar por tí mism@.
+
+## Fundamentos
+
+* Métodos de muchas áreas, disciplinas e incluso escuelas de pensamiento alternativas: Wadorf, Sudbury, Mindfulness,&#x20;
+* Desarrollo de tiempo completo durante 7 años por nuestro fundador.
+* Nuestra experiencia colectiva de casi 3 años en comunidad.
+
+## Cómo empezar
+
+!!! Solo debes continuar leyendo pero si lo haces desde Github, ingresa a [la versión diseñada en Retype](https://trading.criptonautas.co). !!!
+
+## Cómo aportar
+
+Estamos en pleno desarrollo, por lo que son muy bienvenidos tus aportes.
+
+* Si quieres aportar ediciones e información, revisa [CONTRIBUTING.MD](CONTRIBUTING.md).
+* Si quieres aportar dinero, puedes enviar XMR a la siguiente dirección:
+
+X
+
+> Recibimos dinero libre, puedes conseguir XMR en **#lacuevademilton** o casi cualquier exchange del mundo.
+
+\---
+
+\=== \[WIP - Work In Progress]
+
+Nuestra experiencia está en desarrollo constante y actualmente en estado beta.
+
+Eso significa que algunas cosas no funcionarán como deberían, pero te guiaremos siempre desde nuestro soporte (lo cubrimos directamente desde la comunidad 🧡).
+
+\==- Lista de pendientes
+
+* Completar imágenes en MAYUS.
+* Corregir hojas de estilos (CSS, HTML, Markdown).
+* Completar las citas en cada título y subtítulo.
+* Revisar la estructura general.
+* Simplificar contenido redundante.
+* Traducir al inglés y esperanto. ===
