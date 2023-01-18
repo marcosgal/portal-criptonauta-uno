@@ -10,7 +10,11 @@ Podemos ajustarlas y cambiarlas, porque sabemos que nada es permanente.
 
 Y nos llevamos muy bien con ciertos métodos ajenos, luego de desarrollar los propios.
 
+!!!alert
+
 Intentar soluciones absolutas o universales es contrario a la naturaleza de todas las cosas, por eso deberás desterrar esa idea de tu mente en relación al trading.
+
+!!!
 
 ## NO existe un método infalible para todos
 
@@ -20,9 +24,9 @@ Intentar soluciones absolutas o universales es contrario a la naturaleza de toda
 >
 > _Todos pasamos por eso._
 
-### **Sumarás background técnico pero también experiencia**
+En este Portal sumarás background técnico pero también experiencia, por eso es nuestro Portal.
 
-Porque apliqué menos de 10 libros entre los más de 50 que estudié, cuando me dediqué a sumar todo lo que encontraba y parecía tener sentido en relación al trading.
+Apliqué menos de 10 libros entre los más de 50 que estudié, cuando me dediqué a sumar todo lo que encontraba y parecía tener sentido en relación al trading.
 
 Leí casi todo en inglés, sin mentoreo, seguimiento ni coaching...
 
@@ -30,11 +34,11 @@ Y me tocó desarrollar muchísimas cosas que no existían en relación al tradin
 
 Soy pionero, no solo en Criptonautas, sino al tradear de manera sostenida durante 7 años acumulando BTC (desde el 2022 XMR) y sin ninguna cuenta en brokers tradicionales.
 
-**Incluso viajé por tres países, sin usar dólares ni cuentas en EE.UU!**
+Incluso viajé por tres países, sin usar dólares ni cuentas en EE.UU!
 
 Y pude hacer todo eso por desarrollar mi experiencia, y aprender desde mis propios aciertos y errores.
 
-Nadie me dijo qué hacer.
+**Me fue bien porque nadie me dijo qué hacer. Y te irá bien si practicas y te descubres en los gráficos, aportando tu propio estilo.**
 
 ### El 90% "pierde" porque vivimos en sociedad
 
@@ -42,7 +46,7 @@ Nadie me dijo qué hacer.
 >
 > _Solo ganan si no eres libre._
 
-Al acercarnos por primera vez al mercado, lo hacemos pensando en beneficios que no existen, porque nos inyectan la idea que necesitamos cosas y que nuestra felicidad depende de cuántos bienes acumulemos.
+Nos acercamos al mercado pensando en beneficios que no existen, porque nos inyectan la idea que necesitamos cosas y que nuestra felicidad depende de cuántos bienes acumulemos.
 
 Eso es falso, pero muy cotidiano. **Por eso, la mayoría de los inversores individuales pierde todo su dinero**.
 
@@ -51,3 +55,5 @@ Para un banco o exchange que estudia la psicología del mercado y tiene un equip
 Esto es real, pasa todos los días.
 
 Y por eso, el trading no es un juego o algo que podemos hacer en nuestro tiempo libre, sino la profesión más justa que obtenemos por tiempo y esfuerzo invertido en descubrirnos.
+
+||| :icon-check-circle: Criptonautip 2 Perderás si tradeas sin practicar al menos tres meses. |||

@@ -1,6 +1,9 @@
 # Nuestra experiencia colectiva
 
-!!!contrast By replacing fear of the unknown with curiosity we open ourselves up to an infinite stream of possibility. — Alan Watts !!!
+!!!contrast
+By replacing fear of the unknown with curiosity we open ourselves up to an infinite stream of possibility.
+— Alan Watts
+!!!
 
 Hola terrícola! 👋
 
@@ -8,7 +11,7 @@ Te escribe **matenauta** pero junto a la comunidad que se sumó a editar y colab
 
 **Esto es el resultado de prácticamente toda mi vida, porque el trading motiva y exige todo lo que me hace bien.**
 
-En algún momento de este no-curso, entenderás que elegir sobre nuestro dinero implica un grado de libertad y equilibrio que ni siquiera imaginamos desde lo que aquí definimos como "La Matrix".
+Entenderás que elegir sobre nuestro dinero implica un grado de libertad y equilibrio que ni siquiera imaginamos desde lo que aquí definimos como "La Matrix".
 
 > _"La Matrix" también puede ser definida como "sociedad", "capitalismo" o "sistema"._
 >
@@ -28,25 +31,17 @@ Entonces me permito acercarte un puñetazo de realidad:
 
 **Si no encuentras un propósito mayor a hacer dinero en tu trading, hay muchísimas chances de que lo pierdas.**
 
-Porque nos pasó a todos los que pensamos que el trading es una máquina de hacer dinero, y así funcionan las cosas a nivel universal: generamos lo opuesto a lo que intentamos forzar.
+Porque nos pasó a todos los que pensamos que el trading es una máquina de hacer dinero, y así funcionan las cosas a nivel universal, donde generamos lo opuesto a lo que intentamos forzar.
 
 ## La realidad supera a la ficción
 
-Porque la idea de lo incierto nos asusta y parece lejana, cuando es lo único real que tenemos.
-
-Pensamos que el trading es para superdotados o personas mágicas cuando se trata de aceptar la incertidumbre y olvidar la fantasía de lo lineal que mantiene esclavos regalando su tiempo.
-
-Nos dicen que podemos controlar todas las cosas, cuando no podemos siquiera con nuestros propios pensamientos, sentimientos o emociones.
+La idea de lo incierto cotidianamente nos asusta porque esperamos controlar todas las cosas, cuando no podemos ni siquiera con nuestros propios pensamientos, sentimientos o emociones.
 
 **Te sentirás incómod@ a lo largo de esta experiencia, si esperas resolver tu economía sin esfuerzo, o de un día para el otro.**
 
-Aquí podrás aprender practicando y compartiendo pero también perdiendo mucho dinero, si decides hacer las cosas a tu modo y salteas cada una de nuestras sugerencias y recomendaciones.
+Aquí podrás aprender practicando y compartiendo pero también perdiendo mucho dinero, si decides hacer las cosas a tu modo y salteas cada una de nuestras sugerencias y recomendaciones (serás libre de hacerlo, todo el tiempo).
 
-Porque serás libre de hacerlo, todo el tiempo. Así es la vida, y si no te desarrollas, tus finanzas se irán a cero por sistema.
-
-Porque lo siento mucho pero **eres un pinche número en La Matrix**, solo le interesas a unas pocas personas.
-
-Aquí aprenderás de manera amigable o muy dura, porque nuestro único y principal objetivo es que aprendas y te liberes.
+Aprenderás de manera amigable o muy dura, porque nuestro único y principal objetivo es que aprendas y te liberes.
 
 Entenderás por qué este Portal no es técnicamente un libro ni tampoco un curso, y así descubrirás que el trading en realidad es un estilo de vida.
 
@@ -64,7 +59,7 @@ Porque a pesar de esta foto:
 
 No soy ni seré un gurú, porque no me interesó, interesa ni interesará serlo.
 
-> _Los gurúes "comparten" (leen guiones ajenos) cierta información útil, pero su razón de ser es vender servicios inútiles, a partir del marketing más mercenario que existe._
+> _Los gurúes "comparten" (leen guiones ajenos) cierta información útil, pero su razón de ser no es compartir información, sino vender servicios inútiles, a partir del marketing más mercenario que existe._
 
 Tuve que anunciar mi despedida de un servicio online que llegó a cientos de miles de personas, luego de mencionarles que iban a perder todo su capital si no cerraban sus posiciones.
 
@@ -76,39 +71,19 @@ _FOTOWEBINARBUSCARENS3(matenauta)_
 
 FOTOPROFITSIG
 
-Multiplicamos casi 6 veces el dinero invertido en medio año, y fueron presentes de ese resultado millones de personas en todo el mundo, que recibían publicidad en redes sociales disfrazadas de "clases gratuitas".
+Multiplicamos 5 veces el dinero invertido en medio año, y fueron presentes de ese resultado millones de personas en todo el mundo, que recibían publicidad en redes sociales disfrazadas de "clases gratuitas".
 
-_Como natural criptonauta gestioné la cartera de manera descentralizada, y eso fue impensado para una empresa como la que me cuasi contrató_ 😬
+_Lo hicimos de manera descentralizada, y eso fue impensado para una empresa como la que me cuasi contrató, pero una vez más confirmamos que las excepciones existen_ 😬
 
-**Y logramos ese profit porque el trading rompe muchísimos esquemas**, sobre todo en lo instalado por la "economía clásica" que nos programa para ahorrar algo que se devalúa a un ritmo exponencialmente creciente (cada vez mayor).
+**El trading rompe muchísimos esquemas**, sobre todo en lo instalado por la "economía clásica" que nos programa para ahorrar algo que se devalúa a un ritmo exponencialmente creciente (cada vez mayor).
 
 ![El dólar compra cada vez menos cosas](https://user-images.githubusercontent.com/98671738/210263652-4257423d-f7c0-4e1a-916a-7031bad18f05.png)
 
 **Aprendí que el marketing de gurúes es lo que mejor funciona con el 97% que se mueve por emociones que no aprendió a gestionar.**
 
-Y se valida una figura conocida como "falacia de autoridad" que logra récords en speechs de ventas mezclados con datos económicos reciclados o hiper trillados.
+Y desde ellos se valida una figura conocida como "falacia de autoridad" que logra récords en speechs de ventas mezclados con datos económicos reciclados o hiper trillados.
 
-[!ref icon="info" target="blank" text="Argumento Ad Verecundiam"](\[https:/es.wikipedia.org/wiki/Argumento\_ad\_verecundiam]/)
-
-### Mención especial para haters
-
-En esa suscripción sugerí invertir en proyectos con equipos de desarrollo, entre los más capitalizados, y en los momentos donde el riesgo de invertir en ellos era menor.
-
-Sugerí invertir en ADA, cuando prácticamente nadie había siquiera sentido nombrar a Cardano (FECHA ADA).
-
-Pero no todo se agota ahí, porque hay muchas cosas que se inflan y luego desinflan.
-
-El trading se completa con salidas, que es lo que no encuentran novatos que esperan que todo se vaya a las nubes.
-
-Y en última instancia, incluso Bitcoin puede dejar de irse a las nubes.
-
-!!!
-
-En relación a eso puedes navegar Criptonautas, porque Bitcoin ya no es lo que alguna vez fue.
-
-Todo cambia, todo el tiempo.
-
-!!!
+[!ref icon="info" target="blank" text="Argumento Ad Verecundiam"]([https://es.wikipedia.org/wiki/Argumento\_ad\_verecundiam])
 
 ## El trading es honesto
 
@@ -124,11 +99,11 @@ Es lo más real que experimentamos y vivimos quienes lo estudiamos, practicamos 
 
 FOTOARCHIVOCARASVIDEOJUNTADA
 
-Aprendí mucho estudiando, pero más practicando y acompañando a otros en su aprendizaje.
+**Aprendí mucho estudiando, pero más practicando y acompañando a otros en su aprendizaje.**
 
 Las frases bonitas no generan traders sino nuestra práctica constante en comunidad. Y eso es lo que hacemos en Criptonautas.
 
-## Valoramos y cultivamos el mérito
+## Nuestro método educativo es meritorio
 
 _¿Te preguntaste por qué no nos enseñan a plantar, cultivar, alimentarnos, hacer yoga, gestionar emociones, nuestro dinero o meditar?_
 
@@ -139,15 +114,3 @@ Por eso no reconocemos autoridades sino argumentos, y sumamos a nuestro desarrol
 Porque **el objetivo de la comunidad en este curso es que la mayoría aprenda trading**.
 
 Esta es la **primera Fase del Portal** y mi regalo hacia la comunidad de traders y [Cypherpunks](https://en.wikipedia.org/wiki/Cypherpunk) que respetan y valoran el open-source, la libertad sobre todas las cosas y se animan a hacer lo que quieren con su vida 👊
-
-Pero hay dos fases más, que pueden ser entendidas como niveles sayayin o evoluciones en Pókemons.
-
-!!!
-
-Los dibujos animados japoneses tienen muchísima información que se perdió en los dibujos de tipo occidental.
-
-Un niño entiende mejor que para ser adulto hace falta un proceso, que un adulto que quiere hacer trading de un día para el otro, sin haber elegido casi nada en su vida.
-
-En Criptonautas entendemos al tiempo como algo que solo podemos experimentar en presente, no como algo lineal que podamos dimensionar.
-
-!!!

@@ -34,7 +34,9 @@ Las personas me mostraron el camino, y así transformamos el curso (libro con se
 
 FOTODISCORDAGRADECIENDO - FOTODISCORDAGRADECIENDO - FOTODISCORDAGRADECIENDO
 
-Y así transformaremos Criptonautas en una escuela de reseteo universal.
+Y así transformaremos Criptonautas en una escuela de reseteo universal. Con posibilidad abierta de que las personas avancen compartiendo, no solo aportando dinero.
+
+El dinero para nosotros no es un limitante, aprendemos a gestionarlo en un mundo volátil y generamos la diferencia, como hacen los que manejan el sistema, en distinta escala y posición.
 
 ## Las fases surgieron en comunidad
 
@@ -52,7 +54,7 @@ Tu _hype_ va a disminuir cuando entiendas que deberás aportar muchísimo a tu t
 
 !!!
 
-Es muy probable que quieras abandonar a la semana de comenzar esta fase, y por eso te acompañaremos en tu reseteo tanto en la primera como en la **segunda fase**.
+Es muy probable que quieras abandonar a la semana de comenzar, y por eso te acompañaremos en tu reseteo tanto en la primera como en la **segunda fase**.
 
 Ahí te tocará practicar, practicar y practicar.
 
@@ -61,9 +63,7 @@ En ese momento, tendrás dos opciones:
 1. No practicar, perder mucho dinero y estancarte.
 2. Practicar, aprender y avanzar en tu trading.
 
-### Solo llegas a la Segunda Fase practicando
-
-Y así llegarás a la **última etapa**, luego de encontrarte con todo lo que no conoces del trading y en realidad representa para las personas.
+Solo podrás avanzar hacia la **tercera fase**, luego de encontrarte con todo lo que no conoces del trading y en realidad representa para las personas.
 
 Recién ahí podrás operar y hablaremos sobre trading en plataformas.
 
