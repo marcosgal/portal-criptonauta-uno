@@ -31,19 +31,27 @@ Entonces me permito acercarte un puñetazo de realidad:
 
 **Si no encuentras un propósito mayor a hacer dinero en tu trading, hay muchísimas chances de que lo pierdas.**
 
-Porque nos pasó a todos los que pensamos que el trading es una máquina de hacer dinero, y así funcionan las cosas a nivel universal, donde generamos lo opuesto a lo que intentamos forzar.
+Porque nos pasó a todos los que pensamos que el trading es una máquina de hacer dinero.
+
+Así funcionan las cosas a nivel universal, generamos lo opuesto a lo que intentamos forzar.
 
 ## La realidad supera a la ficción
 
-La idea de lo incierto cotidianamente nos asusta porque esperamos controlar todas las cosas, cuando no podemos ni siquiera con nuestros propios pensamientos, sentimientos o emociones.
+La idea de lo incierto cotidianamente nos asusta.
 
-**Te sentirás incómod@ a lo largo de esta experiencia, si esperas resolver tu economía sin esfuerzo, o de un día para el otro.**
+Esperamos controlar todas las cosas, cuando no podemos ni siquiera con nuestros propios pensamientos, sentimientos o emociones.
+
+Y lo siento si esperabas algo distinto.
+
+**Pero te sentirás incómod@ a lo largo de esta experiencia, si esperas resolver tu economía sin esfuerzo, o de un día para el otro.**
 
 Aquí podrás aprender practicando y compartiendo pero también perdiendo mucho dinero, si decides hacer las cosas a tu modo y salteas cada una de nuestras sugerencias y recomendaciones (serás libre de hacerlo, todo el tiempo).
 
+FOTOPROFITDISCORDCOMUNIDAD
+
 Aprenderás de manera amigable o muy dura, porque nuestro único y principal objetivo es que aprendas y te liberes.
 
-Entenderás por qué este Portal no es técnicamente un libro ni tampoco un curso, y así descubrirás que el trading en realidad es un estilo de vida.
+Entenderás por qué este Portal no es técnicamente un libro ni tampoco un curso, y así descubrirás que el trading en realidad es nuestro estilo de vida 🧡
 
 !!!info Atenti
 
