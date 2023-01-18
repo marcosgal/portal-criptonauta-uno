@@ -36,7 +36,7 @@ Tu _hype_ va a disminuir cuando entiendas que deberás aportar muchísimo a tu t
 
 !!!
 
-Es muy probable que quieras abandonar a la semana de comenzar esta etapa, y por eso te acompañaremos en tu reseteo con nuestra comunidad wn la **segunda fase**.
+Es muy probable que quieras abandonar a la semana de comenzar esta etapa, y por eso te acompañaremos en tu reseteo con nuestra comunidad en la **segunda fase**.
 
 Ahí te tocará practicar, practicar y practicar.
 
