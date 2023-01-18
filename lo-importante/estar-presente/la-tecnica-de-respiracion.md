@@ -86,6 +86,7 @@ Te encontrarás mentalmente con tu voz diciendo “¿Por qué me estoy hablando 
 
 Antes de meditar no era consciente de que tenía tantos pensamientos, porque justamente estaba repleto de ellos.
 
-## \[DESAFÍO CRIPTONAUTA 5]
+## \[DESAFÍO CRIPTONAUTA #3]
 
-!!! Fija un horario o al menos una franja horaria donde meditar al menos dos veces por semana, y en lo posible un lugar. !!!
+!!! Desafío Criptonauta
+Fija un horario o al menos una franja horaria donde meditar al menos dos veces por semana, y en lo posible un lugar. !!!
