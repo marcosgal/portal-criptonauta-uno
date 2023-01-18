@@ -11,7 +11,3 @@ Disfruto muchísimo mantener una vida de la que no necesito escapar, y poder ocu
 Hoy puedo mirar hacia atrás en perspectiva, entiendo y le encuentro sentido a cada una de las caídas que tuve que superar en mis años como _trader_.
 
 La frase está _clicheada_ pero tiene sentido: “Lo que no mata, fortalece” (Frida Kahlo).
-
-> “El éxito comienza con el pensamiento, porque tarde o temprano, el hombre que gana es el que cree que puede hacerlo”.
->
-> Christian Barnard.
