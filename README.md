@@ -10,9 +10,9 @@ Aprendimos trading y usamos criptos porque son por esencia libres pero además a
 
 Descubrimos que el trading está repleto de obstáculos, y podemos superarlos de manera mucho más sencilla en equipo...
 
-Y que es necesario mantener relativa disciplina en todo lo que hacemos de manera independiente.
+Y es necesario mantener relativa disciplina en todo lo que hacemos de manera independiente.
 
-Notamos que nuestro método de aprendizaje basado en la síntesis y práctica colectiva está fuera de este mundo, entonces creamos este portal.
+Nuestro método de aprendizaje basado en la síntesis y práctica colectiva está fuera de este mundo, entonces creamos este portal.
 
 ## Es un curso de trading?
 
@@ -24,10 +24,10 @@ Tampoco.
 
 ## Entonces qué es?
 
-**Nuestro Portal Criptonauta es la puerta de entrada a nuestro universo, donde evitamos definir las cosas porque nos interesa vivirlas.**
+**Nuestro Portal Criptonauta es la puerta de entrada a nuestro universo, donde evitamos definir las cosas porque nos interesa vivirlas 🚀**
 
-> _Un Criptonauta aspira a ser lo que dice, sin exageraciones, mentiras ni contradicciones._\
-> __\
+> _Un Criptonauta aspira a ser lo que dice, sin exageraciones, mentiras ni contradicciones._
+> 
 > _Es alguien que toma sus decisiones, y valora el tiempo ajeno como el propio._
 
 A lo largo de tres etapas **aprenderás trading desde una perspectiva holística**, que te mostrará el camino hacia el nivel de independencia que estés dispuest@ a cultivar por tí mism@.
