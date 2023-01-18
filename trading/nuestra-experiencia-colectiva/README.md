@@ -84,7 +84,7 @@ El trading rompe muchísimos esquemas, sobre todo en aquellos instalados por la 
 
 Desde ellos se valida una figura conocida como "falacia de autoridad" que logra récords en speechs de ventas mezclados con datos económicos reciclados o hiper trillados.
 
-[https://es.wikipedia.org/wiki/Argumento\_ad\_verecundiam](https://es.wikipedia.org/wiki/Argumento\_ad\_verecundiam)
+[!ref icon="info" target="blank" text="Argumento Ad Verecundiam"]([https://retype.com/](https://es.wikipedia.org/wiki/Argumento\_ad\_verecundiam))
 
 ## El trading es honesto
 
