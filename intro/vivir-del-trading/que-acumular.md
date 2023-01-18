@@ -70,6 +70,8 @@ Pero se deprecia frente a bienes, monedas o activos escasos!
 
 ## \[DESAFIO CRIPTONAUTA 2]
 
+!!! Desafío Criptonauta
 Responde en este posteo del foro, qué descubriste al analizar la planilla posteada por Franco, actual moderador de Criptonautas.
+!!!
 
 Allí podrás ver cómo hubiera avanzado tu capital al ahorrar durante los últimos X años en BTC, oro, bonos, acciones, pesos argentinos o dólares.
