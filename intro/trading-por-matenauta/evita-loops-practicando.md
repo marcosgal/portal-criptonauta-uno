@@ -1,8 +1,12 @@
 # Evita loops practicando
 
-Hacer algo que no hacíamos es tan simple como hacerlo, pero si llevamos casi toda nuestra vida sin practicar, es lógico que nos cueste recordar cómo hacerlo.
+Hacer algo que no hacíamos es tan simple como hacerlo, pero si llevamos casi toda nuestra vida sin hacer nada "nuevo", es esperable que nos cueste dar el primer paso.
 
-Disfrutamos practicar porque lo hacemos juntos, entonces no se hace algo pesado sino divertido 🙂
+Practicar nos devuelve a la realidad: nos equivocamos, todo el tiempo.
+
+Pero así es como aprendemos a hacer cosas por cuenta propia **¿O cómo crees que existe Criptonautas?**
+
+Disfrutamos practicar trading porque lo hacemos juntos y así lo transformamos en algo divertido 🙂
 
 FOTO EXP
 
@@ -10,42 +14,44 @@ FOTO EXP
 
 FOTO EXP
 
-Y tu práctica puede tomarse dos meses como también dos años.
+En nuestra práctica retomamos una de nuestras bases, que es no intentar forzar nuestro aprendizaje sino **permitir que fluya y se desarrolle por naturaleza**.
 
-Lo cierto es que todos intentamos ganar dinero antes que aprender a hacer trading, y así lo perdimos.
+Esto es 100% incompatible con tu deseo de hacer dinero. Si haces el curso invirtiendo antes de ser Criptonauta (terminando la tercera fase) estarás fallando el **Criptonautip #1** que es algo así como nuestor primer mandamiento, si fuéramos religiosos.
 
-![¿Aprende TRADING en SOLO 10 MINUTOS?](../../.gitbook/assets/imagen.png)
+Que las cosas fluyan suena muy _new age_, pero no tiene nada de _new_. Es el estado natural de todas las cosas, lejos de obligaciones sociales o culturales, muchas de ellas incluso moralmente impuestas.
 
-Youtube es un nido de estafas e info basura ¿Cuántos youtubers crees que son traders?
+El río fluye, porque nadie le dice cómo fluir. Las personas libres fluimos de igual modo, salvo que nos digan qué hacer.
 
-Claro, siempre pensamos que la suerte cambie nuestra realidad y perseguimos durante toda la vida ilusiones. Por eso muchos siguen anotando su número en la lotería cada semana.
+Es mucho más simple que aprendas si lo haces cuando tienes ganas de hacerlo y no cuando te obligues. El problema es que prácticamente vives toda tu vida obligad@, entonces tendrás que encontrarte de manera libre.
 
-Puedes tener suerte y hacer una diferencia importante tradeando alguna memecoin o comprando estafas como LUNA...
+> Personalmente (matenauta) tengo varios rituales que entiendo colaboran con mi estado de flow:
+> 
+> Música electrónica, THC, meditar de manera indirecta a todo momento, explorar caminando sin GPS, hablar con desconocidos, imaginar situaciones opuestas a las que estoy viviendo, rapé, caminar descalzo en la naturaleza (siempre), olvidarme del horario, vivir sin notificaciones, apegarme a muy pocas decisiones, escuchar activamente a quienes me transmiten una energía cercana.
+> 
+> Visitar lugares solo: bares, recitales, restaurantes, plazas, parques, ríos, lagos, montañas. Escribir, bailar en todos lados como me salga y cuando me salga, sonreir siempre que sea genuino hacerlo.
 
-![image](https://user-images.githubusercontent.com/122026745/210851418-7b5b788a-fef4-43a1-b8d9-366f9793cf1a.png)
+## Practica trading cuando tengas un momento
 
-Pero creeme, siempre dura poco:
-
-![image](https://user-images.githubusercontent.com/122026745/210851635-82422f92-c6c9-453f-b769-28e3dc1817f3.png)
-
-Y de nada sirve ganar mucho dinero para luego perderlo de una vez. Porque **el trading es mucho más que juntar indicadores y fijar un \_stop-loss**\_**.**
-
-> _“Decide si es un pasatiempo o un trabajo. Si es un pasatiempo, mejor encuentra otro porque este va a resultar muy caro y peligrosamente adictivo”._
->
-> Al Brooks.
-
-### Practica cuando tengas un momento
-
-Olvida la semana donde no tengas obligaciones porque no existe si vives en sociedad.
+Olvida esperar la semana sin obligaciones porque no existe si vives en sociedad. Y tu dinero se irá a cero si continúas sin darle atención.
 
 Cuando tengas un momento y algo de motivación, lee un capítulo del libro, comparte un patrón, una línea de tendencia o envía tu último trade a Discord.
 
-Esa es la mejor y única manera en la que podrás hacer trading de manera sostenible. Si no compartes, te encontrarás con todos tus sesgos cognitivos perdiendo trades.
+**Esa es la única manera en la que podrás hacer trading de manera sostenible, sin entrar en loops de los cuales te costará muchísimo más salir.**
 
-Con el tiempo podrás elegir cuánto destinarle a tu trading, de acuerdo a tus habilidades, desempeño y capital invertido (que no trabajes ocho horas no significa que dejarás de trabajar por completo, aunque casi).
+Si no compartes, te encontrarás con todos tus sesgos cognitivos perdiendo trades, porque nos programan para ser egoístas y eso es contrario a lo que nos mantiene atentos en el mercado (y en la vida).
 
-La mayoría elegimos tradear sin complicarnos demasiado, pero luego de capitalizarnos para poder cubrir nuestro estilo de vida sin complicaciones.
+Si tienes miedo todo el tiempo, no podrás accionar en tu trading. Algo similar te pasará si piensas que siempre tienes razón.
 
-Si estoy viajando y conociendo lugares, o trabajando de lleno en la comunidad, tradeo menos pero con más volumen.
+!!!
+El mercado es muy justo, salvo en instituciones, que tienen muchísima más información y recursos que las personas.
+!!!
 
-Solo lo hago **cuando se confirma mi estrategia**. Actualmente estoy sosteniendo un ciclo de mercado con menos de 10 movimientos,recuerda que la mayoría de las veces, menos es más.
+Con el tiempo podrás elegir cuánto tiempo y dinero destinarle a tu trading, de acuerdo a tus habilidades, desempeño y capital invertido (que no trabajes ocho horas no significa que dejarás de trabajar por completo, aunque casi 😬).
+
+En mi experiencia noté que la mayoría de los traders que llevamos algunos años en el mercado, decidimos tradear sin complicarnos demasiado.
+
+Y lo hacemos luego de capitalizarnos para poder cubrir nuestro estilo de vida sin complicaciones.
+
+Si estoy viajando y conociendo lugares, o trabajando de lleno en la comunidad, tradeo menos pero con más volumen. Cuando mi rol en la comunidad se ubique en un segundo plano, retomaré mi trading de manera más activa.
+
+Solo tradeamos **cuando se confirma nuestra estrategia**. Y primero aprendemos practicando la teoría, para que luego la práctica sea continuada en real.
