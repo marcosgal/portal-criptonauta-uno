@@ -121,4 +121,6 @@ Por eso no reconocemos autoridades sino argumentos, y sumamos a nuestro desarrol
 
 Porque **el objetivo de la comunidad en este curso es que la mayoría aprenda trading**.
 
-Esta es la **primera Fase del Portal** y mi regalo hacia la comunidad de traders y [Cypherpunks](https://en.wikipedia.org/wiki/Cypherpunk) que respetan y valoran el open-source, la libertad sobre todas las cosas y se animan a hacer lo que quieren con su vida 👊
+Esta es la **primera Fase del Portal** y mi regalo hacia la comunidad de traders y [Cypherpunks](https://en.wikipedia.org/wiki/Cypherpunk).
+
+Eso incluye a cualquiera que respete y valore el open-source, la libertad (privacidad) sobre todas las cosas, y/o se anime a hacer lo que quiera con su vida 👊
