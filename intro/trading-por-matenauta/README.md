@@ -10,34 +10,27 @@ Trabajé en tres empresas cumpliendo reglas absurdas y mi descontento logró que
 
 Un día me pregunté si se puede vivir del trading. En ese momento Bitcoin solo tenía 3 billones de dólares de capitalización.
 
-Un día me propuse dejar de trabajar para otros, como sea. Y me pregunté si se puede vivir del trading o desde inversiones, sin ser millonario.
-
-En ese momento Bitcoin solo tenía 3 billones de dólares de capitalización.
-
 _`Multiplicamos los bitcoins vigentes por el precio de cada uno en dólares (BTCUSD).`_
 
 Pero al 2020, cuando publiqué la primera versión de este libro, Bitcoin tenía 100 billones de dólares...
 
 Y al 2022, 400 billones pero luego de un pico de 1000 billones (un trillón).
 
+!!!
 Recuerda que algunos años antes solo tenía 3 billones.
+!!!
 
 ![BTC Capitalizacion](https://user-images.githubusercontent.com/121636966/210031142-ac533acd-16ee-48a9-86dd-cbb57cd6cda2.jpg)
 
 Forex que es el mercado de divisas, tiene cerca de 80 trillones. Cripto existe desde hace 14 años pero Forex, 75.
 
-Cuando llegué a esos datos dejé de preguntar si se podía vivir del trading y **me pregunté cómo hacerlo**.
+Entonces, cuando llegué a esos datos dejé de preguntar si se podía vivir del trading y **me pregunté cómo hacerlo**.
 
-Porque los mercados están abiertos a inversores minoristas y los precios pueden comprarse y venderse para aprovechar sus diferencias.
+Porque los mercados están abiertos a inversores minoristas y los precios pueden comprarse y venderse para aprovechar sus diferencias:
 
 ![Mercados abiertos minoristas](https://user-images.githubusercontent.com/121636966/210031504-d13dbc1e-b3cf-4ef0-bb37-840a964e3221.jpg)
 
-!!! Esto es especulación y solo tiene valor si lo encuentras en la habilidad para ubicarte en el mercado, o en lo que elijas acumular.\
-\
-Si solo piensas en hacer dinero, como un fin en sí mismo, lo más probable es que lo pierdas.\
-!!!
-
-### **Siempre supe que es posible**
+# Siempre supe que es posible
 
 Mark Douglas afirma que _la sociedad persigue metas incompatibles con la mentalidad que debe desarrollar el trader y por eso nos cuesta tanto hacerlo_.[ 2](https://www.amazon.com/Trading-Zone-Confidence-Discipline-Attitude-ebook/dp/B004H1TBCG)
 
