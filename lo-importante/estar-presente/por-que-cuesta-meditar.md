@@ -34,10 +34,12 @@ No equivale a no pensar en nada, tampoco a pensamientos positivos; sino dar luga
 
 **A partir del mindfulness no buscamoss llegar a ningún lugar en especial sino permitirnos estar donde estamos.**
 
-## **\[DESAFIO CRIPTONAUTA 6]**
+## \[DESAFIO CRIPTONAUTA #4]**
 
+!!! Desafío Criptonauta
 Medita 5 o 10 minutos, todos los días durante una semana y comparte tus experiencias en **#general-pawadans** desde nuestro Discord.
+!!!
 
 Puedes continuar con el libro mientras lo hagas, pero sin descuidar tus prácticas de meditación.
 
-**Deberás mantenernos al tanto de tus avances.**
+**Para cumplir el desafío deberás mantenernos al tanto de tus avances!**
