@@ -45,8 +45,9 @@ Y ese desarrollo solo existe porque hacemos trading colectivo.
 
 # Hay mucho más que estudiar
 
-!!!alert
-No se trata de hacer mucho dinero sino de mantener nuestras emociones y razón en equilibrio para no perder el que tenemos. !!!
+!!!warning
+No se trata de hacer mucho dinero sino de mantener nuestras emociones y razón en equilibrio para no perder el que tenemos.
+!!!
 
 Con el trading el dinero deja de llenar nuestros vacíos y comienza a florecer en experiencias.
 
@@ -92,7 +93,9 @@ Pero también puedes sumarle un cero al primer diez.
 
 Entonces mi analisis técnico _prefiere sumar ceros_ y la manera más simple (e igual de precisa que la más compleja).
 
-El objetivo de esta simpleza es que puedas aplicar lo que aprendí en tus propias estrategias, desde tu propia personalidad. Y que no te pierdas en trampas mentales, que verá relaciones donde no las hay.
+El objetivo de esta simpleza es que puedas aplicar lo que aprendí en tus propias estrategias, desde tu propia personalidad.
+
+Y que no te pierdas en trampas mentales, que verá relaciones donde no las hay.
 
 En vez de vender una falaz verdad absoluta, aquí te motivamos a que apliques la info en tu propio sistema de trading, aunque eso requiera tu esfuerzo, porque es lo único que funciona.
 
