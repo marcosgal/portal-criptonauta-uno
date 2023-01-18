@@ -12,19 +12,29 @@ Incluso podrás meditar varias veces al día, y de manera casi constante.
 
 Los resultados llegarán luego de dos o tres meses, pero es probable que esperes una manifestación o expresión extraordinaria y eso no va a pasar.
 
-Los cambios que genera el mindfulness son mínimos, pero sumamente importantes y los vas a notar a mediano/largo plazo en tu día a día. Tus decisiones ya no serán reacciones inmediatas a emociones.
+Los cambios que genera el mindfulness son mínimos, pero sumamente importantes y los vas a notar a mediano/largo plazo en tu día a día.
+
+**Tus decisiones ya no serán reacciones inmediatas a emociones.**
+
+Y eso te dará algo que para la mayoría podría ser un super-poder. Al darte un instante más en todo lo que hagas, podrás tomar mejores decisiones e incluso agudizar tus sentidos, a medida que transformes esto en algo cotidiano.
 
 Si notas que en algún momento estás en una situación muy tensa mientras estés operando, frena todo, respira, tomate tu tiempo y evalúa con la comunidad de qué manera seguir.
 
-!!! Nos gusta acompañarte, pero deberás acercarte a lo que hacemos y dejar atrás todo tipo de auto-limitaciones que no te permitan avanzar. !!!
+!!!
+Nos gusta acompañarte, pero deberás acercarte a lo que hacemos y dejar atrás todo tipo de auto-limitaciones que no te permitan avanzar.
 
-## \[DESAFÍO CRIPTONAUTA 7]
+No validamos excusas, sí acciones.
+!!!
 
+## \[DESAFÍO CRIPTONAUTA #5]
+
+!!! Desafío Criptonauta
 Crea la plantilla que usarás para registrar tus pensamientos y emociones en cada uno de tus trades.
 
 Agradecerás muchísimo hacerlo.
+!!!
 
-> _Puede ser una planilla online pero también un cuaderno o lo que se te ocurra para completar antes y luego de cada trade._
+_Puede ser una planilla online pero también un cuaderno o lo que se te ocurra para completar antes y luego de cada trade._
 
 **Deberías contemplar (al menos) las siguientes preguntas:**
 
