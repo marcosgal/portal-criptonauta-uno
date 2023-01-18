@@ -10,7 +10,7 @@ Podemos ajustarlas y cambiarlas, porque sabemos que nada es permanente.
 
 Y nos llevamos muy bien con ciertos métodos ajenos, luego de desarrollar los propios.
 
-!!!alert
+!!!danger
 
 Intentar soluciones absolutas o universales es contrario a la naturaleza de todas las cosas, por eso deberás desterrar esa idea de tu mente en relación al trading.
 
