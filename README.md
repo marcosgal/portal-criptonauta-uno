@@ -41,9 +41,7 @@ A lo largo de tres etapas **aprenderás trading pero desde una perspectiva holí
 ## Cómo empezar
 
 !!!
-
 Solo debes continuar leyendo pero si lo haces desde Github, ingresa a [la versión diseñada en Retype](https://trading.criptonautas.co).
-
 !!!
 
 ## Cómo aportar
