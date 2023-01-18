@@ -11,11 +11,11 @@ Te escribe **matenauta** pero junto a la comunidad que se sumó a editar y colab
 
 **Esto es el resultado de prácticamente toda mi vida, porque el trading motiva y exige todo lo que me hace bien.**
 
-A medida que avances, entenderás que elegir sobre nuestro dinero implica un grado de libertad y equilibrio que ni siquiera imaginamos desde lo que aquí definimos como "La Matrix".
+Entenderás que elegir sobre nuestro dinero implica un grado de libertad y equilibrio que ni siquiera imaginamos desde lo que aquí definimos como "La Matrix".
 
-> _"La Matrix" también puede ser entendida por otros como "sociedad", "capitalismo" o "sistema"._\
+> _"La Matrix" también puede ser definida como "sociedad", "capitalismo" o "sistema"._
 >
-> _Nos interesa el concepto lejos de sus connotaciones políticas o ideológicas. Entendemos a las instituciones como organismos contrarios a las libertades de las personas._
+> _Nos interesa el concepto lejos de sus connotaciones políticas o ideológicas._
 
 ## Por qué aprendí trading
 
@@ -43,7 +43,7 @@ Aquí podrás aprender practicando y compartiendo pero también perdiendo mucho 
 
 Aprenderás de manera amigable o muy dura, porque nuestro único y principal objetivo es que aprendas y te liberes.
 
-Entenderás por qué este Portal no se trata de un libro ni tampoco de un curso, y así descubrirás por qué el trading se transformó en nuestro estilo de vida.
+Entenderás por qué este Portal no es técnicamente un libro ni tampoco un curso, y así descubrirás que el trading en realidad es un estilo de vida.
 
 !!!info Atenti
 
@@ -61,7 +61,7 @@ No soy ni seré un gurú, porque no me interesó, interesa ni interesará serlo.
 
 > _Los gurúes "comparten" (leen guiones ajenos) cierta información útil, pero su razón de ser no es compartir información, sino vender servicios inútiles, a partir del marketing más mercenario que existe._
 
-Tuve que anunciar mi despedida de un servicio online que llegó a cientos de miles de personas, luego de mencionarles que iban a perderlo todo si no cerraban sus posiciones.
+Tuve que anunciar mi despedida de un servicio online que llegó a cientos de miles de personas, luego de mencionarles que iban a perder todo su capital si no cerraban sus posiciones.
 
 _En ese sistema no estaba contemplada la opción de salir, y por eso "me salí yo" junto a quienes recibieron mi sugerencia y recomendación de hacerlo cuanto antes._
 
@@ -95,7 +95,7 @@ El trading no se trata de mí, de Steve Nison ni mucho menos de Robert Kiyos\*\*
 
 Es lo más real que experimentamos y vivimos quienes lo estudiamos, practicamos y aplicamos a nuestra vida. Y aquí lo entendemos como algo colectivo, no individual.
 
-Por eso desarrollamos la primera etapa del curso de manera holística y junto a \~300 personas hispano-hablantes durante dos años.
+> Por eso desarrollamos la primera etapa del curso de manera holística y junto a \~300 personas hispano-hablantes durante dos años.
 
 FOTOARCHIVOCARASVIDEOJUNTADA
 
@@ -103,7 +103,7 @@ FOTOARCHIVOCARASVIDEOJUNTADA
 
 Las frases bonitas no generan traders sino nuestra práctica constante en comunidad. Y eso es lo que hacemos en Criptonautas.
 
-## **Nuestro método educativo es meritorio**
+## Nuestro método educativo es meritorio
 
 _¿Te preguntaste por qué no nos enseñan a plantar, cultivar, alimentarnos, hacer yoga, gestionar emociones, nuestro dinero o meditar?_
 
@@ -113,10 +113,4 @@ Por eso no reconocemos autoridades sino argumentos, y sumamos a nuestro desarrol
 
 Porque **el objetivo de la comunidad en este curso es que la mayoría aprenda trading**.
 
-Esto constituye la **primera etapa del curs**o y mi regalo hacia la comunidad de traders y [Cypherpunks](https://en.wikipedia.org/wiki/Cypherpunk) que respetan y valoran el open-source, la libertad sobre todas las cosas y se animan a hacer lo que quieren con su vida 👊
-
-Y sin querer queriendo, funciona como filtro, porque solo podrán avanzar quienes inviertan tiempo en su propio desarrollo.
-
-El mérito es inherente al desarrollo del trading porque es una actividad que realizamos directamente sobre nuestro capital, más allá de que se vendan muchos servicios insostenibles en forma de "copy trading", "señales" o "fondos de inversión cripto".
-
-> _Si piensas lo contrario, te invito a que pruebes que algo más allá del trading se mantuvo más de tres años._
+Esta es la **primera Fase del Portal** y mi regalo hacia la comunidad de traders y [Cypherpunks](https://en.wikipedia.org/wiki/Cypherpunk) que respetan y valoran el open-source, la libertad sobre todas las cosas y se animan a hacer lo que quieren con su vida 👊
