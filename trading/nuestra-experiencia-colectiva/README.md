@@ -118,7 +118,7 @@ Aprendí mucho estudiando, pero más practicando y acompañando a otros en su ap
 
 Las frases bonitas no generan traders sino nuestra práctica constante en comunidad. Y eso es lo que hacemos en Criptonautas.
 
-## Nuestro método educativo es meritocrático
+## Valoramos y cultivamos el mérito
 
 _¿Te preguntaste por qué no nos enseñan a plantar, cultivar, alimentarnos, hacer yoga, gestionar emociones, nuestro dinero o meditar?_
 
