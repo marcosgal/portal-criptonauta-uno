@@ -68,7 +68,7 @@ Pero se deprecia frente a bienes, monedas o activos escasos!
 
 ![image](https://user-images.githubusercontent.com/122026745/210862356-48f8cc33-37ba-4953-be5b-e0c65beea2d3.png)
 
-## \[DESAFIO CRIPTONAUTA 2]
+## \[DESAFIO CRIPTONAUTA #2]
 
 !!! Desafío Criptonauta
 Responde en este posteo del foro, qué descubriste al analizar la planilla posteada por Franco, actual moderador de Criptonautas.
