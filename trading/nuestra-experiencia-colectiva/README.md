@@ -1,8 +1,7 @@
----
-description: >-
-  "By replacing fear of the unknown with curiosity we open ourselves up to an
-  infinite stream of possibility.” — Alan Watts
----
+!!!contrast
+By replacing fear of the unknown with curiosity we open ourselves up to an infinite stream of possibility.
+— Alan Watts
+!!!
 
 # Nuestra experiencia colectiva
 
