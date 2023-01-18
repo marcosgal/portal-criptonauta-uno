@@ -1,10 +1,8 @@
----
-description: O sesgo de anclaje.
----
-
 # Trampa de anclaje
 
 Se manifiesta cuando enfocas toda tu atención en una señal en particular, e ignoras todo lo que se manifieste en sentido contrario.
+
+FOTODISCORDEXPERIENCIA
 
 Es algo muy común entre novatos, todos creen que sus análisis son precisos. Y prácticamente ninguno tiene resultados favorables.
 
