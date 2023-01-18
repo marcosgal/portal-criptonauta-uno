@@ -12,4 +12,8 @@ A la hora de medir un sistema, deberías hacerlo a partir de una muestra lo sufi
 
 Comenzar en una _testnet_ y registar todas tus operaciones
 
-La info escrita no varía como lo puede hacer tu memoria. Una de las planillas que te envié con este curso mejora notablemente su utilidad mientras más datos (_trades_) introduzcas en ella.
+La info escrita no varía como lo hace nuestra memoria!
+
+> Una de las planillas que te envié con este curso mejora notablemente su utilidad mientras más datos (_trades_) introduzcas en ella.
+> 
+> Practica cada vez más y verás que tus resultados mejoran de manera exponencial.
