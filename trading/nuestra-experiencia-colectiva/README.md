@@ -8,19 +8,19 @@ description: >-
 
 Hola terrícola! 👋
 
-Te escribe matenauta pero junto a la comunidad que se sumó a editar y colaborar con nuestro Portal.
+Te escribe **matenauta** pero junto a la comunidad que se sumó a editar y colaborar libremente en nuestro Portal.
 
 **Esto es el resultado de prácticamente toda mi vida, porque el trading motiva y exige todo lo que me hace bien.**
 
-Porque tal vez no lo entiendas ahora, pero a medida que avances, entenderás que elegir sobre nuestro dinero implica un grado de libertad y equilibrio que ni siquiera imaginamos dentro de lo que aquí definimos como "La Matrix".
+A medida que avances, entenderás que elegir sobre nuestro dinero implica un grado de libertad y equilibrio que ni siquiera imaginamos desde lo que aquí definimos como "La Matrix".
 
 > _"La Matrix" también puede ser entendida por otros como "sociedad", "capitalismo" o "sistema"._\
-> __\
+>
 > _Nos interesa el concepto lejos de sus connotaciones políticas o ideológicas. Entendemos a las instituciones como organismos contrarios a las libertades de las personas._
 
 ## Por qué aprendí trading
 
-Estudié y me desarrollé profesionalmente en el trading de criptos porque es la única manera en la que puedo poder costear el nivel de vida que disfruto sin entregar 1/3 de mi tiempo (o incluso más, contando horas _extras_)...
+Estudié y me desarrollé profesionalmente en el trading de criptomonedas para costear el nivel de vida que disfruto sin entregar 1/3 de mi tiempo (o incluso más, contando horas _extras_)...
 
 Y sin responsabilidades o generando dependencia sobre terceros.
 
@@ -38,13 +38,13 @@ Porque nos pasó a todos los que pensamos que el trading es una máquina de hace
 
 La idea de lo incierto cotidianamente nos asusta porque esperamos controlar todas las cosas, cuando no podemos ni siquiera con nuestros propios pensamientos, sentimientos o emociones.
 
-**Te sentirás incómod@ a lo largo de esta experiencia, sobre todo si esperas resolver tu economía sin primero resolver tu psiquis o situación laboral/familiar.**
+**Te sentirás incómod@ a lo largo de esta experiencia, si esperas resolver tu economía sin esfuerzo, o de un día para el otro.**
 
-Aquí podrás aprender practicando y compartiendo pero también perdiendo mucho dinero, si decides hacer las cosas a tu modo y salteas nuestras sugerencias y recomendaciones.
+Aquí podrás aprender practicando y compartiendo pero también perdiendo mucho dinero, si decides hacer las cosas a tu modo y salteas cada una de nuestras sugerencias y recomendaciones (serás libre de hacerlo, todo el tiempo).
 
 Aprenderás de manera amigable o muy dura, porque nuestro único y principal objetivo es que aprendas y te liberes.
 
-Entenderás por qué este Portal no se trata de un libro ni tampoco de un curso. Y descubrirás por qué el trading se transformó en algo que forma parte de nuestro estilo de vida.
+Entenderás por qué este Portal no se trata de un libro ni tampoco de un curso, y así descubrirás por qué el trading se transformó en nuestro estilo de vida.
 
 !!!info Atenti
 
@@ -56,13 +56,13 @@ Entenderás por qué este Portal no se trata de un libro ni tampoco de un curso.
 
 Porque a pesar de esta foto:
 
-![El conocimiento no entra desde caras](https://user-images.githubusercontent.com/98671738/212181424-d06ee8b0-be76-40e9-bb4e-8074f348b44e.png)
+![El conocimiento no entra desde caras o fotos "serias"](https://user-images.githubusercontent.com/98671738/212181424-d06ee8b0-be76-40e9-bb4e-8074f348b44e.png)
 
 No soy ni seré un gurú, porque no me interesó, interesa ni interesará serlo.
 
-> _Los gurúes "comparten" (leen guiones ajenos) cierta información útil, pero su razón de ser no es compartir información, sino que las personas compren servicios inútiles, a partir del marketing de masas más mercenario que existe._
+> _Los gurúes "comparten" (leen guiones ajenos) cierta información útil, pero su razón de ser no es compartir información, sino vender servicios inútiles, a partir del marketing más mercenario que existe._
 
-Tuve que anunciar mi despedida de un servicio online que llegó a millones de personas, luego de mencionarles que iban a perderlo todo si no cerraban sus posiciones.
+Tuve que anunciar mi despedida de un servicio online que llegó a cientos de miles de personas, luego de mencionarles que iban a perderlo todo si no cerraban sus posiciones.
 
 _En ese sistema no estaba contemplada la opción de salir, y por eso "me salí yo" junto a quienes recibieron mi sugerencia y recomendación de hacerlo cuanto antes._
 
@@ -72,17 +72,17 @@ _FOTOWEBINARBUSCARENS3(matenauta)_
 
 FOTOPROFITSIG
 
-En pocas palabras, multiplicamos por 5 el dinero en medio año, y fueron presentes de ese resultado millones de personas en todo el mundo.
+Multiplicamos 5 veces el dinero invertido en medio año, y fueron presentes de ese resultado millones de personas en todo el mundo, que recibían publicidad en redes sociales disfrazadas de "clases gratuitas".
 
-Y lo mejor de todo, lo hicimos de manera descentralizada (impensado algo así en una empresa como la que me cuasi contrató, confirmamos que las excepciones existen).
+_Lo hicimos de manera descentralizada, y eso fue impensado para una empresa como la que me cuasi contrató, pero una vez más confirmamos que las excepciones existen_ 😬
 
-El trading rompe muchísimos esquemas, sobre todo en aquellos instalados por la "economía clásica" que nos programa para ahorrar algo que se devalúa a un ritmo exponencialmente creciente (cada vez mayor).
+**El trading rompe muchísimos esquemas**, sobre todo en lo instalado por la "economía clásica" que nos programa para ahorrar algo que se devalúa a un ritmo exponencialmente creciente (cada vez mayor).
 
-![Capacidad de compra del dólar en el tiempo](https://user-images.githubusercontent.com/98671738/210263652-4257423d-f7c0-4e1a-916a-7031bad18f05.png)
+![El dólar compra cada vez menos cosas](https://user-images.githubusercontent.com/98671738/210263652-4257423d-f7c0-4e1a-916a-7031bad18f05.png)
 
-**Durante esa experiencia entendí que el marketing de gurúes es lo que mejor funciona con el 97% que se mueve por emociones que no aprendió a gestionar.**
+**Aprendí que el marketing de gurúes es lo que mejor funciona con el 97% que se mueve por emociones que no aprendió a gestionar.**
 
-Desde ellos se valida una figura conocida como "falacia de autoridad" que logra récords en speechs de ventas mezclados con datos económicos reciclados o hiper trillados.
+Y desde ellos se valida una figura conocida como "falacia de autoridad" que logra récords en speechs de ventas mezclados con datos económicos reciclados o hiper trillados.
 
 [!ref icon="info" target="blank" text="Argumento Ad Verecundiam"]([https://retype.com/](https://es.wikipedia.org/wiki/Argumento\_ad\_verecundiam))
 
