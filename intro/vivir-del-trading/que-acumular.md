@@ -1,24 +1,30 @@
----
-description: >-
-  "We can choose courage or we can choose comfort, but we can't have both. Not
-  at the same time". -Brené Brown
----
-
 # Decide qué acumular
 
-Si quieres dólares, deberás idear una estrategia para sumar y mantener dólares; pero si quieres Bitcoin, deberás mantener una estrategia enfocada en sumar y mantener BTC. Lo mismo para acumular euros, estampillas o autógrafos de famosos.
+!!!contrast
+"We can choose courage or we can choose comfort, but we can't have both. Not
+  at the same time".
+— Brené Brown
+!!!
+
+Si quieres dólares, deberás idear una estrategia para sumar y mantener USD (dólares); pero si quieres Bitcoin, deberás mantener una estrategia enfocada en sumar y mantener BTC (Bitcoin).
+
+Lo mismo para acumular euros, estampillas o autógrafos de famosos.
 
 _Es muy probable que los autógrafos de famosos no se devalúen tanto como la moneda de los bancos._
 
-La mayoría elige acumular una moneda o propiedades.
+La mayoría elige acumular una moneda o propiedades, pero los Criptonautas podemos usar varias monedas a la vez.
 
-Pero los Criptonautas podemos usar varias monedas a la vez (en vez de pensar nuestro saldo exclusivamente en dólares). Entonces mantenemos nuestro capital en un estándar dinámico y ya no estatico.
+Entonces mantenemos nuestro capital en un estándar dinámico y ya no estatico.
 
 Al tradear (comprar y vender algo) asumimos una posición en un par, por ejemplo auto vendido por pesos argentinos (ARS) o directamente dos activos juntos como es el caso de BTCUSD...
 
-Porque puedes sumar dolares pero también Bitcoin, y debes tener en claro qué quieres sumar. Si te interesa sumar USD deberás hacer una cosa, pero si te interesa sumar BTC, generalmente la contraria.
+Porque podemos sumar dólares a nuestro capital pero también Bitcoin, y debes tener en claro qué quieres sumar.
 
-**Solo puedes decidir el cómo si primero sabes el qué. Elige qué acumular y luego llegará el cómo!**
+Si te interesa sumar USD deberás hacer una cosa, pero si te interesa sumar BTC, generalmente la contraria.
+
+!!!
+Solo puedes decidir el cómo si primero sabes el qué. **Elige qué acumular y luego llegará el cómo!**
+!!!
 
 A lo largo de tu vida puedes elegir acumular tu moneda local, dólares, oro, propiedades, plata, latas de comida, sal, cuadros, guitarras, experiencias o postales de colección...
 
@@ -26,9 +32,9 @@ También puedes acumular todo eso! Pero si haces trading, _**algo**_** deberás 
 
 > Y esto es muy importante, de hecho es el **\[EJERCICIO PRÁCTICO 2] que encontrarás más abajo!**
 >
-> _(Tal vez te incomode que haya cambiado el método de organización previo, bienvenid@ al club del reseteo)._ 👽\\
+> _(Tal vez te incomode que haya cambiado el método de organización previo, bienvenid@ al club del reseteo)._ 👽
 
-### Personalmente no acumulo dólares (matenauta)
+## Personalmente no acumulo dólares (matenauta)
 
 Es cierto, me muevo entre Argentina, México y Colombia sin dólares. Y lo seguiré haciendo en Europa, Asia o cualquier lugar del mundo cuando continúe mis aventuras.
 
