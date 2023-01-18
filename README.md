@@ -55,19 +55,20 @@ X
 
 > Recibimos dinero libre, puedes conseguir XMR en **#lacuevademilton** o casi cualquier exchange del mundo.
 
-\---
+---
 
-\=== \[WIP - Work In Progress]
+=== [WIP - Work In Progress]
 
 Nuestra experiencia está en desarrollo constante y actualmente en estado beta.
 
 Eso significa que algunas cosas no funcionarán como deberían, pero te guiaremos siempre desde nuestro soporte (lo cubrimos directamente desde la comunidad 🧡).
 
-\==- Lista de pendientes
+==- Lista de pendientes
 
 * Completar imágenes en MAYUS.
 * Corregir hojas de estilos (CSS, HTML, Markdown).
 * Completar las citas en cada título y subtítulo.
 * Revisar la estructura general.
 * Simplificar contenido redundante.
-* Traducir al inglés y esperanto. ===
+* Traducir al inglés y esperanto.
+===
