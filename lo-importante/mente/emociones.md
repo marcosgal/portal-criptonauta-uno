@@ -45,7 +45,7 @@ Eso suele paralizar o hacer que entremos en crisis, pero solo las primeras veces
 
 > Es probable que al principio sientas que _te quedas ciego de tanta luz_ (información) que recibes de golpe.
 >
-> Regalate tiempo, y recuerda que hablamos sobre emociones en [el-arte-de-estar-presente](../el-arte-de-estar-presente/ "mention") y nuestro Discord.
+> Regalate tiempo, y recuerda que hablamos sobre emociones en [estar-presente](../estar-presente/ "mention") y nuestro Discord.
 
 ### Meditamos pero también nos auto-evaluamos
 
