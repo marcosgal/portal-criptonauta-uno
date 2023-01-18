@@ -1,24 +1,21 @@
 # Por qué es un no-curso
 
-***
-
-### description: >- "Dirán que andas por un camino equivocado, si andas por tu camino". -Antonio Porchia
-
-## De qué se trata este curso
+!!!contrast
+Dirán que andas por un camino equivocado, si andas por tu camino.
+— Antonio Porchia
+!!!
 
 Transmito lo que aprendí luego de dedicarme de manera exclusiva al **trading de criptomonedas** durante casi 7 años, con el único objetivo de que aprendas.
 
-Te acerco las herramientas y atajos que descubrí, pero también te cuento cómo el trading me permite elegir todo lo que hago.
+Y lo mismo hacemos todos los Criptonautas que formamos parte de este proyecto.
 
-Porque somos parte de lo mismo, no podemos elegir sobre nuestro dinero si no elegimos nada más en nuestra vida.
+Te acercamos las herramientas y atajos que descubrimos, pero también te contamos por qué el trading nos permite de manera (in)directa elegir todo lo que hacemos.
 
-Elegir nos independiza, no elegir nos hace dependientes.
+Porque elegir nos independiza, mientras no elegir nos hace dependientes.
 
-Desde el 16 de mayo del 2020, sumé a mi desarrollo como trader, la experiencia conjunta de casi 300 personas (el 90% sin base previa) que se incorporaron a lo que comenzó siendo mi curso de trading.
+Desde el 16 de mayo del 2020, fusionamos mi desarrollo como trader junto a la experiencia conjunta de casi 300 personas (el 90% sin base previa) y así creamos este Portal.
 
-Esta segunda edición contempla lo que vivimos juntos y es una síntesis pero también expansión de aquello donde tuvo que profundizar la mayoría para avanzar.
-
-#### Cómo deberás leer este libro
+Pero de nada sirve nuestro esfuerzo si no le sumas el tuyo.
 
 Si lees esta información como si fuera un PDF que recibes desde una empresa que marketinea cursos DeFi, lo más probable es que no entiendas absolutamenta nada y pierdas tu tiempo.
 
@@ -28,9 +25,11 @@ Pero eso es falso, salvo que te dediques a vender cosas y pienses que es más im
 
 Apurarte y hacer todo rápido no hará que te conviertas en trader, sino todo lo contrario porque **la paciencia es la madre de todas nuestras virtudes.**
 
-!!! Esto no es un speech, si te apuras te chocarás una pared de concreto gigante !!!
+!!!
+Esto no es un speech, si te apuras te chocarás una pared de concreto gigante.
+!!!
 
-#### Estudia y practica cuando estés enfocad@
+# Estudia y practica cuando estés enfocad@
 
 Si en algún momento notas que te cuesta retener los conceptos mientras estés leyendo, o directamente no los recuerdas, deberías retomar en otro momento.
 
