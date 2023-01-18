@@ -8,7 +8,9 @@ Abandoné abogacía luego de entender que _**valía madres**_ para instituciones
 
 Trabajé en tres empresas cumpliendo reglas absurdas y mi descontento logró que hoy esté redactando estas líneas.
 
-Un día me pregunté si se puede vivir del trading. En ese momento Bitcoin solo tenía 3 billones de dólares de capitalización.
+Un día me pregunté si se puede vivir del trading.
+
+En ese momento Bitcoin solo tenía 3 billones de dólares de capitalización.
 
 _`Multiplicamos los bitcoins vigentes por el precio de cada uno en dólares (BTCUSD).`_
 
