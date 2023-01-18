@@ -23,7 +23,7 @@ Contempla que si liberas tus finanzas en cripto, literalmenta ya no deberás tra
 
 Ese nivel de libertad requiere que te comprometas en alcanzarlo, y mantenerlo. Compartimos para no olvidarnos nunca de hacerlo.
 
-## \[PRIMER DESAFIO CRIPTONAUTA]
+## \[DESAFIO CRIPTONAUTA #1]
 
 !!! Desafío Criptonauta
 
