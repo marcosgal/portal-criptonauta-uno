@@ -14,23 +14,37 @@ Esa info es precisa y nos permite auto-evaluarnos de manera muy simple y natural
 
 Descubrimos nuestras motivaciones Existen varios tipos de motivaciones: internas o externas, intrínsecas o extrínsecas, positivas o negativas.
 
-!!! Hay una diferencia enorme entre hacer algo por y para un resultado específico. !!!
+!!!
+Hay una diferencia enorme entre hacer algo por y para un resultado específico.
+!!!
 
-Puedes hacer trading para ganar dinero. Puedes hacer trading por tu desarrollo y aprendizaje.
+Puedes hacer trading para ganar dinero, pero también por tu desarrollo y aprendizaje.
 
 Está comprobado que quienes focalizan su energía en el resultado obtienen altas dosis de ansiedad; pero quienes se enfocan en el proceso, obtienen los resultados (5).
 
-Eso quiere decir que si te enfocás en ganar dinero, vivirás ansios@ y lo perderás todo el tiempo. Porque aunque tal vez no lo valores, es muy gratificante entender análisis técnico, saber gestionar riesgo y capital, o hacer yoga y meditar a diario. El dinero llega después. ¿Qué motiva tus operaciones? Como para que quede claro: si piensas solo en hacer dinero, la vas a pasar muy mal. No conectarás con la comunidad ni conmigo, porque no le doy lugar al egoísmo en nuestro espacio. Y el mercado es incluso peor. Tienes tiempo de sobra para hacer dinero, porque el trading nos muestra que la realidad es exponencial, ya no lineal, pero para entenderlo debemos conocernos y conocer al resto en profundidad.
+**Eso quiere decir que si te enfocás en ganar dinero, vivirás ansios@ y lo perderás todo el tiempo.**
 
-!!! Lineal es lo que mantiene control: tu salario, la moneda de los bancos, el calendario que te dice qué día puedes descansar. !!!
+Y eso está estudiado científicamente.
 
-## \[DESAFIO CRIPTONAUTA 8]
+Porque aunque tal vez no lo valores, es muy gratificante entender análisis técnico, saber gestionar riesgo y capital, o hacer yoga y meditar a diario.
 
+Y el dinero llega después.
+
+Tienes tiempo de sobra para hacer dinero, porque el trading nos muestra que la realidad es exponencial, ya no lineal.
+
+Y para entenderlo debemos conocernos y conocer al resto en profundidad.
+
+> Lineal es lo que mantiene control: tu salario, la moneda de los bancos, el calendario que te dice qué día puedes descansar o que vivas encerrado en tí mism@.
+
+## \[DESAFIO CRIPTONAUTA #6]
+
+!!! Desafío Criptonauta
 Tomate unos minutos y escribe en tu anotador las respuesta a las siguientes preguntas:
 
 1. ¿Qué te acercó al trading? ¿Qué esperás del mismo?
 2. ¿Cuáles son los resultados que vienes obteniendo? ¿Cómo te sientes con ellos?
 3. ¿Qué te motiva a seguir? ¿Qué disfrutás del trading y qué no?
 4. ¿Qué esperabas leer en este libro y qué has encontrado?
+!!!
 
 > Puedes guardar y conservar tus respuestas, pero también compartirlas en nuestro foro o juntadas en vivo.
