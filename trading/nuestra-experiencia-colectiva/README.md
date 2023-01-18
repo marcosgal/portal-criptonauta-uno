@@ -104,7 +104,7 @@ FOTOARCHIVOCARASVIDEOJUNTADA
 
 Las frases bonitas no generan traders sino nuestra práctica constante en comunidad. Y eso es lo que hacemos en Criptonautas.
 
-## **Nuestro método educativo**
+## **Nuestro método educativo es meritorio**
 
 _¿Te preguntaste por qué no nos enseñan a plantar, cultivar, alimentarnos, hacer yoga, gestionar emociones, nuestro dinero o meditar?_
 
@@ -115,4 +115,3 @@ Por eso no reconocemos autoridades sino argumentos, y sumamos a nuestro desarrol
 Porque **el objetivo de la comunidad en este curso es que la mayoría aprenda trading**.
 
 Esto constituye la **primera etapa del curs**o y mi regalo hacia la comunidad de traders y [Cypherpunks](https://en.wikipedia.org/wiki/Cypherpunk) que respetan y valoran el open-source, la libertad sobre todas las cosas y se animan a hacer lo que quieren con su vida 👊
-
