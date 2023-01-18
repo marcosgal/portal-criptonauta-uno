@@ -13,3 +13,11 @@ Fijar y respetar un stop-loss equivale a asumir pérdidas y es una acción que n
 Y a eso le sumamos un adoctrinamiento social sin precedentes que nos lleva a intentar **torcer el destino y solo generar problemas.**
 
 Adoptar el verdadero trabajo de un _trader_, no es algo que se consigue leyendo. Cambios en estructuras tan fuertes de pensamiento requieren constancia y mucho entrenamiento.
+
+## [DESAFIO CRIPTONAUTA #7]
+
+!!! Desafío Criptonauta
+Anota una lista de 7 NO que cumplirás durante la próxima semana.
+
+Deberías anotar aquellas cosas que sabes que no tienes ganas de hacer, pero las haces por costumbre, como por ejemplo prender el TV sin escucharlo, o reunirte con personas que no tienes ganas de ver.
+!!!
