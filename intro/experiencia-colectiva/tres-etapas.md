@@ -72,7 +72,9 @@ Recién ahí podrás operar y hablaremos sobre trading en plataformas.
 El mercado cambia de manera constante y NO podemos justificar nuestro accionar en el accionar ajeno.
 
 ||| :icon-check-circle: Criptonautip 1
+
 Solo podemos cambiar nuestra conducta.
+
 |||
 
 Si intentaste hacer trading en algún _exchange_ o _broker_ supongo se te ocurrió anotar lo que aprendiste cuando tu cuenta estaba al rojo vivo, y tal vez lo hiciste.
