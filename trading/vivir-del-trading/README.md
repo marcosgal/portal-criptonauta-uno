@@ -6,11 +6,11 @@ description: >-
 
 # Vivir del trading
 
-> _¿Cómo te fue con el ejercicio anterior?_\
-> \_\_\
-> _¿Crees que alguien podria aprender trading si no puede respetar una regla tan simple como esperar tres días para continuar leyendo?_\
-> \_\_\
-> \_\_**Si avanzas sin valorar la sugerencia ¿Por qué continúas en el curso?**
+> _¿Cómo te fue con el ejercicio anterior?_
+>
+> _¿Crees que alguien podria aprender trading si no puede respetar una regla tan simple como esperar tres días para continuar leyendo?_
+>
+> **Si avanzas sin valorar la sugerencia ¿Por qué continúas en el curso?**
 
 Tal vez pienses que _soy muy pesado_ pero el trading no es un pasatiempo como andar en bicicleta o coleccionar cosas.
 
@@ -44,9 +44,13 @@ Incorporé el concepto de _retesteo_ a los que utilizamos en nuestro día a día
 
 FOTOXMR-PAXG-MEDIOTRADE
 
-!!! El resultado de esa adaptación fue muy positivo, todas mis entradas están visibles en nuestro foro y servidor en Discord.
+!!!
 
-Sumé capital (en BTC) incluso en bear market, sosteniendo la comunidad y viajando por el mundo. Y sin restringirme ni una vez en mi día a día, siendo que me gusta vivir cómodo. !!!
+El resultado de esa adaptación fue muy positivo, todas mis entradas están visibles en nuestro foro y servidor en Discord.
+
+Sumé capital (en BTC) incluso en bear market, sosteniendo la comunidad y viajando por el mundo. Y sin restringirme ni una vez en mi día a día, siendo que me gusta vivir cómodo.
+
+!!!
 
 Al destinar menos tiempo a mi trading, moví 10 veces más capital que al hacer scalping, pero de manera (relativa en el caso de PAXG) descentralizada en Bitcoin, Monero y Pax Gold.
 

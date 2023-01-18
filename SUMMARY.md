@@ -20,7 +20,7 @@
   * [Decide qué acumular](intro/vivir-del-trading/que-acumular.md)
   * [Por qué acumulo BTC y XMR](intro/vivir-del-trading/acumular-btc-xmr.md)
 
-## 👨🎓 👨🎓 Lo más importante <a href="#lo-importante" id="lo-importante"></a>
+## 👨🎓 Lo más importante <a href="#lo-importante" id="lo-importante"></a>
 
 * [El arte de estar presente](lo-importante/estar-presente/README.md)
   * [Meditar es hacer trading](lo-importante/estar-presente/meditar-es-hacer-trading.md)
