@@ -86,19 +86,29 @@ _Como natural criptonauta gestioné la cartera de manera descentralizada, y eso 
 
 **Aprendí que el marketing de gurúes es lo que mejor funciona con el 97% que se mueve por emociones que no aprendió a gestionar.**
 
-Y desde ellos se valida una figura conocida como "falacia de autoridad" que logra récords en speechs de ventas mezclados con datos económicos reciclados o hiper trillados.
+Y se valida una figura conocida como "falacia de autoridad" que logra récords en speechs de ventas mezclados con datos económicos reciclados o hiper trillados.
 
 [!ref icon="info" target="blank" text="Argumento Ad Verecundiam"](\[https:/es.wikipedia.org/wiki/Argumento\_ad\_verecundiam]/)
 
 ### Mención especial para haters
 
-En esa suscripción sugerí invertir en proyectos capitalizados y entre ellos ADA, cuando prácticamente nadie la conocía (FECHA ADA).
+En esa suscripción sugerí invertir en proyectos con equipos de desarrollo, entre los más capitalizados, y en los momentos donde el riesgo de invertir en ellos era menor.
 
-El trading también encuentra salidas, que es lo que no encuentran novatos que esperan que todo se vaya a las nubes.
+Sugerí invertir en ADA, cuando prácticamente nadie había siquiera sentido nombrar a Cardano (FECHA ADA).
 
-Y en última instancia, incluso Bitcoin puede dejar de irse a las nubes. En relación a eso puedes navegar Criptonautas, porque Bitcoin ya no es lo que alguna vez fue.
+Pero no todo se agota ahí, porque hay muchas cosas que se inflan y luego desinflan.
+
+El trading se completa con salidas, que es lo que no encuentran novatos que esperan que todo se vaya a las nubes.
+
+Y en última instancia, incluso Bitcoin puede dejar de irse a las nubes.
+
+!!!
+
+En relación a eso puedes navegar Criptonautas, porque Bitcoin ya no es lo que alguna vez fue.
 
 Todo cambia, todo el tiempo.
+
+!!!
 
 ## El trading es honesto
 
@@ -136,8 +146,8 @@ Pero hay dos fases más, que pueden ser entendidas como niveles sayayin o evoluc
 
 Los dibujos animados japoneses tienen muchísima información que se perdió en los dibujos de tipo occidental.
 
-Un niño entiende mejor que para ser adulto hace falta un proceso que un adulto que quiere hacer trading de un día para el otro, sin haber elegido casi nada en su vida.
+Un niño entiende mejor que para ser adulto hace falta un proceso, que un adulto que quiere hacer trading de un día para el otro, sin haber elegido casi nada en su vida.
 
-En Criptonautas entendemos al tiempo como algo que solo podemos experimentar en presente, no lineal.
+En Criptonautas entendemos al tiempo como algo que solo podemos experimentar en presente, no como algo lineal que podamos dimensionar.
 
 !!!

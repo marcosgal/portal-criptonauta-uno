@@ -4,7 +4,8 @@
 
 * [Ingresa al Portal Criptonauta](README.md)
 * [Nuestra experiencia colectiva](trading/nuestra-experiencia-colectiva/README.md)
-  * [Tres etapas de aprendizaje](intro/experiencia-colectiva/tres-etapas.md)
+  * [Cómo empezó mi camino](intro/nuestra-experiencia-colectiva/como-empezo-mi-camino.md)
+  * [Tres fases criptonautas](intro/experiencia-colectiva/tres-etapas.md)
   * [El trading como estilo de vida](trading/nuestra-experiencia-colectiva/el-trading-como-estilo-de-vida.md)
   * [El futuro es y será incierto](trading/nuestra-experiencia-colectiva/el-futuro-es-y-sera-incierto.md)
   * [Métodos no convencionales](trading/nuestra-experiencia-colectiva/metodos-no-convencionales.md)
