@@ -1,4 +1,4 @@
-# De qué se trata este curso
+# Por qué es un no-curso
 
 ***
 
