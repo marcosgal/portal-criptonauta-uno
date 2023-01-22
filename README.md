@@ -8,9 +8,9 @@ Aprendimos trading y usamos criptos porque son por esencia libres pero además a
 
 ## Por qué creamos el Portal
 
-Descubrimos que el trading está repleto de obstáculos, y podemos superarlos de manera mucho más sencilla en equipo...
+Descubrimos que el trading está repleto de obstáculos, y podemos superarlos de manera mucho más sencilla en equipo.
 
-Y es necesario mantener relativa disciplina en todo lo que hacemos de manera independiente.
+El tiempo nos enseñó la importancia de mantener relativa disciplina en lo que hacemos de manera independiente, y en el trading más que en ninguna otra actividad que realicemos.
 
 Nuestro método de aprendizaje basado en la síntesis y práctica colectiva está fuera de este mundo, entonces creamos este portal.
 
@@ -52,7 +52,7 @@ Estamos en pleno desarrollo, por lo que son muy bienvenidos tus aportes.
 * Si quieres aportar ediciones e información, revisa [CONTRIBUTING.MD](CONTRIBUTING.md).
 * Si quieres aportar dinero, puedes enviar XMR a la siguiente dirección:
 
-X
+``89JLDaY3JiBAXZuhwxL4yR5i6fatCuq9q3VWaqvTxHxg6pPfd96L4ziTZRPDkg6gSUNcZqtULhqiDYkHMsTP2RLK5CEkLa6``
 
 > Recibimos dinero libre, puedes conseguir XMR en **[#lacuevademilton](https://discord.criptonautas.co)** o en casi cualquier exchange del mundo.
 
