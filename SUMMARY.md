@@ -50,7 +50,7 @@
 * [Mejor hacer esto](lo-importante/hacer-esto.md)
 * [Mejor evitar esto](lo-importante/evitar-esto.md)
 
-## Te toca aportar <a href="#aportar" id="aportar"></a>
+## Valoramos tu aporte! <a href="#aportar" id="aportar"></a>
 
 * [Dos maneras de avanzar](practica/mejor-con-calma.md)
 * [Por qué aportar y continuar](practica/punto-y-coma.md)
