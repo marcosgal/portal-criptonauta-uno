@@ -16,12 +16,14 @@ Los **sesgos cognitivos** (_bias_ en inglés) son una distorsión, juicio inexac
 
 **Hacen que repitamos patrones y hagamos lo contrario a lo que pensamos hacer.**
 
-Te acerco una descripción de las trampas que encontrarás en tu mente y tips para que tu trading no se vea anclado a ellas.
-
-Los conceptos son psicológicos, pero la explicación apta para todo público.
-
-## Esto es parte de tu esencia
+## Venimos así de fábrica
 
 Y por más que lo intentes, no podrás negar la influencia de estas conductas en tu día a día porque eres human@.
 
 Solo podrás aprender a gestionarlas, meditando antes que nada, y luego registrando lo que haces en cada una de tus operaciones.
+
+La lista de errores de pensamiento es muchísimo más extensa de lo que esperas, y no voy a profundizar en cada uno de ellos porque no es el objetivo del Portal...
+
+Pero puedes hacerlo, si te interesa, y usar este punto de partida:
+
+\[!ref target="blank" text="Lista de BIAS (inglés)"]\([https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive\_bias\_codex\_en.svg](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive\_bias\_codex\_en.svg))
