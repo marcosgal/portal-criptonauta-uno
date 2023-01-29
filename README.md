@@ -1,18 +1,29 @@
-# Ingresa al Portal Criptonauta
+# Reseteo Criptonauta
+
+Hola! 👋
+
+Alguien pensó que era buena idea invitarte, o nos viste en Internet y te llamó la atención lo que hacemos.
 
 ## Quiénes somos?
 
-Los Criptonautas somos un grupo de personas como tú, que se encontró en internet al buscar cómo liberar sus finanzas y economía del sistema.
+Los Criptonautas somos un grupo de personas como tú, que se encontró en internet buscando cómo liberar sus finanzas y economía de La Matrix.
 
-Aprendimos trading y usamos criptos porque son por esencia libres pero además a usar bancos, créditos e incluso deudas a nuestro favor 🙂
+PIRAMID-MONEY
+La Matrix
 
-## Por qué creamos el Portal
+Hacemos trading y usamos criptos porque son por esencia libres, pero además bancos, créditos e incluso deudas a nuestro favor.
 
-Descubrimos que el trading está repleto de obstáculos, y podemos superarlos de manera mucho más sencilla en equipo.
+Aprendemos qué representa el dinero para nuestro día a día, y cambiamos las estructuras de pensamiento que nos limitan a percibirlo como algo escaso, lejano o inalcanzable.
 
-El tiempo nos enseñó la importancia de mantener relativa disciplina en lo que hacemos de manera independiente, y en el trading más que en ninguna otra actividad que realicemos.
+## Por qué creamos el Portal Criptonauta
 
-Nuestro método de aprendizaje basado en la síntesis y práctica colectiva está fuera de este mundo, entonces creamos este portal.
+Descubrimos que el trading no es para cualquiera, porque requiere auto-disciplina y seguimiento constante. Pero también aprendimos que es mucho más fácil aprender en equipo.
+
+Entonces afianzamos nuestro conocimiento acompañando al resto y eso valida nuestros resultados 🧡
+
+IMAGEN-EYDER-DISCORD
+
+Nuestro método de aprendizaje basado en la síntesis y práctica colectiva está fuera de este mundo, entonces creamos el Portal Criptonauta para que te puedas sumar a lo que hacemos.
 
 ## Es un curso de trading?
 
@@ -30,7 +41,11 @@ Tampoco.
 > 
 > _Es alguien que toma sus decisiones, y valora el tiempo ajeno como el propio._
 
-A lo largo de tres etapas **aprenderás trading desde una perspectiva holística**, que te mostrará el camino hacia el nivel de independencia que estés dispuest@ a cultivar por tí mism@.
+Si continúas en esta experiencia, **aprenderás trading desde una perspectiva holística**, que te mostrará el camino hacia el nivel de independencia que estés dispuest@ a cultivar por tí mism@.
+
+> Esto NO es para quienes busquen soluciones mágicas, rápidas o infalibles. Tampoco para quienes esperen que otro haga sus deberes (para eso hay muchos bancos y fintechs ahí afuera).
+> 
+> Esto SI es para quienes confíen en las personas y en su independencia. Y estén dispuestos a brindarse el tiempo necesario para su propio reseteo.
 
 ## Fundamentos
 
@@ -42,7 +57,7 @@ A lo largo de tres etapas **aprenderás trading desde una perspectiva holística
 ## Cómo empezar
 
 !!!
-Solo debes continuar leyendo pero si lo haces desde Github, ingresa a [la versión diseñada en Retype](https://trading.criptonautas.co).
+Solo debes continuar leyendo pero si estás desde Github, ingresa a [la versión diseñada en Retype](https://trading.criptonautas.co).
 !!!
 
 ## Cómo aportar
@@ -66,9 +81,9 @@ Eso significa que algunas cosas no funcionarán como deberían, pero te guiaremo
 
 ==- Lista de pendientes
 
-* Completar imágenes en MAYUS.
-* Corregir hojas de estilos (CSS, HTML, Markdown).
-* Completar las citas en cada título y subtítulo.
+* [70%] Cambiar MAYUS por imágenes o ilustraciones.
+* [80%] Completar hojas de estilos (CSS, HTML, Markdown).
+* [50%] Completar citas en títulos y subtítulos.
 * Revisar la estructura general.
 * Simplificar contenido redundante.
 * Traducir al inglés y esperanto.
