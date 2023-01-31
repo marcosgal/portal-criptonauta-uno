@@ -72,11 +72,11 @@ Tuve que anunciar mi despedida de un servicio online que llegó a cientos de mil
 
 _En ese sistema no estaba contemplada la opción de salir, y por eso "me salí yo" junto a quienes recibieron mi sugerencia y recomendación de hacerlo cuanto antes._
 
-_FOTOWEBINARBUSCARENS3(matenauta)_
+!["Siempre va para la empresa, el banco o el Estado"](https://user-images.githubusercontent.com/98671738/215840737-b120c34a-a8cf-4890-b88f-e09b8ba0233a.png)
 
 ### Hicimos un 574% en menos de 6 meses
 
-FOTOPROFITSIG
+![Profits en Webinar en vivo](https://user-images.githubusercontent.com/98671738/215840287-0c1b61a2-1040-43e5-b598-cc1d0a9568ef.png)
 
 Multiplicamos casi 6 veces el dinero invertido en medio año, y fueron presentes de ese resultado millones de personas en todo el mundo, que recibían publicidad en redes sociales disfrazadas de "clases gratuitas".
 
