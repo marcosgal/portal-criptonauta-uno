@@ -41,6 +41,7 @@
     * [Trampa de control](lo-importante/mente-no-fiable/trampas-pensamiento/control.md)
     * [Trampa de resultados](lo-importante/mente-no-fiable/trampas-pensamiento/resultados.md)
     * [Trampa de retrospectiva](lo-importante/mente-no-fiable/trampas-pensamiento/retrospectiva.md)
+    * [Trampa de profecía](lo-importante/mente-no-fiable/trampas-pensamiento/trampa-de-profecia.md)
   * [Hackeamos nuestra mente](lo-importante/mente-no-fiable/hackeamos-mente/README.md)
     * [HACK 1: acepta tu responsabilidad](lo-importante/mente-no-fiable/hackeamos-mente/hack-1-acepta-tu-responsabilidad.md)
     * [HACK 2: reconoce tu camino](lo-importante/mente-no-fiable/hackeamos-mente/recuerda-que-es-un-camino.md)
