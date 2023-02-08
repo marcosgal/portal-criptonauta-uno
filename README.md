@@ -54,6 +54,14 @@ Si continúas en esta experiencia, **aprenderás trading desde una perspectiva h
 * Experiencia colectiva de casi 3 años en comunidad.
 * Archivo público y verificable de todo lo que hacemos.
 
+## Modalidad (matenauta)
+
+En este no-curso no-podrás jugar de víctima, mucho menos de impostor. Te saldrá muy mal "hacer que haces" las cosas, o esperar que otro las haga por vos.
+
+Sentirás culpa, miedo y rencor. Me odiarás y amarás en ciclos, y descubrirás qué escondes en tu interior.
+
+Si no compartes serás un estorbo para el resto. Si compartes, cambiarás tu vida siendo esto 🙏
+
 ## Cómo empezar
 
 !!!
