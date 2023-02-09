@@ -3,6 +3,6 @@ contact_links:
   - name: Criptonautas Community Support
     url: https://github.com/somos-criptonautas/trading/discussions
     about: Please ask and answer questions here.
-  - name: Criptonautas Security E-Mail
+  - name: Criptonautas Dev E-Mail
     url: mailto:dev@criptonautas.co
-    about: Please report security vulnerabilities here.
+    about: Please report issues or security vulnerabilities here (!)
