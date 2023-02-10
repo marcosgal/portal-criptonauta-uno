@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://trading.criptonautas.co/sitemap.xml.gz
+Sitemap: https://portal.criptonautas.co/sitemap.xml.gz
