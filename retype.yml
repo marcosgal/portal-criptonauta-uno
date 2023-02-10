@@ -1,9 +1,8 @@
 input: ./
 output: .retype
-url: https://trading.criptonautas.co
+url: https://portal.criptonautas.co
 branding:
-  title: Trading y criptomonedas en tu idioma
-  label: Book
+  title: Es un Portal Criptonauta
   logo: logot-01.png
   logoDark: logod-01.png
   colors:
@@ -11,7 +10,7 @@ branding:
       background: "#111111"
       text: "#ffffff"
 edit:
-  repo: https://github.com/somos-criptonautas/trading
+  repo: https://github.com/somos-criptonautas/portal-criptonauta-uno
   label: Editar en Github
 editor:
   enabled: true
@@ -40,4 +39,4 @@ server:
     mode: disk
     polling: true|60000
 footer:
-  copyright: "Criptonautas tiene licencia Creative Commons"
+  copyright: "Criptonautas tiene licencia Creative Commons y GNU (open-source)"
