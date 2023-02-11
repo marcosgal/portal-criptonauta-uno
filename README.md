@@ -8,8 +8,7 @@ Alguien pensó que era buena idea invitarte, o nos viste en Internet y te llamó
 
 Los Criptonautas somos un grupo de personas como tú, que se encontró en internet buscando cómo liberar sus finanzas y economía de La Matrix.
 
-PIRAMID-MONEY
-La Matrix
+![Pirámide del dinero del mundo (al fondo, air money)](https://user-images.githubusercontent.com/124811986/218235467-7afd6610-38e8-4981-a7d9-d3204c3b1dc2.png)
 
 Hacemos trading y usamos criptos porque son por esencia libres, pero además bancos, créditos e incluso deudas a nuestro favor.
 
