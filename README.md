@@ -15,15 +15,17 @@ Hacemos trading y usamos criptos porque son por esencia libres, pero además ban
 
 Aprendemos qué representa el dinero para nuestro día a día, y cambiamos las estructuras de pensamiento que nos limitan a percibirlo como algo escaso, lejano o inalcanzable.
 
-## Por qué creamos el Portal Criptonauta
+## Por qué nos reseteamos
 
-Descubrimos que el trading no es para cualquiera, porque requiere auto-disciplina y seguimiento constante. Pero también aprendimos que es mucho más fácil aprender en equipo.
+Descubrimos que nos programan para cumplir órdenes y en el trading tenemos que planificar, desarrollar y ejecutar nuestras propias estrategias.
 
-Entonces afianzamos nuestro conocimiento acompañando al resto y eso valida nuestros resultados 🧡
+Eso en pocas palabras es como si un peón quisiera actuar como el rey.
+
+Aprendimos que es mucho más fácil aprender en equipo porque a la vez re-descubrimos la fuerza en lo que somos y recordamos de qué estamos hechos 🧡
 
 IMAGEN-EYDER-DISCORD
 
-Nuestro método de aprendizaje basado en la síntesis y práctica colectiva está fuera de este mundo, entonces creamos el Portal Criptonauta para que te puedas sumar a lo que hacemos.
+Nuestro aprendizaje se puede definir como experiencia, síntesis y práctica colectiva. Está fuera de este mundo, entonces creamos el Reseteo Criptonauta para que te puedas sumar a lo que hacemos.
 
 ## Es un curso de trading?
 
@@ -35,17 +37,15 @@ Tampoco.
 
 ## Entonces qué es?
 
-**Nuestro Portal Criptonauta es la puerta de entrada a nuestro universo, donde evitamos definir las cosas porque nos interesa vivirlas 🚀**
+El **Reseteo Criptonauta** es el portal hacia nuestro universo, donde hacemos lo que queremos y como queremos, en comunidad 🚀**
 
-> _Un Criptonauta aspira a ser lo que dice, sin exageraciones, mentiras ni contradicciones._
+Los Criptonautas valoramos el tiempo ajeno como el propio y disfrutamos cada una de nuestras experiencias.
+
+Por eso aprendemos y enseñamos **trading desde una perspectiva holística**, que muestra el camino hacia el nivel de independencia que estemos dispuest@s a cultivar por nosotros mism@s.
+
+> Esto NO es para quienes busquen soluciones mágicas, rápidas o infalibles. Tampoco para quienes esperen que otro haga sus cosas (sobran bancos y fintechs).
 > 
-> _Es alguien que toma sus decisiones, y valora el tiempo ajeno como el propio._
-
-Si continúas en esta experiencia, **aprenderás trading desde una perspectiva holística**, que te mostrará el camino hacia el nivel de independencia que estés dispuest@ a cultivar por tí mism@.
-
-> Esto NO es para quienes busquen soluciones mágicas, rápidas o infalibles. Tampoco para quienes esperen que otro haga sus deberes (para eso hay muchos bancos y fintechs ahí afuera).
-> 
-> Esto SI es para quienes confíen en las personas y en su independencia. Y estén dispuestos a brindarse el tiempo necesario para su propio reseteo.
+> Esto SI es para quienes confíen en las personas (su independencia) y estén dispuestos a brindarse el tiempo necesario para su propio reseteo.
 
 ## Fundamentos
 
@@ -54,13 +54,34 @@ Si continúas en esta experiencia, **aprenderás trading desde una perspectiva h
 * Experiencia colectiva de casi 3 años en comunidad.
 * Archivo público y verificable de todo lo que hacemos.
 
-## Modalidad (matenauta)
+## No-métodos por matenauta
 
-En este no-curso no-podrás jugar de víctima, mucho menos de impostor. Te saldrá muy mal "hacer que haces" las cosas, o esperar que otro las haga por vos.
+En este no-curso deberás desarrollarte como nunca antes lo hiciste. Eso significa que podrás preguntar, pero deberás primero *(o segundo?* 😦*)* tomar acción por tu cuenta.
 
-Sentirás culpa, miedo y rencor. Me odiarás y amarás en ciclos, y descubrirás qué escondes en tu interior.
+Eso significa que deberás dedicarte tiempo pero sin la motivación de generar un resultado.
 
-Si no compartes serás un estorbo para el resto. Si compartes, cambiarás tu vida siendo esto 🙏
+Y suena genial pero luego verás que no es tan genial, porque *cuesta*.
+
+Nos programaron para trabajar esperando un resultado: dinero por hora o por mes vencido en forma de *salario*.
+
+Y el trading no te dará ese dinero, sino hasta que aprendas a darte tiempo a tí mism@ (!)
+
+http://timanderic.tumblr.com/post/2127050969/and-were-back
+
+Antes de que colapses -> te reseteas para conocer la solución 🧡
+
+> Nos reseteamos compartiendo, donde aprendemos que nuestro tiempo más valioso no espera algo a cambio. Vemos la evolución entre quienes lo hacen y no nos queda otra que aceptar lo que somos.
+
+La mayoría pierde su constancia, entonces la comunidad existe para demostrar que los resultados están directamente relacionados con nuestro propio desarrollo.
+
+Acompañé de cerca y de manera constante al primer grupo de casi 300 personas, durante casi 3 años:
+
+- Compartir es necesario para poder entender al mercado.
+- Todos perdemos tarde o temprano algo de dinero.
+- La mayoría espera aprender leyendo cuando debe practicar.
+- La mayoría corre riesgo de loop, que se rompe compartiendo.
+- Tanto el trading como nuestro reseteo son para toda la vida.
+- Quienes se encierran en sí mismos solo pierden dinero.
 
 ## Cómo empezar
 
@@ -70,22 +91,22 @@ Solo debes continuar leyendo pero si estás desde Github, ingresa a [la versión
 
 ## Cómo aportar
 
-Estamos en pleno desarrollo, por lo que son muy bienvenidos tus aportes.
+> Estamos en BETA por lo que son muy bienvenidos tus aportes en lo que pienses que puede sumar.
+> 
+> - Si quieres aportar ediciones e información, revisa [CONTRIBUTING.MD](CONTRIBUTING.md).
+> - Si quieres aportar dinero, puedes enviar XMR a la siguiente dirección:
+> 
+> ``89JLDaY3JiBAXZuhwxL4yR5i6fatCuq9q3VWaqvTxHxg6pPfd96L4ziTZRPDkg6gSUNcZqtULhqiDYkHMsTP2RLK5CEkLa6``
 
-* Si quieres aportar ediciones e información, revisa [CONTRIBUTING.MD](CONTRIBUTING.md).
-* Si quieres aportar dinero, puedes enviar XMR a la siguiente dirección:
-
-``89JLDaY3JiBAXZuhwxL4yR5i6fatCuq9q3VWaqvTxHxg6pPfd96L4ziTZRPDkg6gSUNcZqtULhqiDYkHMsTP2RLK5CEkLa6``
-
-> Recibimos dinero libre, puedes conseguir XMR en **[#lacuevademilton](https://discord.criptonautas.co)** o en casi cualquier exchange del mundo.
+> Puedes conseguir XMR (Monero) en **[#lacuevademilton](https://discord.criptonautas.co)** o en casi cualquier exchange del mundo.
 
 ---
 
 === [WIP - Work In Progress]
 
-Nuestra experiencia está en desarrollo constante y actualmente en estado beta.
+Nuestra experiencia está en desarrollo constante.
 
-Eso significa que algunas cosas no funcionarán como deberían, pero te guiaremos siempre desde nuestro soporte (lo cubrimos directamente desde la comunidad 🧡).
+Te guiaremos siempre desde nuestro soporte (siempre desde la comunidad 🧡).
 
 ==- Lista de pendientes
 
