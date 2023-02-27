@@ -1,6 +1,6 @@
 input: ./
 output: .retype
-url: https://portal.criptonautas.co
+url: https://reseteo.criptonautas.co
 branding:
   title: Es un Portal Criptonauta
   logo: logot-01.png
@@ -10,7 +10,7 @@ branding:
       background: "#111111"
       text: "#ffffff"
 edit:
-  repo: https://github.com/somos-criptonautas/portal-criptonauta-uno
+  repo: https://github.com/somos-criptonautas/reseteo-criptonauta-uno
   label: Editar en Github
 editor:
   enabled: true

@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: Criptonautas Community Support
-    url: https://github.com/somos-criptonautas/trading/discussions
+    url: https://github.com/orgs/somos-criptonautas/discussions
     about: Please ask and answer questions here.
-  - name: Criptonautas Dev E-Mail
+  - name: Criptonautas E-Mail
     url: mailto:dev@criptonautas.co
     about: Please report issues or security vulnerabilities here (!)
